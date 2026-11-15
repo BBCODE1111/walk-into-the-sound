@@ -62136,6 +62136,627 @@
     "cityStories": {
       "rows": [
         {
+          "id": "pink-nate-ruess-just-give-me-a-reason-ipad",
+          "city": "鹽湖城",
+          "cityEn": "Salt Lake City",
+          "artist": "P!nk feat. Nate Ruess",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "鹽湖城的一天休假，地板上的 iPad",
+          "work": "Just Give Me a Reason",
+          "year": "2012",
+          "accent": "sage",
+          "title": "P!nk〈Just Give Me a Reason〉：只有一天的寫歌行程，和一個本來不想合唱的人",
+          "deck": "fun. 巡演中的一天休假，Jeff Bhasker 彈琴、Nate Ruess 開口唱、P!nk 在 iPad 上打字。這首歌本來沒打算對唱，她花了好幾個月才說服 Ruess。",
+          "publishedAt": "2026-11-15",
+          "reviewedAt": "2026-11-15",
+          "readingMinutes": 3,
+          "people": [
+            "P!nk",
+            "Nate Ruess",
+            "Jeff Bhasker",
+            "Gotye",
+            "Carey Hart",
+            "Burt Bacharach"
+          ],
+          "topics": [
+            "經典歌曲",
+            "製作幕後"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "鹽湖城",
+              "aliases": [
+                "Salt Lake City"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "ipad",
+              "title": "地板上的 iPad",
+              "body": "P!nk 坐在地板上，iPad 放在面前。Jeff Bhasker 在鋼琴上彈了幾個和弦，Nate Ruess 跟著唱起來，她就開始打字。[American Songwriter](https://americansongwriter.com/songwriters-behind-grammy-nominated-songs-year-sound/)Bhasker 記得，那天是在 Salt Lake City，Ruess 的樂團 fun. 正在巡演，那是他難得的休假日。三個人約好，只是想看看會發生什麼事。[American Songwriter](https://americansongwriter.com/songwriter-u-jeff-bhasker-musics-go-to-guy/)\n\nBhasker 對 American Songwriter 說，P!nk 一直想和他跟 Ruess 合作，可是他們在巡演，只有一天。「那天很緊張，可是我得當那個有信心的人，說：好，我們可以，我們會替她寫一首熱門歌。」[American Songwriter](https://americansongwriter.com/songwriters-behind-grammy-nominated-songs-year-sound/)P!nk 一開始先丟出一些句子和旋律，Ruess 唱了幾句，突然間，整首歌幾乎都在了，剩下的只要把空格填滿。[American Songwriter](https://americansongwriter.com/songwriters-behind-grammy-nominated-songs-year-sound/)他後來對 Billboard 說，這首歌是當天「幾乎用即興的方式」敲出來的，「異常地集體、異常地即興」。[Billboard](https://www.billboard.com/music/rb-hip-hop/jeff-bhasker-on-yeezus-collaborating-with-pink-looking-to-evolve-5645536/)\n\n他和 Ruess 早就合作過：fun. 的〈We Are Young〉就是兩人一起寫的。Bhasker 說，跟 Ruess 寫歌很容易，「我們做的就是對彼此做出反應」。[American Songwriter](https://americansongwriter.com/songwriter-u-jeff-bhasker-musics-go-to-guy/)"
+            },
+            {
+              "id": "duet",
+              "title": "本來沒打算對唱",
+              "body": "P!nk 後來對 Billboard 說，這首歌原本從來就不是要合唱的。他們第一天寫了第一段主歌，副歌也差不多了；她回家看著歌詞想了又想，覺得「這首歌是一對戀人之間的對話」。她回去寫了第二段主歌，接著開口邀 Ruess 一起唱。[Digital Spy（引述 Billboard）](https://www.digitalspy.com/music/a536488/pink-i-tricked-nate-ruess-into-just-give-me-a-reason-duet/)\n\nRuess 不確定自己想不想和流行巨星合作，他的唱片公司是獨立廠牌，也有疑慮。他對她說，不知道團員會怎麼想。P!nk 回他：「我懂，換作是我也不想跟流行歌手合唱。可是你不能否認這是一段對話，你就先錄個參考人聲，我再找 Gotye 來唱。」她說她知道這句話很刺。[Digital Spy（引述 Billboard）](https://www.digitalspy.com/music/a536488/pink-i-tricked-nate-ruess-into-just-give-me-a-reason-duet/)Ruess 錄了，她一聽就知道，不管他怎麼說，沒有人能唱得比他好。前後花了好幾個月，才把他說服。[Digital Spy（引述 Billboard）](https://www.digitalspy.com/music/a536488/pink-i-tricked-nate-ruess-into-just-give-me-a-reason-duet/)\n\nBhasker 的說法也一樣：兩人當初是把對唱錄下來，打算之後找別人跟她唱；Ruess 因為自己是 fun. 的人，一開始不想上這首歌，「可是他唱得太好了，誰能超越那個版本？」[American Songwriter](https://americansongwriter.com/songwriters-behind-grammy-nominated-songs-year-sound/)\n\nRuess 自己在 2015 年說，他通常不替別人寫歌，「是她扭著我的手臂要我一起唱」。他本來只想把歌寫完就走，事後回頭看，覺得那是很棒的事：他第一次看到一首比較流行的歌能怎麼打動人，去餐廳吃飯時，都會有人走過來說這首歌對他們的意義。[Digital Spy](https://www.digitalspy.com/music/a652116/nate-ruess-interview-pink-twisted-my-arm-for-just-give-me-a-reason-duet/)"
+            },
+            {
+              "id": "hart",
+              "title": "「那就是我們的生活」",
+              "body": "這首歌收在 P!nk 的專輯《The Truth About Love》。[American Songwriter](https://americansongwriter.com/songwriter-u-jeff-bhasker-musics-go-to-guy/)2013 年 12 月，這首歌已入圍葛萊美年度歌曲。P!nk 在紐約站在丈夫、摩托車越野選手 Carey Hart 身邊受訪時說：「這是一對戀人在為感情奮戰的對話，那就是我們的生活。」她說丈夫也該分一點功勞，「每天結束時，我爬到他腿上抱怨，所以如果有人要為這件事頒獎給我，應該頒給他。」[AP（Oakland Press 轉載）](https://www.theoaklandpress.com/2013/12/11/pink-give-husband-some-credit-for-songs-success/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "Bhasker 自己點出這首歌難在哪裡：旋律很複雜，整段副歌沒有一句重複的勾子，字很多、很繞，卻成立，「就像一首經典的 Burt Bacharach 歌」。[American Songwriter](https://americansongwriter.com/songwriters-behind-grammy-nominated-songs-year-sound/)\n\n我們認為，正因為副歌不靠重複一句口號，它才像兩個人真的在吵架。一句接一句，沒有人停下來喊標語，聽起來像是話還沒說完，對方就接上來了。P!nk 說它是一段對話，所以她堅持要另一個聲音。[Digital Spy（引述 Billboard）](https://www.digitalspy.com/music/a536488/pink-i-tricked-nate-ruess-into-just-give-me-a-reason-duet/)兩個聲音輪流頂上來，這首歌才從一首情歌，變成一場兩個人都捨不得結束的爭吵。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2012",
+              "event": "〈Just Give Me a Reason〉收錄於 P!nk 專輯《The Truth About Love》。"
+            },
+            {
+              "date": "2013-04-27",
+              "event": "登上 Billboard Hot 100 第 1 名。"
+            },
+            {
+              "date": "2013-12",
+              "event": "入圍葛萊美年度歌曲。"
+            }
+          ],
+          "places": [
+            {
+              "name": "鹽湖城（寫歌）",
+              "detail": "American Songwriter 寫，Bhasker 和 P!nk、Nate Ruess 是在 Salt Lake City 寫出這首歌，當天是 Ruess 隨 fun. 巡演的休假日。確切的房間或錄音室未公開，只標到城市。沒有授權照片，改附地圖連結。",
+              "query": "Salt Lake City, Utah",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Salt+Lake+City%2C+Utah",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Just Give Me a Reason",
+            "artist": "P!nk feat. Nate Ruess",
+            "note": "聽副歌裡沒有重複的勾子，兩個人一句接一句。"
+          },
+          "sources": [
+            {
+              "title": "American Songwriter｜Jeff Bhasker: Music’s Go-To Guy（2013-07-10）",
+              "url": "https://americansongwriter.com/songwriter-u-jeff-bhasker-musics-go-to-guy/"
+            },
+            {
+              "title": "American Songwriter｜The Songwriters Behind The Grammy-Nominated Songs Of The Year Sound Off（2014-01-27）",
+              "url": "https://americansongwriter.com/songwriters-behind-grammy-nominated-songs-year-sound/"
+            },
+            {
+              "title": "Billboard｜Jeff Bhasker On ‘Yeezus,’ Collaborating With P!nk & Looking ‘To Evolve My Sound’（2013-08-09）",
+              "url": "https://www.billboard.com/music/rb-hip-hop/jeff-bhasker-on-yeezus-collaborating-with-pink-looking-to-evolve-5645536/"
+            },
+            {
+              "title": "Digital Spy｜Pink: ‘I tricked Nate Ruess into Just Give Me A Reason duet’（2013-12-06，引述 P!nk 對 Billboard 的訪問）",
+              "url": "https://www.digitalspy.com/music/a536488/pink-i-tricked-nate-ruess-into-just-give-me-a-reason-duet/"
+            },
+            {
+              "title": "Digital Spy｜Nate Ruess interview: ‘Pink twisted my arm for Just Give Me A Reason duet’（2015-06-10）",
+              "url": "https://www.digitalspy.com/music/a652116/nate-ruess-interview-pink-twisted-my-arm-for-just-give-me-a-reason-duet/"
+            },
+            {
+              "title": "The Oakland Press（AP）｜Pink: Give husband some credit for song’s success（2013-12-11）",
+              "url": "https://www.theoaklandpress.com/2013/12/11/pink-give-husband-some-credit-for-songs-success/"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "歌曲裡的人",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-15:pink-nate-ruess-just-give-me-a-reason-ipad"
+        },
+        {
+          "id": "ray-parker-jr-ghostbusters-razor-blade",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Ray Parker Jr.",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "只要 20 秒的圖書館配樂，和唱不出來的片名",
+          "work": "Ghostbusters",
+          "year": "1984",
+          "accent": "sage",
+          "title": "Ray Parker Jr.〈Ghostbusters〉：片廠只要 20 秒，他唱不出片名",
+          "deck": "1984 年，電影公司只要 20 秒的圖書館配樂，還規定一定要有「Ghostbusters」這個字。Ray Parker Jr. 怎麼唱都難聽，最後把它交給一群高中生喊。",
+          "publishedAt": "2026-11-15",
+          "reviewedAt": "2026-11-15",
+          "readingMinutes": 3,
+          "people": [
+            "Ray Parker Jr.",
+            "Gary LeMel",
+            "Ivan Reitman",
+            "Steve Hallquist",
+            "Martin Page",
+            "Brian Fairweather",
+            "Dorothy Ashby",
+            "Clive Davis",
+            "Dan Aykroyd",
+            "Bill Murray",
+            "New Edition"
+          ],
+          "topics": [
+            "經典歌曲",
+            "電影與影集"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles",
+                "L.A."
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "call",
+              "title": "只要 20 秒",
+              "body": "1984 年 4 月，Ray Parker Jr. 人在洛杉磯，正在替 New Edition 做〈Mr. Telephone Man〉。電話響了，是哥倫比亞電影公司的 Gary LeMel。「你既然在城裡，就多待兩天，幫《魔鬼剋星》做點東西。我們只需要 20 秒，用在一場圖書館的戲。交出來我們不喜歡，錢你照拿。」唯一的條件：歌裡一定要有「Ghostbusters」這個字。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)\n\nMusicRadar 記下的版本是，片廠已經找了一年都找不到人寫主題曲，酬勞是 5 萬美元，期限三天。Parker 的第一個反應是：「這種東西我一竅不通！而且我怕鬼！」[MusicRadar](https://www.musicradar.com/news/ray-parker-jr-shares-the-story-behind-the-ghostbusters-theme-song)兩天還是三天，兩次訪談說法不同。電影那時已經拍完，他們只是想在圖書館那場戲配點音樂。[/Film](https://www.slashfilm.com/576574/who-you-gonna-call-ray-parker-jr-interview/)"
+            },
+            {
+              "id": "buttons",
+              "title": "叫出來的第一個音色",
+              "body": "時間太少，沒空挑。Linn 鼓機剛上市，他叫出第一個鼓聲；接上 Roland JP-6，也用第一個貝斯音色。LeMel 要的是酒吧樂團的律動，他就照著彈，大概五個小時，音樂就做完了：一段主歌、一段副歌，約 1 分 15 秒，剛好夠導演 Ivan Reitman 聽懂他在做什麼。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)吉他是他那把 Yamaha，接一台 Fender Princeton Reverb 音箱，前面踩一顆 Ibanez Tube Screamer。[MusicRadar](https://www.musicradar.com/news/ray-parker-jr-shares-the-story-behind-the-ghostbusters-theme-song)\n\n接下來一天半，他卡在同一件事：「Ghostbusters」這個字，不管用唱的還是用喊的，從他嘴裡出來都很難聽。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)\n\n交件前一晚，電視上出現一支廣告，畫面裡的昆蟲好像背著捉鬼背包，旁白問：「遇到麻煩，你要找誰？」他想，這不就是電影嗎？於是用底特律的說法問「Who you gonna call?」，片名自己不唱，交給一群孩子喊。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)"
+            },
+            {
+              "id": "kids",
+              "title": "早上七點的高中生",
+              "body": "他認識一個高中女生，請她早上 7 點帶同學來錄音室，趕在 8 點上課前錄。一群 17 歲的孩子從沒進過錄音室，興奮得不得了，扯開喉嚨大喊「GHOSTBUSTERS!」，十分鐘就收工。他說，這可能就是那份魔力的來源。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)\n\n孩子走了，送帶子的快遞已經在大廳等，歌詞卻還沒寫。Parker 沒戴耳機，當場把主歌編出來，錄完就把帶子交出去，心想只要用得上那場戲就好。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)\n\n隔天半夜 3 點，Reitman 打電話來，說他愛死了，已經把卡帶上的音樂放進 35 釐米的電影聲軌，接著問：能不能再長一點？能不能做成唱片？MV 我來拍。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)Parker 說，大家都覺得有點瘋，只有 Reitman 認定這會紅，連他自己都不信；原本當作和聲草稿的段落，Reitman 也不讓他重唱，說就喜歡他那樣唱，連俚語都要留著，所以最後用的就是 demo。[Variety](https://variety.com/2022/film/news/ivan-reitman-ghostbusters-ray-parker-jr-1235181578/)"
+            },
+            {
+              "id": "razor",
+              "title": "刀片剪出來的四分鐘",
+              "body": "可是手上只有 1 分 15 秒。他和長年合作的錄音師 Steve Hallquist 租了第二台 24 軌機，把同一段音樂重錄四、五次，再由 Parker 親手拿刀片把磁帶剪接起來，湊成四分鐘。「我保證，那張唱片上是同一段音樂一再重複。」[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)他也說，因為是兩台機器翻錄，整首歌其實降了一個世代的音質。[/Film](https://www.slashfilm.com/576574/who-you-gonna-call-ray-parker-jr-interview/)收尾的疊錄找了 Martin Page 和 Brian Fairweather，豎琴是 Dorothy Ashby。Parker 沒留下來：「我太睏了，得回家睡覺。」[MusicRadar](https://www.musicradar.com/news/ray-parker-jr-shares-the-story-behind-the-ghostbusters-theme-song)\n\n拍 MV 時，Clive Davis 對他說：「你整個歌唱生涯都在對女生唱歌，怎麼能對著鬼唱？」Parker 自己也怕對著鬼唱很怪，於是提議請《週六夜現場》那群人客串，Reitman 找來了 Dan Aykroyd 和 Bill Murray。[/Film](https://www.slashfilm.com/576574/who-you-gonna-call-ray-parker-jr-interview/)那是 Reitman 唯一執導過的 MV。[Variety](https://variety.com/2022/film/news/ivan-reitman-ghostbusters-ray-parker-jr-1235181578/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為〈Ghostbusters〉好聽的關鍵，正是 Parker 唱不出來的那個字。他問「Who you gonna call?」，答案交給別人喊，一問一答把歌變成遊戲，聽的人第一次就能跟著喊。叫出來的第一個鼓聲和貝斯音色、反覆剪接的同一段音樂，讓整首歌只剩一個律動和一句問答，沒有多餘的東西搶走那一聲「GHOSTBUSTERS!」。[SongwriterUniverse](https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1984-04",
+              "event": "Gary LeMel 打電話給在洛杉磯的 Ray Parker Jr.，請他為《魔鬼剋星》圖書館那場戲寫音樂。"
+            },
+            {
+              "date": "1984",
+              "event": "Ivan Reitman 要求擴寫成唱片並親自執導 MV。"
+            },
+            {
+              "date": "1984-08-11",
+              "event": "〈Ghostbusters〉登上 Billboard Hot 100 第 1 名。"
+            }
+          ],
+          "places": [
+            {
+              "name": "洛杉磯（寫歌與錄音）",
+              "detail": "Parker 對 SongwriterUniverse 說，LeMel 4 月打來時他人在洛杉磯，歌在他的錄音室完成。錄音室名稱與地址來源沒有寫，只標到城市。沒有授權照片，改附地圖連結。",
+              "query": "Los Angeles, California",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+California",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Ghostbusters",
+            "artist": "Ray Parker Jr.",
+            "note": "聽他問「Who you gonna call?」，片名永遠是別人喊的。"
+          },
+          "sources": [
+            {
+              "title": "SongwriterUniverse｜Dale Kawashima：Ray Parker Jr. interview（2016-12-18）",
+              "url": "https://www.songwriteruniverse.com/ray-parker-jr-interview-2016/"
+            },
+            {
+              "title": "MusicRadar｜Ray Parker Jr shares the story of how he had just three days to write the Ghostbusters theme（2024-02-03）",
+              "url": "https://www.musicradar.com/news/ray-parker-jr-shares-the-story-behind-the-ghostbusters-theme-song"
+            },
+            {
+              "title": "Variety｜Ivan Reitman Remembered by ‘Ghostbusters’ Singer Ray Parker Jr.（2022-02-14）",
+              "url": "https://variety.com/2022/film/news/ivan-reitman-ghostbusters-ray-parker-jr-1235181578/"
+            },
+            {
+              "title": "/Film｜Ray Parker Jr. On The Legacy Of ‘Ghostbusters’…［Interview］（2020-09-18）",
+              "url": "https://www.slashfilm.com/576574/who-you-gonna-call-ray-parker-jr-interview/"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "電影與影集",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-15:ray-parker-jr-ghostbusters-razor-blade"
+        },
+        {
+          "id": "sombr-my-body-isnt-ready-williamsburg-mirror",
+          "city": "紐約",
+          "cityEn": "New York",
+          "artist": "Sombr",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "布魯克林小場地裡的瘦長身影，和一面不讓他靠近的鏡子",
+          "work": "My Body Isn't Ready",
+          "year": "2026",
+          "accent": "coral",
+          "title": "Sombr〈My Body Isn't Ready〉：網路笑他太瘦，他把早就起頭的歌寫完",
+          "deck": "布魯克林一場臨時公布的演出前一晚，Sombr 發了一首寫自己身材焦慮的歌。歌是早就起頭的，網路上的嘲笑讓他決定寫完。",
+          "publishedAt": "2026-11-15",
+          "reviewedAt": "2026-11-15",
+          "readingMinutes": 3,
+          "people": [
+            "Sombr",
+            "Tony Berg",
+            "Inde Navarrette",
+            "Josh Heuston"
+          ],
+          "topics": [
+            "新歌觀察",
+            "歌曲裡的人"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York",
+                "Brooklyn"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Music Hall of Williamsburg",
+              "aliases": [
+                "布魯克林"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "williamsburg",
+              "title": "布魯克林的小場地，前一晚剛發的歌",
+              "body": "頻閃燈打在觀眾身上，Sombr 拖著麥克風架走過舞台，一邊甩頭一邊咧嘴笑。他穿黑西裝、亮片背心和豹紋高跟鞋，眼睛塗成黑色。布魯克林的 Music Hall of Williamsburg 只在開演前幾小時才發通知，報名連結用簡訊傳給最死忠的紐約歌迷。他在車上對 Variety 記者說，他們甚至不能正式宣布這場演出，因為警方擔心會出事。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)\n\n唱到一半，他跳下舞台走到護欄邊，整個人被伸長的手淹沒。台下一百支手機的螢幕上，都是他六呎半高的瘦長身形。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)就在前一晚，他剛發了新歌〈My Body Isn't Ready〉。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)"
+            },
+            {
+              "id": "comments",
+              "title": "留言區裡的「Slender Man」",
+              "body": "Sombr 本名 Shane Boose，紐約長大。[Variety](https://variety.com/2026/music/news/my-body-isnt-ready-video-sombr-inde-navarrette-1236790639/)[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)成名之後，他也得面對網路上「怪」的那一面。Variety 記者寫，對他身材的評論從假裝關心到直接霸凌都有；一位 TikTok 使用者在網路上痛批他的現場演出，叫他「Slender Man」，那是網路上一個四肢細長的恐怖角色。Boose 也拍了影片回嘴，說她帶頭開了一班「身材羞辱的仇恨列車」。可是列車已經開出去了。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)\n\n這首歌他其實早就起了頭。ELLE 寫，〈My Body Isn't Ready〉是他寫〈Undressed〉那段時間開始的，後來網路上的這些聲音，讓他決定把它寫完發出來。「女生受的最嚴重，所以我有什麼好抱怨的？」他說，「可是這是真的。大家真的會羞辱我的身材，笑我太瘦，所以我現在都在上健身房。」[ELLE](https://www.elle.com/culture/music/a73572941/sombr-you-are-the-reason-tour-new-album-interview-2026/)\n\n詞曲署名只有他自己，製作是 Sombr 和他常合作的 Tony Berg。[維基百科](https://en.wikipedia.org/wiki/My_Body_Isn%27t_Ready)Boose 剛搬到洛杉磯時，唱片公司就把他介紹給 Berg。他說 Berg 讓他知道自己其實什麼都不懂，還有很多功課要做。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)"
+            },
+            {
+              "id": "mirror",
+              "title": "鏡子不讓我",
+              "body": "歌在 2026 年 6 月 25 日跟 MV 一起發行。[Variety](https://variety.com/2026/music/news/my-body-isnt-ready-video-sombr-inde-navarrette-1236790639/)副歌只有兩句：「I like you, but my body isn't ready / I want you, but the mirror won't let me.」想靠近一個人，身體和鏡子卻先說不。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)\n\nMV 裡，他在派對上看到一個女生，演員 Inde Navarrette，接著被一群霸凌的人趕出去，同行的還有演員 Josh Heuston，和一個變紙牌魔術的人。之後他一直想躲起來，甚至把自己用紙漿糊起來，被人當成假人扛著走，直到 Navarrette 看穿他，幫他把殼敲開。[Variety](https://variety.com/2026/music/news/my-body-isnt-ready-video-sombr-inde-navarrette-1236790639/)\n\n另一句歌詞問：「她喜歡我，是不是只因為我做的這些事？」他對 Variety 說，這句他一年前寫不出來。成名之後，同齡的人大多認得他，他更不敢約會，怕對方是為了錯的理由喜歡他。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)\n\n訪談那天後台送來晚餐，雞柳條、餃子、義大利麵。他說自己從來不知道要吃什麼，常常吃了想吐，演出前大多是勉強自己吃，好有力氣撐完全場。說完他笑了，把這件事和新歌連在一起：「這就是〈My Body Isn't Ready〉，你懂嗎？所以我的身體才會長這樣。」[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "歌發行不到一天，他就看到一則留言寫：「好高興我最喜歡的歌手，跟我經歷一樣的事。」他說這讓他想哭。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)他對 ELLE 說，網路上看到的都是身材完美的人，他想替那個「不一定喜歡自己長相的孩子」寫一首歌，讓那個孩子知道 Sombr 也有同樣的感覺。[ELLE](https://www.elle.com/culture/music/a73572941/sombr-you-are-the-reason-tour-new-album-interview-2026/)\n\n我們認為這首歌好聽，在於副歌把一件很難開口的事，縮成兩句很日常的話。「I like you」「I want you」是情歌最常見的開頭，後半句卻轉向身體和鏡子，聽的人先跟著唱，唱完才發現自己唱的是什麼。Variety 形容它是一首憂鬱的身材焦慮之歌，我們覺得它的力道就在這裡：沒有喊口號，只是誠實地承認自己還沒準備好。[Variety](https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-06-25",
+              "event": "〈My Body Isn’t Ready〉與 MV 同時發行。"
+            },
+            {
+              "date": "2026-06",
+              "event": "發行隔天，Sombr 在布魯克林 Music Hall of Williamsburg 臨時開唱（Variety 隨行）。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Music Hall of Williamsburg（演出）",
+              "detail": "Variety 隨行報導：〈My Body Isn’t Ready〉發行隔天，Sombr 在布魯克林這個小場地開了一場只在幾小時前通知的演出。這首歌在哪裡寫成，來源沒有寫，這裡只標演出場地。沒有授權照片，改附地圖連結。",
+              "query": "Music Hall of Williamsburg, Brooklyn",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Music+Hall+of+Williamsburg%2C+Brooklyn",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "My Body Isn't Ready",
+            "artist": "Sombr",
+            "note": "聽副歌兩句的前半和後半：前面像情歌，後面轉向身體和鏡子。"
+          },
+          "sources": [
+            {
+              "title": "Variety｜Ethan Shanfeld：It’s Sombr Summer: The Pop Phenom on Impressing Taylor Swift, Singing About Body Image…（2026-08-05）",
+              "url": "https://variety.com/2026/music/features/sombr-body-image-pop-stardom-interview-1236826139/"
+            },
+            {
+              "title": "Variety｜‘My Body Isn’t Ready’ Video: Sombr Falls in Love With Inde Navarrette（2026-06-25）",
+              "url": "https://variety.com/2026/music/news/my-body-isnt-ready-video-sombr-inde-navarrette-1236790639/"
+            },
+            {
+              "title": "ELLE｜Samuel Maude：Sombr on Fame, His World Tour, Taylor Swift, and New Music（2026-09-22）",
+              "url": "https://www.elle.com/culture/music/a73572941/sombr-you-are-the-reason-tour-new-album-interview-2026/"
+            },
+            {
+              "title": "Wikipedia｜My Body Isn’t Ready（詞曲與製作署名）",
+              "url": "https://en.wikipedia.org/wiki/My_Body_Isn%27t_Ready"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "歌曲裡的人",
+            "MV 與地點"
+          ],
+          "dailyKey": "2026-11-15:sombr-my-body-isnt-ready-williamsburg-mirror"
+        },
+        {
+          "id": "stella-lefty-boston-nashville-piano",
+          "city": "納許維爾",
+          "cityEn": "Nashville",
+          "artist": "Stella Lefty",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "Nashville 寫歌室裡，等約會對象來接的一小時",
+          "work": "Boston",
+          "year": "2026",
+          "accent": "sky",
+          "title": "Stella Lefty〈Boston〉：歌名來自一台鋼琴，她寫完一個月才發現",
+          "deck": "Stella Lefty 在 Nashville 等約會對象來接時，坐在鋼琴前寫出副歌。他不是波士頓人，歌名其實印在那台鋼琴上。",
+          "publishedAt": "2026-11-15",
+          "reviewedAt": "2026-11-15",
+          "readingMinutes": 3,
+          "people": [
+            "Stella Lefty",
+            "Vincent Mason",
+            "Grace Enger",
+            "Jacob Kasher Hindlin",
+            "Joe Reeves",
+            "Noah Kahan",
+            "Cam Whitcomb"
+          ],
+          "topics": [
+            "新歌觀察",
+            "歌曲裡的人"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "納許維爾",
+              "aliases": [
+                "Nashville"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "波士頓",
+              "aliases": [
+                "Boston"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "piano",
+              "title": "等他來接的那一個小時",
+              "body": "Nashville 的寫歌室裡，其他人還沒到。Stella Lefty 坐在鋼琴前等。她那時正在跟一個男生約會，暗戀得很厲害，再過一個小時，他就要來接她出去。她想，有沒有什麼東西浮上來？結果她真的寫出了一段副歌，拍下來貼上網，然後上車走了，沒多想。「我不知道這到底好不好。」[SongwriterUniverse](https://www.songwriteruniverse.com/stella-lefty-boston-ep-songs/)\n\n那個男生是鄉村歌手 Vincent Mason。[Taste of Country](https://tasteofcountry.com/stella-lefty-boston-who-is-it-about-interview/)這首歌後來叫〈Boston〉。可是 Mason 不是波士頓人，他來自 Atlanta 郊區。Lefty 對 Taste of Country 說，她寫歌時坐的是一台 Boston 鋼琴，可是要過了大約一個月，她才發現琴身上印著 Boston；寫完兩個星期後，她要跟 Cam Whitcomb 巡演，第一批站就有波士頓，「所以我想它就一直在我腦子裡」。[Taste of Country](https://tasteofcountry.com/stella-lefty-boston-who-is-it-about-interview/)副歌裡兩人坐在回波士頓的火車上，進展快得不像話。[Songfacts](https://www.songfacts.com/articles/the-meaning-behind-boston-by-stella-lefty-and-how-it-borrows-from-noah-kahans-stick-season/)"
+            },
+            {
+              "id": "tiktok",
+              "title": "貼出去的半首歌",
+              "body": "那段影片的反應好到讓她困惑。「我老實說還不太喜歡這首歌。」她對 Rolling Stone 說，「後來我想，好吧，看來我得把它寫完。」[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)她在一週後完成了整首歌。[SongwriterUniverse](https://www.songwriteruniverse.com/stella-lefty-boston-ep-songs/)發行前，她又貼了好幾支 TikTok，同樣的笑容，同樣那件連帽上衣。嫌重複的人不少，聽不膩的人更多，連鄉村電台都開始排播。[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)\n\n歌在 2026 年 3 月 27 日發行。[維基百科](https://en.wikipedia.org/wiki/Boston_(Stella_Lefty_song))詞曲署名是 Lefty、她的好友兼搭檔 Grace Enger、Jacob Kasher Hindlin 和 Joe Reeves；Noah Kahan 也掛名，因為副歌借用了他〈Stick Season〉的旋律。[Songfacts](https://www.songfacts.com/articles/the-meaning-behind-boston-by-stella-lefty-and-how-it-borrows-from-noah-kahans-stick-season/)Enger 是她最好的朋友，也是長期的創作夥伴。[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)Lefty 在 TikTok 上翻唱過〈Stick Season〉。[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)Hindlin 就是製作人 J Kash，當初是他主動傳訊息給她，問她能不能來田納西見面；她爸媽嚇壞了，問她「這人是誰？你會不會被綁架？」結果兩人一拍即合。[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)"
+            },
+            {
+              "id": "nice",
+              "title": "「你對我好，我喜歡」",
+              "body": "副歌最後一句「I like it when you're nice to me」，在留言區引來不少爭論：對人好不是最基本的嗎？Lefty 對 Taste of Country 說，她一直被那種若即若離的關係吸引，「別人對你不好的時候，就是有種東西會抓住你，那其實很糟。」認識 Mason 之後，她第一次想在公開場合放閃。「有人真的對你好，那種感覺很不一樣，我不習慣。」她也承認，大家說這是最低標準，她覺得那段討論很有趣，「但這種事不是每次都會發生。」[Taste of Country](https://tasteofcountry.com/stella-lefty-boston-lyrics-meaning/)\n\nLefty 本名 Stella Lefkofsky，在芝加哥郊區長大，家裡常放鄉村音樂，爸爸是超級鄉村迷。她自稱「中西部芝加哥女孩」，一直擔心自己不是南方人，在 Music Row 會格格不入。[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)Rolling Stone 記者跟她跑 CMA Fest 那天，她在 Nashville 的戶外舞台演出，人多到主辦單位發推播通知已經額滿；接著她趕去另一個舞台，和 Mason 合唱兩人的對唱歌〈Something to Lose〉。[Rolling Stone](https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "Songfacts 指出，這首歌一開頭就是副歌，先把結局唱出來，後面再交代兩人怎麼走到這一步；開頭那段旋律，熟悉〈Stick Season〉的人會覺得耳熟。[Songfacts](https://www.songfacts.com/articles/the-meaning-behind-boston-by-stella-lefty-and-how-it-borrows-from-noah-kahans-stick-season/)\n\n我們認為〈Boston〉抓人的地方，在於它把最口語的一句話放在副歌結尾。前面「This the part where I'd run」先承認自己習慣逃跑，接著用一句幾乎像小孩說話的「你對我好，我喜歡」收住。旋律先讓人覺得熟，歌詞再丟出一句大家想爭論的話，兩件事加在一起，很難不被它黏住。一個印在鋼琴上的地名，最後成了整首歌的標題。[Taste of Country](https://tasteofcountry.com/stella-lefty-boston-who-is-it-about-interview/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026",
+              "event": "Lefty 在 Nashville 寫歌之旅中寫出副歌並貼上網，一週後寫完。"
+            },
+            {
+              "date": "2026-03-27",
+              "event": "〈Boston〉發行。"
+            },
+            {
+              "date": "2026-06",
+              "event": "Lefty 在 Nashville CMA Fest 演出，與 Vincent Mason 合唱〈Something to Lose〉。"
+            }
+          ],
+          "places": [
+            {
+              "name": "納許維爾（寫歌）",
+              "detail": "Lefty 在 Nashville 的寫歌行程中，等其他作者到場時坐在鋼琴前寫出副歌。寫歌室名稱未公開，只標到城市。沒有授權照片，改附地圖連結。",
+              "query": "Nashville, Tennessee",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Nashville%2C+Tennessee",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "波士頓（歌名與巡演站）",
+              "detail": "歌名來自那台 Boston 鋼琴，加上幾週後她跟 Cam Whitcomb 巡演時第一批站就有波士頓。歌裡的人並不是波士頓人。沒有授權照片，改附地圖連結。",
+              "query": "Boston, Massachusetts",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Boston%2C+Massachusetts",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Boston",
+            "artist": "Stella Lefty",
+            "note": "一開頭就是副歌；聽最後那句「I like it when you’re nice to me」怎麼收住。"
+          },
+          "sources": [
+            {
+              "title": "SongwriterUniverse｜Dale Kawashima：Stella Lefty Talks About Her Breakthrough Country & Pop Hit “Boston,” And Her New EP, Is This Heaven?（2026-05-15）",
+              "url": "https://www.songwriteruniverse.com/stella-lefty-boston-ep-songs/"
+            },
+            {
+              "title": "Taste of Country｜Evan Paul：Stella Lefty Confirms Who ‘Boston’ Is Really About（2026-07-28）",
+              "url": "https://tasteofcountry.com/stella-lefty-boston-who-is-it-about-interview/"
+            },
+            {
+              "title": "Taste of Country｜Why Stella Lefty Wrote ‘I Like It When You’re Nice to Me’ Lyrics（2026-07-29）",
+              "url": "https://tasteofcountry.com/stella-lefty-boston-lyrics-meaning/"
+            },
+            {
+              "title": "Rolling Stone｜Stella Lefty Was Covering Noah Kahan on TikTok. Now She Has One of the Year’s Biggest Songs（2026-06-29）",
+              "url": "https://www.rollingstone.com/music/music-features/stella-lefty-boston-history-father-tiktok-1235585127/"
+            },
+            {
+              "title": "Songfacts｜The Meaning Behind “Boston” by Stella Lefty and How It Borrows From Noah Kahan’s “Stick Season”（2026-07-01）",
+              "url": "https://www.songfacts.com/articles/the-meaning-behind-boston-by-stella-lefty-and-how-it-borrows-from-noah-kahans-stick-season/"
+            },
+            {
+              "title": "Wikipedia｜Boston (Stella Lefty song)（發行日）",
+              "url": "https://en.wikipedia.org/wiki/Boston_(Stella_Lefty_song)"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-15:stella-lefty-boston-nashville-piano"
+        },
+        {
+          "id": "taylor-swift-patient-zero-phone-call",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Taylor Swift",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "朋友說，前男友的新女友打電話來問她",
+          "work": "Patient Zero",
+          "year": "2026",
+          "accent": "coral",
+          "title": "Taylor Swift〈Patient Zero〉：前男友的新女友打電話來，她只寫接電話的這一頭",
+          "deck": "朋友聚會上，有人說前男友的新女友來問她過去的經驗，所有人都說「我也遇過」。Taylor Swift 把它寫成一首只有一頭的電話歌。",
+          "publishedAt": "2026-11-15",
+          "reviewedAt": "2026-11-15",
+          "readingMinutes": 3,
+          "people": [
+            "Taylor Swift",
+            "Dakota Johnson",
+            "Colin Farrell",
+            "Emmanuel Lubezki",
+            "James Jannard",
+            "Cara Delevingne"
+          ],
+          "topics": [
+            "新歌觀察",
+            "MV 與地點"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles",
+                "Beverly Hills",
+                "比佛利山"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "friends",
+              "title": "朋友聚會上的一句話",
+              "body": "幾個朋友聚在一起，其中一人說起最近的事：她前男友的新女友主動聯絡她，想問她，當年跟這個男人在一起時，是不是也遇過自己現在遇到的那些事。[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)\n\nTaylor Swift 也在場。她後來對英國電台 Capital FM 說，大家一聽馬上接話：「我也遇過」，一個接一個講起自己接到這種聯絡的經驗。她想，如果這件事發生在我們每個人身上，這是一個很有意思的角度，看人性，也看感情。她想試試看能不能從接到這通電話的人來寫，而且只寫電話這一頭，那個已經經歷過的前任。[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)Swift 的發言人向 Billboard 證實，這段話是她本人對 Capital FM 說的。[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)\n\n這首歌就是〈Patient Zero〉。Swift 沒有說歌裡寫的是誰。[Capital FM](https://www.capitalfm.com/news/music/taylor-swift-patient-zero-lyrics-meaning/)"
+            },
+            {
+              "id": "call",
+              "title": "我一直在等你打來",
+              "body": "第一段主歌就是接起電話：「I've gotta be honest, I've been expecting your call / No, it's not a bad time at all.」她聽說他們之間出了點麻煩，但她的嘴巴封得很緊。[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)\n\n到了副歌，她先說這輪不到她來告訴別人該怎麼做，接著話鋒一轉：如果你想找個人聊聊，她或許知道他光環底下肩膀上那個魔鬼；「如果你受夠他了，我挺你，我是零號病人。」[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)Capital FM 的解讀是，「零號病人」在這裡指 Swift 是第一個嘗到這個前任壞習慣的人。[Capital FM](https://www.capitalfm.com/news/music/taylor-swift-patient-zero-lyrics-meaning/)\n\n歌在 2026 年 9 月 25 日發行，是《The Life of a Showgirl: The Encore》豪華版的第一支單曲，也是四首新錄的歌之一。[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)同時推出的另外三首是〈Cleveland!〉、〈Pink Clouding〉和〈Babylon〉。[NME](https://www.nme.com/news/music/watch-taylor-swifts-patient-zero-video-dakota-johnson-colin-farrell-3971018)"
+            },
+            {
+              "id": "house",
+              "title": "一棟水泥大宅裡的鬼",
+              "body": "兩天後，9 月 27 日，MV 在洛杉磯 Peacock Theater 舉行的 MTV 音樂錄影帶大獎上首映。Dakota Johnson 剛頒給 Swift 首屆藝人導演榮譽獎，接著播出這支由 Swift 自己執導、奧斯卡得主 Emmanuel Lubezki 掌鏡的片子。[NME](https://www.nme.com/news/music/watch-taylor-swifts-patient-zero-video-dakota-johnson-colin-farrell-3971018)\n\nJohnson 演 Colin Farrell 的新伴侶。Swift 一開始看起來像是他的前任，最後才揭曉她早就死了，是被 Farrell 的角色殺害的；她以鬼魂的身分回來，想警告 Johnson 別落得同樣下場。Swift 說，她想取材哥德式鬼故事、真實犯罪和心理驚悚片，片中那棟房子是「一段已經褪色、萎縮的關係有多冷」的隱喻。[NME](https://www.nme.com/news/music/watch-taylor-swifts-patient-zero-video-dakota-johnson-colin-farrell-3971018)\n\nEsquire UK 指出，拍攝用的是 Oakley 創辦人 James Jannard 位於比佛利山的粗獷主義豪宅，2014 年落成，坐落在當地最高處之一，入口圓形車道由 96 根清水混凝土柱圍成。[Esquire UK](https://www.esquire.com/uk/style/fashion/a73922272/taylor-swifts-patient-zero-music-video-house/)成片長 5 分 12 秒，Cara Delevingne 也有露面；Esquire UK 統計，Swift 自己的 59 支 MV 裡，有 18 支是她主導執導的。[Esquire UK](https://www.esquire.com/uk/style/fashion/a73922272/taylor-swifts-patient-zero-music-video-house/)\n\n首映後她發文說，能和 Lubezki 合作「像是夢裡的一段」，看他工作讓她學到很多；她也特別謝謝 Farrell 願意演反派：「跟他相處過，就更佩服他把壞人演得這麼好，他本人溫暖又善良。」[NME](https://www.nme.com/news/music/watch-taylor-swifts-patient-zero-video-dakota-johnson-colin-farrell-3971018)10 月 3 日，Swift 又放出幕後的加長版影片；Farrell 在片中形容自己的角色是個「自戀狂」和「心理變態」。[Billboard](https://www.billboard.com/music/music-news/taylor-swift-patient-zero-expanded-video-making-of-1236353805/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為〈Patient Zero〉最聰明的地方，是 Swift 自己說的那個限制：只寫電話這一頭。[Billboard](https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/)聽的人只聽得到前任的回答，打電話來的新女友說了什麼，全靠聽眾自己補。這讓每個人都能把自己的經驗放進去，就像那天聚會上，大家一個接一個說「我也遇過」。\n\nMV 又把「零號病人」往前推了一步：歌裡的前任只是過來人，片裡的前任已經是鬼。[NME](https://www.nme.com/news/music/watch-taylor-swifts-patient-zero-video-dakota-johnson-colin-farrell-3971018)歌詞說的是經驗，畫面說的是警告，兩者都從同一通電話出發。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-09-25",
+              "event": "〈Patient Zero〉隨《The Life of a Showgirl: The Encore》發行；Swift 對 Capital FM 說明創作緣起。"
+            },
+            {
+              "date": "2026-09-27",
+              "event": "MV 在洛杉磯 MTV 音樂錄影帶大獎首映。"
+            },
+            {
+              "date": "2026-10-03",
+              "event": "Swift 放出〈Patient Zero〉加長版幕後影片。"
+            }
+          ],
+          "places": [
+            {
+              "name": "比佛利山的粗獷主義豪宅（MV 拍攝）",
+              "detail": "Esquire UK 報導，MV 在 Oakley 創辦人 James Jannard 位於比佛利山的混凝土豪宅拍攝；這是私人住宅，不開放參觀，確切地址不列。洛杉磯 Peacock Theater 是 MV 首映地。沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Beverly Hills, California",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Beverly+Hills%2C+California",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Patient Zero",
+            "artist": "Taylor Swift",
+            "note": "注意整首歌只有接電話的這一頭在說話。"
+          },
+          "sources": [
+            {
+              "title": "Billboard｜Taylor Swift Reveals Inspiration Behind ‘Patient Zero’ Single（2026-09-25）",
+              "url": "https://www.billboard.com/music/pop/taylor-swift-inspiration-patient-zero-single-1236347468/"
+            },
+            {
+              "title": "Capital FM｜Taylor Swift Patient Zero lyrics meaning explained（2026）",
+              "url": "https://www.capitalfm.com/news/music/taylor-swift-patient-zero-lyrics-meaning/"
+            },
+            {
+              "title": "NME｜Max Pilley：Watch Taylor Swift’s star-studded new ‘Patient Zero’ video with Dakota Johnson and Colin Farrell（2026-09-28）",
+              "url": "https://www.nme.com/news/music/watch-taylor-swifts-patient-zero-video-dakota-johnson-colin-farrell-3971018"
+            },
+            {
+              "title": "Esquire UK｜Zak Maoui：The Surprising History of the Brutalist Mansion in Taylor Swift’s ‘Patient Zero’ Music Video（2026-09-28）",
+              "url": "https://www.esquire.com/uk/style/fashion/a73922272/taylor-swifts-patient-zero-music-video-house/"
+            },
+            {
+              "title": "Billboard｜Taylor Swift Takes Fans Inside ‘Patient Zero’ in ‘Expanded Video’（2026-10-03）",
+              "url": "https://www.billboard.com/music/music-news/taylor-swift-patient-zero-expanded-video-making-of-1236353805/"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "歌曲裡的人",
+            "MV 與地點"
+          ],
+          "dailyKey": "2026-11-15:taylor-swift-patient-zero-phone-call"
+        },
+        {
           "id": "adela-nicole-kidman-golden-globes-corset",
           "city": "倫敦",
           "cityEn": "London",
