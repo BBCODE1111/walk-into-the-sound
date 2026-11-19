@@ -62136,6 +62136,696 @@
     "cityStories": {
       "rows": [
         {
+          "id": "fleetwood-mac-everywhere-half-speed-guitars",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Fleetwood Mac",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "把錄音帶放慢彈出來的那串閃光",
+          "work": "Everywhere",
+          "year": "1987",
+          "accent": "sky",
+          "title": "Fleetwood Mac〈Everywhere〉開頭的閃光，是把錄音帶放慢彈出來的",
+          "deck": "Lindsey Buckingham 把帶子放慢，彈完再轉回正常速度，吉他變成一串發亮的高音。Christine McVie 的簡單情歌，就在樂團最混亂的時候錄成。",
+          "publishedAt": "2026-11-19",
+          "reviewedAt": "2026-11-19",
+          "readingMinutes": 3,
+          "people": [
+            "Christine McVie",
+            "Lindsey Buckingham",
+            "Richard Dashut",
+            "Greg Droman",
+            "Mick Fleetwood",
+            "John McVie",
+            "Stevie Nicks",
+            "Eddy Quintela",
+            "Alex Proyas"
+          ],
+          "topics": [
+            "經典歌曲",
+            "製作幕後",
+            "錄音技巧"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "tape",
+              "title": "把帶子放慢的那一天",
+              "body": "洛杉磯，Lindsey Buckingham 家裡的錄音室。他把錄音帶的速度放慢，用很慢的手速彈木吉他和電吉他的分解和弦；等帶子轉回正常速度，那些音符全變成細碎、發亮的高音。Christine McVie 在 2019 年 BBC Four 的紀錄片裡回憶那一刻：「他把帶子放得很慢很慢，慢慢地彈；等回到正常速度，聽起來棒透了。」[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)\n\n這就是〈Everywhere〉開頭那串閃閃發亮的聲音。共同製作人 Richard Dashut 在同一部紀錄片說得更直白：「那是半速的木吉他和電吉他疊在一起。」[維基百科](https://en.wikipedia.org/wiki/Everywhere_(Fleetwood_Mac_song))專輯的錄音工程師 Greg Droman 2017 年解釋原理：慢慢錄、再加速，所有泛音都跟著往上移，「你會得到一種叮叮噹噹的高頻，當年沒有別的方法做得出來」。[Ultimate Classic Rock](https://ultimateclassicrock.com/fleetwood-mac-everywhere/)"
+            },
+            {
+              "id": "solo",
+              "title": "本來是一張個人專輯",
+              "body": "《Tango in the Night》一開始不是樂團專輯。Fleetwood Mac 在 1982 年《Mirage》巡演之後無限期休息；到 1985 年底，Buckingham 在洛杉磯家中獨自做完了〈Big Love〉〈Family Man〉〈Caroline〉三首歌，打算出個人作品。是 Mick Fleetwood 一直想把樂團找回來。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)\n\n團員回到一起時，狀況很糟：Fleetwood 深陷古柯鹼，John McVie 酗酒，Stevie Nicks 剛離開勒戒所。只有 Christine McVie 和 Buckingham 是清醒的。Buckingham 接下主導權，專輯大部分在他家的錄音室錄，前後花了約 18 個月。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)Nicks 後來說：「我記得上去那裡的時候，一點也不開心，我不常去。」[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)American Songwriter 估計，那 18 個月裡她進錄音室的時間大約只有兩週。[American Songwriter](https://americansongwriter.com/the-meaning-behind-everywhere-by-fleetwood-mac/)"
+            },
+            {
+              "id": "song",
+              "title": "一首簡單的情歌",
+              "body": "〈Everywhere〉是整張專輯裡唯一一首只掛 Christine McVie 一人名字的作品。[Ultimate Classic Rock](https://ultimateclassicrock.com/fleetwood-mac-everywhere/)她在 1986 年 10 月嫁給第二任丈夫、鍵盤手兼詞曲作者 Eddy Quintela，正是這首歌成形的時候。[American Songwriter](https://americansongwriter.com/the-meaning-behind-everywhere-by-fleetwood-mac/)歌裡的人是不是他，她沒有明說；幾篇樂評都推測是。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)\n\n歌詞寫的是剛墜入愛河的慌張：「Can you hear me calling out your name? / You know that I'm falling and I don't know what to say」；第二段，連朋友都說她「舉止怪怪的」。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)和弦也很簡單，主歌在 E 和 B 之間來回，再走到 C#m、A；副歌把 B、C#m、A 排成一圈。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)\n\nMcVie 本來就偏愛老派的聲音。1984 年她對《Rolling Stone》說：「我比較喜歡傳統的聲音，三部和聲、吉他和鋼琴。」[Ultimate Classic Rock](https://ultimateclassicrock.com/fleetwood-mac-everywhere/)"
+            },
+            {
+              "id": "layers",
+              "title": "機器、人聲和空白",
+              "body": "Buckingham 當時剛買了一台 Fairlight 取樣合成器。他在 1987 年對《紐約時報》說：「大部分人聲是一軌一軌錄的，那些層層疊疊的合唱多半是我的聲音。我用 Fairlight 取樣真實的聲音，再像管弦樂一樣混在一起。」[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)歌曲進行到第 16 秒，John McVie 和 Fleetwood 的貝斯、鼓才進來，旁邊襯著 Fairlight 做出的撥弦音色。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)\n\nDashut 形容這首歌：「每個音符都被開闊的空氣包圍，空間變得跟音符本身一樣重要。」[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)McVie 則說，她喜歡和 Buckingham 合作，因為他總能帶來驚人的製作點子，讓她的歌變得更好。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)\n\nMV 由 Alex Proyas 執導，畫面取自 Alfred Noyes 的詩〈The Highwayman〉，劇組花兩週搭了六個室內場景。[維基百科](https://en.wikipedia.org/wiki/Everywhere_(Fleetwood_Mac_song))專輯做完後，Buckingham 不想巡演，離開了樂團，十年後才回來。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "這首歌的骨架確實很簡單：幾個和弦、重複兩次的一句副歌、直白的押韻。[MusicRadar](https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits)好聽的地方，我們認為在兩種品味的拉扯。McVie 要的是三部和聲、吉他、鋼琴這種傳統的溫度；Buckingham 給她的是 Fairlight、半速錄音和一層層自己的和聲。結果兩邊都沒有輸。\n\n那串加速過的吉他，讓「falling」這個字有了聲音。它比一般吉他高、比一般吉他亮，又帶著一點不太真實的光澤，聽起來像腳離開地面。Dashut 說的「空間」也很關鍵：鼓和貝斯晚 16 秒才進來，伴奏一直留著縫，McVie 溫暖、帶藍調味的聲音才能浮在上面。\n\n一首在樂團最混亂時期錄下的歌，聽起來卻像整個人飄在雲上。我們覺得，這正是它過了快四十年還在被重聽的原因。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1982",
+              "event": "《Mirage》巡演後樂團無限期休息。"
+            },
+            {
+              "date": "1985",
+              "event": "年底 Buckingham 在洛杉磯家中完成三首個人作品。"
+            },
+            {
+              "date": "1986-10",
+              "event": "Christine McVie 與 Eddy Quintela 結婚。"
+            },
+            {
+              "date": "1987",
+              "event": "《Tango in the Night》發行；美國 11 月推出〈Everywhere〉單曲。"
+            },
+            {
+              "date": "1988-03-21",
+              "event": "英國推出〈Everywhere〉單曲。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Lindsey Buckingham 的家庭錄音室（錄音地）",
+              "detail": "MusicRadar：《Tango in the Night》大部分在 Buckingham 位於洛杉磯的家庭錄音室錄製。確切地址未公開，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Los Angeles, California",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+California",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Everywhere",
+            "artist": "Fleetwood Mac",
+            "note": "先聽開頭那串加速過的吉他，再等第 16 秒鼓和貝斯進來；副歌時注意 McVie 背後那一層層和聲。"
+          },
+          "sources": [
+            {
+              "title": "MusicRadar｜How Christine McVie’s pop songcraft and Lindsey Buckingham’s production genius created one of Fleetwood Mac’s biggest ’80s hits（2026-07-31）",
+              "url": "https://www.musicradar.com/artists/he-slowed-the-tape-down-really-slowly-and-played-the-parts-slowly-when-it-came-up-to-the-right-speed-it-sounded-amazing-how-christine-mcvies-pop-songcraft-and-lindsey-buckinghams-production-genius-created-one-of-fleetwood-macs-biggest-80s-hits"
+            },
+            {
+              "title": "Ultimate Classic Rock｜How Fleetwood Mac Mixed Tradition and Technology on ‘Everywhere’（2022-10-25）",
+              "url": "https://ultimateclassicrock.com/fleetwood-mac-everywhere/"
+            },
+            {
+              "title": "American Songwriter｜The Meaning Behind “Everywhere” by Fleetwood Mac（2023-10-16）",
+              "url": "https://americansongwriter.com/the-meaning-behind-everywhere-by-fleetwood-mac/"
+            },
+            {
+              "title": "Wikipedia｜Everywhere (Fleetwood Mac song)（2026-11-19 讀取版本）",
+              "url": "https://en.wikipedia.org/wiki/Everywhere_(Fleetwood_Mac_song)"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-19:fleetwood-mac-everywhere-half-speed-guitars"
+        },
+        {
+          "id": "karol-g-bby-wow-fried-fish-studio",
+          "city": "馬里布",
+          "cityEn": "Malibu",
+          "artist": "Karol G, Judeline & rusowsky",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "一通 FaceTime：「我需要妳現在就去錄音室」",
+          "work": "BbY WOW",
+          "year": "2026",
+          "accent": "coral",
+          "title": "Karol G〈BbY WOW〉的主歌，是在一家炸魚店後面錄的",
+          "deck": "Karol G 已經交出專輯，卻臨時決定這首歌非要 Judeline 和 rusowsky 不可。Judeline 在老家找不到錄音室，最後走進一家炸魚店的後門。",
+          "publishedAt": "2026-11-19",
+          "reviewedAt": "2026-11-19",
+          "readingMinutes": 3,
+          "people": [
+            "Karol G",
+            "Judeline",
+            "rusowsky",
+            "Tainy"
+          ],
+          "topics": [
+            "新歌觀察",
+            "合作",
+            "製作幕後"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "馬里布",
+              "aliases": [
+                "Malibu"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "東盧瑟福",
+              "aliases": [
+                "East Rutherford"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "MetLife Stadium",
+              "aliases": [
+                "大都會人壽體育場"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "fish",
+              "title": "炸魚店後面的錄音室",
+              "body": "Judeline 正在西班牙老家放假，準備出門找朋友，手機響了，是 Karol G 打來的 FaceTime：「我需要妳現在就去錄音室。」她愣住了：「在我老家，我要去哪裡找錄音室？我根本不知道這裡有。」[NYLON](https://www.nylon.com/entertainment/judeline-bby-wow-interview)\n\n她在城裡找到一個地方。從外面看是一家炸魚店，往後走、打開一扇門，裡面是錄音室。她就在那裡錄下〈BbY WOW〉的主歌。「真的很好笑。」[NYLON](https://www.nylon.com/entertainment/judeline-bby-wow-interview)"
+            },
+            {
+              "id": "almost",
+              "title": "一首差點不在專輯裡的歌",
+              "body": "這首歌寫於 2026 年初。Karol G 說是 1 月，和 Judeline 及團隊一起寫的；[LOS40](https://los40.com/2026/09/22/la-historia-detras-de-bby-wow-contada-por-karol-g-de-cancion-descartada-a-numero-1-mundial-necesitaba-a-judeline-y-rusowsky/)Judeline 記得的是 2 月，她們在馬里布待了兩天，和 Tainy、rusowsky 等人從零開始做點子，Karol 白天還在為 Coachella 排練。[NYLON](https://www.nylon.com/entertainment/judeline-bby-wow-interview)Judeline 說，她已經很久沒替別人寫歌了；那陣子兩人在感情上經歷很相似的事，都很脆弱，寫歌對她們來說像一種治療。[Rolling Stone](https://www.rollingstone.com/music/music-latin/bby-wow-karol-g-judeline-collaboration-1235625831/)\n\n寫完之後，Karol 一直覺得少了什麼。「我不覺得它完成了，它不會放進專輯。」[LOS40](https://los40.com/2026/09/22/la-historia-detras-de-bby-wow-contada-por-karol-g-de-cancion-descartada-a-numero-1-mundial-necesitaba-a-judeline-y-rusowsky/)\n\n那年夏天，她暫時放下雷鬼動，聽另類、獨立、氛圍音樂。rusowsky 的作品成了她「這個夏天的唱片」；她形容他的音樂「很接近另類，同時又接近都會音樂，是完美的平衡」。腦子裡一直有個聲音：「這首歌需要 rusowsky。」她也相信 Judeline 能帶來「某種魔法」。[LOS40](https://los40.com/2026/09/22/la-historia-detras-de-bby-wow-contada-por-karol-g-de-cancion-descartada-a-numero-1-mundial-necesitaba-a-judeline-y-rusowsky/)"
+            },
+            {
+              "id": "mission",
+              "title": "「我給你一個任務」",
+              "body": "這時專輯已經交出去，正準備公布曲目。Karol 回憶：「在 Instagram 公布曲目的兩天前，我對自己說：我需要 Judeline 和 rusowsky 在那首歌裡。那首歌一定要放，但要有他們，不然就不放。」[LOS40 Colombia](https://los40.com.co/2026/09/24/la-cancion-de-karol-g-que-casi-queda-fuera-de-su-nuevo-album-y-termino-dominando-las-listas-globales/)\n\n她打給經紀人：「我給你一個任務，要讓 rusowsky 和 Judeline 唱〈BbY WOW〉，專輯才發。」經紀人回她：「可是〈BbY WOW〉根本不在專輯裡。」[LOS40 Colombia](https://los40.com.co/2026/09/24/la-cancion-de-karol-g-que-casi-queda-fuera-de-su-nuevo-album-y-termino-dominando-las-listas-globales/)\n\nJudeline 和 rusowsky 當晚分別在西班牙不同的地方錄好自己的段落，隔天早上，Karol 就拿到了人聲。「我一收到主歌，就公布了正式曲目。」[LOS40 Colombia](https://los40.com.co/2026/09/24/la-cancion-de-karol-g-que-casi-queda-fuera-de-su-nuevo-album-y-termino-dominando-las-listas-globales/)她特別稱讚 rusowsky 那一段是「錦上添花」。[Consequence](https://consequence.net/2026/09/karol-g-reveals-bby-wow-almost-didnt-make-album/)\n\nJudeline 記得的時間比較寬鬆：大概發行前兩週接到電話，兩天內做完，一週後歌就上線了。[NYLON](https://www.nylon.com/entertainment/judeline-bby-wow-interview)她和 rusowsky 是老朋友，從她剛搬到馬德里時就認識。[Rolling Stone](https://www.rollingstone.com/music/music-latin/bby-wow-karol-g-judeline-collaboration-1235625831/)\n\nKarol 和 rusowsky 的緣分更奇妙：她說，直到接受這次訪問的幾天前，才在紐約第一次見到他本人。「他是個很神祕的人物，我們對他一無所知。」[LOS40](https://los40.com/2026/09/22/la-historia-detras-de-bby-wow-contada-por-karol-g-de-cancion-descartada-a-numero-1-mundial-necesitaba-a-judeline-y-rusowsky/)"
+            },
+            {
+              "id": "sound",
+              "title": "傷心的人也想跳舞",
+              "body": "〈BbY WOW〉取樣了有名的 Coolie Dance Riddim。[Rolling Stone](https://www.rollingstone.com/music/music-latin/bby-wow-karol-g-judeline-collaboration-1235625831/)Judeline 說：「那個節奏放在哪裡都很經典，一定會讓你跳很多舞。但這首歌特別的地方，是它有一種敏感，有點像悲傷的雷鬼動。有人想跳舞、想去夜店，心卻是碎的，也能用同樣的方式和這首歌連結。」[Rolling Stone](https://www.rollingstone.com/music/music-latin/bby-wow-karol-g-judeline-collaboration-1235625831/)\n\nKarol 說，她自己寫歌「超級直白」，而 Judeline「不需要說很多」，會留一扇門讓每個人有自己的解讀。[LOS40](https://los40.com/2026/09/22/la-historia-detras-de-bby-wow-contada-por-karol-g-de-cancion-descartada-a-numero-1-mundial-necesitaba-a-judeline-y-rusowsky/)2026 年 9 月，她在紐澤西 MetLife Stadium 的巡演上，第一次和 Judeline、rusowsky、Tainy 一起現場唱這首歌。[Consequence](https://consequence.net/2026/09/karol-g-reveals-bby-wow-almost-didnt-make-album/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "NYLON 形容它是 R&B 遇上 dancehall 的歌。[NYLON](https://www.nylon.com/entertainment/judeline-bby-wow-interview)我們認為，它好聽就在於節奏和情緒往兩個方向走：Coolie Dance Riddim 是一聽就會動起來的身體記憶，歌裡的心情卻是碎的，像在舞池中間講心事。\n\nKarol 直白，Judeline 留白，rusowsky 在另類和都會之間。三種寫法和唱法疊在同一個舞曲節奏上，悲傷沒有被蓋掉，也沒有讓舞池停下來。Judeline 說的「悲傷的雷鬼動」，大概就是這種在舞池裡偷偷難過的感覺。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-01",
+              "event": "Karol G 記得在 1 月與 Judeline 及團隊寫歌（Judeline 記得是 2 月，在馬里布）。"
+            },
+            {
+              "date": "2026",
+              "event": "夏天，公布曲目前兩天決定加入 Judeline、rusowsky，兩人當晚在西班牙各地錄音。"
+            },
+            {
+              "date": "2026-09",
+              "event": "MetLife Stadium 首度三人同台現場演唱。"
+            }
+          ],
+          "places": [
+            {
+              "name": "馬里布（寫歌地）",
+              "detail": "NYLON：Judeline 說 2 月在馬里布待了兩天，和 Karol G、Tainy、rusowsky 等人從零開始寫歌。Karol G 則說歌寫於 1 月，未提地點。確切錄音室未公開，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Malibu, California",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Malibu%2C+California",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "MetLife Stadium",
+              "detail": "Consequence、LOS40：2026 年 9 月 Karol G 巡演在此連演兩晚，首度與 Judeline、rusowsky、Tainy 同台唱這首歌。沒有授權照片，改附街景／地圖連結。",
+              "query": "MetLife Stadium, East Rutherford, NJ",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=MetLife+Stadium%2C+East+Rutherford%2C+NJ",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "BbY WOW",
+            "artist": "Karol G, Judeline & rusowsky",
+            "note": "先聽那個一下就認得的 Coolie Dance Riddim，再聽三個人輪流唱的段落；Judeline 和 rusowsky 的段落，都是最後一刻才錄的。"
+          },
+          "sources": [
+            {
+              "title": "NYLON｜Jillian Giandurco：Judeline On “BbY Wow” & Working With Karol G（2026-10-01）",
+              "url": "https://www.nylon.com/entertainment/judeline-bby-wow-interview"
+            },
+            {
+              "title": "LOS40｜La historia detrás de ‘Bby Wow’, contada por Karol G（2026-09-22）",
+              "url": "https://los40.com/2026/09/22/la-historia-detras-de-bby-wow-contada-por-karol-g-de-cancion-descartada-a-numero-1-mundial-necesitaba-a-judeline-y-rusowsky/"
+            },
+            {
+              "title": "LOS40 Colombia｜La canción de Karol G que casi queda fuera de su nuevo álbum（2026-09-24）",
+              "url": "https://los40.com.co/2026/09/24/la-cancion-de-karol-g-que-casi-queda-fuera-de-su-nuevo-album-y-termino-dominando-las-listas-globales/"
+            },
+            {
+              "title": "Rolling Stone｜‘BbY WoW’ Is the Number One Song on the Planet. Judeline Can’t Believe It（2026-09-13）",
+              "url": "https://www.rollingstone.com/music/music-latin/bby-wow-karol-g-judeline-collaboration-1235625831/"
+            },
+            {
+              "title": "Consequence｜Karol G Reveals Why “BbY WOW” Almost Didn’t Make Her Album（2026-09-22）",
+              "url": "https://consequence.net/2026/09/karol-g-reveals-bby-wow-almost-didnt-make-album/"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-19:karol-g-bby-wow-fried-fish-studio"
+        },
+        {
+          "id": "sam-fender-olivia-dean-rein-me-in-second-verse",
+          "city": "倫敦",
+          "cityEn": "London",
+          "artist": "Sam Fender & Olivia Dean",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "演唱會中場，暖場歌手被叫上台",
+          "work": "Rein Me In",
+          "year": "2025",
+          "accent": "sage",
+          "title": "Sam Fender 刪掉自己的第二段主歌，讓 Olivia Dean 寫〈Rein Me In〉",
+          "deck": "倫敦體育場的演唱會中場，Sam Fender 把暖場歌手 Olivia Dean 叫上台，第一次唱兩人偷偷錄好的合作曲。那段新主歌，是他刪掉自己的歌詞換來的。",
+          "publishedAt": "2026-11-19",
+          "reviewedAt": "2026-11-19",
+          "readingMinutes": 3,
+          "people": [
+            "Sam Fender",
+            "Olivia Dean",
+            "Max Wolfgang",
+            "Richard O'Donovan",
+            "James Ellis Ford",
+            "Markus Dravs",
+            "Adam Granduciel"
+          ],
+          "topics": [
+            "新歌觀察",
+            "合作",
+            "寫歌"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "倫敦",
+              "aliases": [
+                "London"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "紐卡索",
+              "aliases": [
+                "Newcastle upon Tyne",
+                "Newcastle"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "北希爾茲",
+              "aliases": [
+                "North Shields"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "London Stadium",
+              "aliases": [
+                "倫敦體育場"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "St James' Park",
+              "aliases": [
+                "聖詹姆斯公園球場"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "The Gunner",
+              "aliases": [
+                "The Gunner pub"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "stadium",
+              "title": "演唱會中場，他把暖場歌手叫上台",
+              "body": "2025 年 6 月，倫敦 London Stadium。這是 Sam Fender 辦過最大的個人售票演出，場館可容納 82,500 人。唱到一半，他把當晚的暖場歌手 Olivia Dean 請上台，宣布兩人偷偷錄了一首合作曲，現在要第一次現場唱。「看看會怎樣吧。」他開玩笑說，Dean 在旁邊有點沒把握地笑了。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)\n\n那首歌是〈Rein Me In〉，原本只是 Fender 專輯《People Watching》裡的一首非主打。Dean 能站上那個舞台，本身也是巧合：原定的主要暖場是 The War on Drugs，他們退出後，Dean 才臨時遞補；她第二張專輯《The Art of Loving》的首支單曲〈Nice to Each Other〉，前一週才剛發行。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)"
+            },
+            {
+              "id": "song",
+              "title": "一首他自己都不覺得是單曲的歌",
+              "body": "Fender 大約五年前就以獨唱曲的形式寫好這首歌，說自己「一直很喜歡它」，歌裡的懊悔和放縱，也對應到他人生裡的某些時刻。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)歌詞寫到「By The Gunner, you shouted, 'Oh, my God'」；The Gunner 是北希爾茲（North Shields）一家真實存在的酒吧，那是 Fender 長大的海港小鎮。[Songfacts](https://www.songfacts.com/facts/sam-fender/rein-me-in)\n\n整首歌建立在一段細緻的指彈吉他上，用標準調音、不夾移調夾；編曲一層層慢慢疊上去。《People Watching》2023 年在倫敦和製作人 Markus Dravs 開工，最後在洛杉磯和 The War on Drugs 的 Adam Granduciel 完成。[Songfacts](https://www.songfacts.com/facts/sam-fender/rein-me-in)\n\nFender 後來承認：「我根本不覺得它是單曲，我想的是『喔，這是一首很棒的專輯歌』。」[Audacy](https://www.audacy.com/national/music/sam-fender-on-meeting-al-pacino-and-linking-with-olivia-dean-for-rein-me-in)"
+            },
+            {
+              "id": "verse",
+              "title": "他刪掉自己的第二段主歌",
+              "body": "唱片公司把整張專輯寄給 Dean，讓她自己挑想合作的歌。她挑了〈Rein Me In〉。[Songfacts](https://www.songfacts.com/facts/sam-fender/rein-me-in)「〈Rein Me In〉是 Sam 這張專輯裡我最喜歡的歌，能從女性的角度寫一段新的主歌，是我的榮幸。」[Universal Music Canada](https://www.universalmusic.ca/2025/06/20/sam-fender-follows-sold-out-stadium-run-with-new-olivia-dean-collaboration/)\n\nFender 的原則是：「如果我和別的歌手合作我的歌，我比較希望對方寫新的段落，變成自己的，而不是唱我已經寫好的東西。」[Universal Music Canada](https://www.universalmusic.ca/2025/06/20/sam-fender-follows-sold-out-stadium-run-with-new-olivia-dean-collaboration/)他把自己原本的第二段主歌刪掉，騰出位置，告訴 Dean「想怎麼寫就怎麼寫」。[Songfacts](https://www.songfacts.com/facts/sam-fender/rein-me-in)Dean 和 Max Wolfgang 合寫了這段新主歌。她唱：「I see the tears of a man too proud to reach for a hand」，接著請對方「let my love keep you safe now」。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)\n\nPolydor 的 A&R 主管 Richard O'Donovan 說：「我們知道它有單曲潛力，但收到 Olivia 的版本時，我們完全被震住了。它替這首很棒的歌打開了一個全新的角度。」[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)\n\n新版本在紐卡索和倫敦兩地錄成，由 James Ellis Ford 製作。[Songfacts](https://www.songfacts.com/facts/sam-fender/rein-me-in)倫敦首唱之後，兩人又在紐卡索 St James' Park 的返鄉場合唱了兩次，錄音室版在 2025 年 6 月 20 日正式發行。[Universal Music Canada](https://www.universalmusic.ca/2025/06/20/sam-fender-follows-sold-out-stadium-run-with-new-olivia-dean-collaboration/)"
+            },
+            {
+              "id": "after",
+              "title": "「我挖到金礦了」",
+              "body": "Fender 說：「找 Olivia Dean 是我挖到金礦。她讓這首歌整個升級，變得更普遍，比沒有她的時候能打動更多人。我永遠感謝她，然後事情就變得很誇張。」[Audacy](https://www.audacy.com/national/music/sam-fender-on-meeting-al-pacino-and-linking-with-olivia-dean-for-rein-me-in)2026 年 2 月 28 日，兩人在曼徹斯特的全英音樂獎一起上台，領下年度歌曲。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)O'Donovan 回想，兩人在體育場同台的現場片段一上網就爆開，把這首歌推到另一個層次。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "原版裡只有一個人在自責；Dean 的段落接進來，歌就變成兩個人的對話。[Billboard](https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/)我們認為，這首歌好聽的關鍵在於她沒有替他辯護，也沒有跟著一起沉下去，而是看見那個「驕傲到不肯伸手」的人，再把手伸過去。\n\n聲音上也一樣。Fender 的聲音粗、往前衝，Dean 的聲音圓、往回收，底下那段細緻的指彈吉他一直撐著，像兩個人站在同一塊地上講話。Fender 刪掉自己的段落，反而讓這首歌變得完整。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2023",
+              "event": "《People Watching》在倫敦與 Markus Dravs 開工，之後在洛杉磯完成。"
+            },
+            {
+              "date": "2025-06",
+              "event": "London Stadium 演出中首度與 Olivia Dean 合唱新版本。"
+            },
+            {
+              "date": "2025-06-20",
+              "event": "合唱版正式發行。"
+            },
+            {
+              "date": "2026-02-28",
+              "event": "全英音樂獎年度歌曲（曼徹斯特）。"
+            }
+          ],
+          "places": [
+            {
+              "name": "London Stadium",
+              "detail": "Billboard：2025 年 6 月 Fender 在此辦最大的個人演出（82,500 人），中場與 Olivia Dean 首唱合唱版。沒有授權照片，改附街景／地圖連結。",
+              "query": "London Stadium, Queen Elizabeth Olympic Park, London",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=London+Stadium%2C+Queen+Elizabeth+Olympic+Park%2C+London",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "St James' Park",
+              "detail": "Universal Music Canada：倫敦首唱後，兩人在紐卡索 St James’ Park 又合唱兩次。沒有授權照片，改附街景／地圖連結。",
+              "query": "St James' Park, Newcastle upon Tyne",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=St+James%27+Park%2C+Newcastle+upon+Tyne",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "The Gunner",
+              "detail": "Songfacts：歌詞裡的 The Gunner 是北希爾茲一家真實酒吧，Fender 在此地長大；歌詞情節是否真實發生在此，來源未確認。沒有授權照片，改附地圖連結。",
+              "query": "The Gunner pub, North Shields",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=The+Gunner+pub%2C+North+Shields",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Rein Me In",
+            "artist": "Sam Fender & Olivia Dean",
+            "note": "先聽原版和合唱版的第二段主歌差在哪，再注意底下那段指彈吉他。"
+          },
+          "sources": [
+            {
+              "title": "Billboard｜Sam Fender & Olivia Dean’s ‘Rein Me In’: Every Chart Record It Broke（2026-09-01）",
+              "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/"
+            },
+            {
+              "title": "Universal Music Canada｜Sam Fender follows sold out stadium run with new Olivia Dean collaboration（2025-06-20）",
+              "url": "https://www.universalmusic.ca/2025/06/20/sam-fender-follows-sold-out-stadium-run-with-new-olivia-dean-collaboration/"
+            },
+            {
+              "title": "Audacy｜Sam Fender on meeting Al Pacino and linking with Olivia Dean for ‘Rein Me In’（2026-04-10）",
+              "url": "https://www.audacy.com/national/music/sam-fender-on-meeting-al-pacino-and-linking-with-olivia-dean-for-rein-me-in"
+            },
+            {
+              "title": "Songfacts｜Rein Me In by Sam Fender (featuring Olivia Dean)（2026-11-19 讀取）",
+              "url": "https://www.songfacts.com/facts/sam-fender/rein-me-in"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "現場演出",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-19:sam-fender-olivia-dean-rein-me-in-second-verse"
+        },
+        {
+          "id": "weibird-ru-guo-ke-yi-no-falsetto",
+          "city": "",
+          "cityEn": "",
+          "artist": "韋禮安",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "製作人不准他用假音",
+          "work": "如果可以",
+          "year": "2021",
+          "accent": "sage",
+          "title": "韋禮安〈如果可以〉：製作人不准他用假音",
+          "deck": "電影《月老》的主題曲兩小時寫完，九把刀聽過上百首 demo 才等到它。錄音時韋禮安想用假音躲過最高的音，JerryC 一直說「你可以的」。",
+          "publishedAt": "2026-11-19",
+          "reviewedAt": "2026-11-19",
+          "readingMinutes": 3,
+          "people": [
+            "韋禮安",
+            "JerryC",
+            "九把刀"
+          ],
+          "topics": [
+            "影像與配樂",
+            "電影主題曲",
+            "製作幕後"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "studio",
+              "title": "走進工作室時，歌已經做好八成",
+              "body": "韋禮安走進 JerryC 的工作室時，整首歌的伴奏幾乎已經做好了。他說，JerryC 習慣先把編曲處理完，「那天我去他的工作室跟他一起寫的時候，其實大概已經完成了 80%」。JerryC 告訴他，這是九把刀導演的新電影，劇情大概是什麼，曲風可能往哪個方向。[ZA誌](https://zamag.net/meeting/interview/%E8%90%AC%E5%85%A8%E6%BA%96%E5%82%99-%E8%83%BD%E5%AF%AB%E8%83%BD%E5%94%B1-%E9%9F%8B%E7%A6%AE%E5%AE%89/)\n\n兩人一開始設定的，是比較 J-pop 的風格，像過去日劇主題曲那種抒情歌。[ZA誌](https://zamag.net/meeting/interview/%E8%90%AC%E5%85%A8%E6%BA%96%E5%82%99-%E8%83%BD%E5%AF%AB%E8%83%BD%E5%94%B1-%E9%9F%8B%E7%A6%AE%E5%AE%89/)"
+            },
+            {
+              "id": "two-hours",
+              "title": "兩個小時，靠講幹話過關",
+              "body": "這首歌的起點在 JerryC。他收到《月老》劇組的邀約，聽導演口述劇情和畫面後，第一個想到的就是韋禮安。韋禮安聽完劇情，第一句話是：「哇，好虐！」[PlayMusic](https://www.playmusic.tw/column_info.php?id=17187&type=news)\n\n兩人的寫法很不一樣：JerryC 習慣先把腦中的畫面寫出來，韋禮安的旋律感很強。遇到卡關，他們靠講幹話找靈感，兩小時內把歌寫完。[鏡週刊](https://www.mirrormedia.mg/story/20211102ent023)當時他們只知道片段的劇情，只能想像、猜測導演想要什麼。[MTV 音樂頻道](https://www.mtv.com.tw/news/newsdetail/8651)\n\n九把刀之前已經聽了上百首 demo，都沒找到合適的主題曲。聽到這首，他一聽就中。[PlayMusic](https://www.playmusic.tw/column_info.php?id=17187&type=news)他唯一擔心的是，這首歌本身完成度太高，怕自己一改就失去完整；結果改完比 demo 更好。[MTV 音樂頻道](https://www.mtv.com.tw/news/newsdetail/8651)\n\n歌詞原本該由韋禮安寫。他還在想看完電影要怎麼絞盡腦汁，唱片公司的同事提議，乾脆請九把刀自己寫。[ZA誌](https://zamag.net/meeting/interview/%E8%90%AC%E5%85%A8%E6%BA%96%E5%82%99-%E8%83%BD%E5%AF%AB%E8%83%BD%E5%94%B1-%E9%9F%8B%E7%A6%AE%E5%AE%89/)最後由九把刀填詞：「如果可以我想和妳回到那天相遇，讓時間停止那一場雨」。[TVBS](https://news.tvbs.com.tw/entertainment/1628430)"
+            },
+            {
+              "id": "falsetto",
+              "title": "不准用假音",
+              "body": "錄音時，韋禮安本來想用假音處理幾個超高的音，JerryC 堅持要他用真音撐上去，一直對他說「你可以的」。「連我自己在練的時候都覺得『天啊，也太難唱了吧！』」韋禮安說，「我被逼成這個樣子，但證明結果是很好的。」[PlayMusic](https://www.playmusic.tw/column_info.php?id=17187&type=news)\n\n錄完還出了一段插曲。JerryC 檢查錄音檔時，發現好幾段唱得特別好的地方，回放時莫名出現一堆雜訊。事後回想，可能是錄音室器材剛變動過；但不少唱片圈前輩告訴他，這種現象是好兆頭。[PlayMusic](https://www.playmusic.tw/column_info.php?id=17187&type=news)\n\n韋禮安看完試片，回去就跟唱歌老師說，接下來要非常瘋狂地練這首歌：「我覺得這首歌會大紅，電影是非常的厲害。」[ZA誌](https://zamag.net/meeting/interview/%E8%90%AC%E5%85%A8%E6%BA%96%E5%82%99-%E8%83%BD%E5%AF%AB%E8%83%BD%E5%94%B1-%E9%9F%8B%E7%A6%AE%E5%AE%89/)他也說，自己這輩子從來沒有這樣講過自己的歌。[TVBS](https://news.tvbs.com.tw/entertainment/1628430)"
+            },
+            {
+              "id": "film",
+              "title": "邊聽邊拍的導演",
+              "body": "九把刀在 MV 首映會上透露，他開工拍片時，就是一邊聽這首歌培養感情，一邊想像最後的結局要怎麼拍。人在上海、透過視訊連線的韋禮安聽了說：「我完全不知道有這個故事。」[TVBS](https://news.tvbs.com.tw/entertainment/1628430)他也看過電影的初剪版本，demo 被放進電影裡一起播，「當下覺得『天啊！我們寫的歌完全符合這部電影想要帶給大家的感覺！』」[MTV 音樂頻道](https://www.mtv.com.tw/news/newsdetail/8651)\n\n歌還沒上架，就先入圍金馬獎最佳原創電影歌曲。2021 年 11 月 3 日電台首播，11 月 5 日上架，11 月 7 日 MV 上線，電影在 11 月 24 日上映。[PlayMusic](https://www.playmusic.tw/column_info.php?id=17187&type=news)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "這首歌的旋律是先寫的，伴奏在韋禮安進門前就做好八成，歌詞最後才由導演補上。[ZA誌](https://zamag.net/meeting/interview/%E8%90%AC%E5%85%A8%E6%BA%96%E5%82%99-%E8%83%BD%E5%AF%AB%E8%83%BD%E5%94%B1-%E9%9F%8B%E7%A6%AE%E5%AE%89/)我們認為，它能打中人，就在於這個順序：旋律先替電影的「虐」找到形狀，九把刀再把劇情塞進每一句。\n\nJerryC 堅持的真音也很關鍵。真音唱到極限會吃力、會繃，聽得出人在用力；換成假音，就輕了。副歌往最高處撐上去的那股緊繃，正好是電影裡想把時間留住、又留不住的感覺。一首原本瞄準日劇抒情歌的作品，最後靠一個不肯讓歌手退一步的製作人，唱出了自己的戲劇性。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2021",
+              "event": "JerryC 收到《月老》劇組邀約，與韋禮安兩小時寫成〈如果可以〉。"
+            },
+            {
+              "date": "2021-11-03",
+              "event": "電台首播。"
+            },
+            {
+              "date": "2021-11-05",
+              "event": "正式上架。"
+            },
+            {
+              "date": "2021-11-07",
+              "event": "MV 上線、首映會。"
+            },
+            {
+              "date": "2021-11-24",
+              "event": "電影《月老》上映。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "如果可以",
+            "artist": "韋禮安",
+            "note": "注意副歌最高的幾個音：那是 JerryC 堅持要他用真音撐上去的地方。"
+          },
+          "sources": [
+            {
+              "title": "ZA誌｜Diana：萬全準備 能寫能唱——韋禮安（頁面標示約三年前發布，2025-07-29 最後修改）",
+              "url": "https://zamag.net/meeting/interview/%E8%90%AC%E5%85%A8%E6%BA%96%E5%82%99-%E8%83%BD%E5%AF%AB%E8%83%BD%E5%94%B1-%E9%9F%8B%E7%A6%AE%E5%AE%89/"
+            },
+            {
+              "title": "PlayMusic 音樂網｜聽了破百首歌找不到主題曲 九把刀終等到韋禮安 & JerryC 聯手創作〈如果可以〉（2021-11-02）",
+              "url": "https://www.playmusic.tw/column_info.php?id=17187&type=news"
+            },
+            {
+              "title": "鏡週刊｜陳于嬙：韋禮安飆高音 《月老》太虐心 大呼：太難唱了！（2021-11-02）",
+              "url": "https://www.mirrormedia.mg/story/20211102ent023"
+            },
+            {
+              "title": "MTV 音樂頻道｜金曲創作才子韋禮安量身打造電影《月老》主題曲〈如果可以〉，首映會現身分享幕後故事！（2021-11-11）",
+              "url": "https://www.mtv.com.tw/news/newsdetail/8651"
+            },
+            {
+              "title": "TVBS 新聞｜為「月老」寫主題曲 韋禮安笑：很契合、入圍金馬是對的（2021-11-07）",
+              "url": "https://news.tvbs.com.tw/entertainment/1628430"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "電影與影集",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-19:weibird-ru-guo-ke-yi-no-falsetto"
+        },
+        {
+          "id": "zara-larsson-lush-life-sofa-vocal",
+          "city": "斯德哥爾摩",
+          "cityEn": "Stockholm",
+          "artist": "Zara Larsson",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "寫歌營裡她從沒走進的那個房間",
+          "work": "Lush Life",
+          "year": "2015",
+          "accent": "coral",
+          "title": "Zara Larsson〈Lush Life〉：寫歌營裡一天寫完的副歌",
+          "deck": "斯德哥爾摩的寫歌營，三個人在 Zara Larsson 沒走進過的房間裡，寫出一個不飆高音的副歌。主唱錄音那天生病，在沙發上睡睡醒醒。",
+          "publishedAt": "2026-11-19",
+          "reviewedAt": "2026-11-19",
+          "readingMinutes": 3,
+          "people": [
+            "Zara Larsson",
+            "Linnea Södahl",
+            "Iman Conta Hultén",
+            "Emanuel Abrahamsson",
+            "Markus Sepehrmanesh",
+            "Fridolin Walcher",
+            "Shuko"
+          ],
+          "topics": [
+            "經典歌曲",
+            "製作幕後",
+            "寫歌"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "斯德哥爾摩",
+              "aliases": [
+                "Stockholm"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "camp",
+              "title": "她從沒走進的那個房間",
+              "body": "斯德哥爾摩，一間有好幾個錄音室的大樓。一週的寫歌營，很多製作人和寫歌的人被分成小組，一組一個房間，全都在替 Zara Larsson 寫歌。[Genius](https://web.archive.org/web/20260517162305/https:/genius.com/a/zara-larsson-breaks-down-lush-life-on-genius-video-series-verified)[GT／Expressen](https://www.expressen.se/gt/alingsastjej-bakom-zara-larssons-hit/)她在幾個房間之間進進出出，偏偏沒進過其中一間。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)\n\n那間房裡有三個人：Linnea Södahl、Iman Conta Hultén、Emanuel Abrahamsson。Iman 先彈了起來，Södahl 腦中立刻冒出一句旋律，連歌詞一起來。另外兩人說：「很棒，這是很好的主歌。」她說：「不，相信我，這可以是副歌。我們不需要一個長旋律、飆高音的大副歌，可以做得更酷、更放鬆。」[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)"
+            },
+            {
+              "id": "day",
+              "title": "一天寫完，跳了一整天",
+              "body": "他們當時在聽 Rihanna 的〈Pon de Replay〉和 Kelis 的〈Trick Me〉。Södahl 說：「那些歌裡沒有什麼東西是大的，只有一股一直往前流的律動，讓你很想待在裡面。」他們決定也寫一首那樣的歌。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)\n\n錄副歌粗稿時，Iman 站到麥克風前，忘了最後一句怎麼唱，就隨口唱了別的。那句被留了下來。主歌由 Emanuel 寫，Södahl 說三個人的貢獻很平均。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)\n\n這首歌一天就寫完了骨架。Södahl 記得，他們在錄音室裡跟著它跳了一整天：「我們馬上覺得這是特別的東西，超出平常。」[GT／Expressen](https://www.expressen.se/gt/alingsastjej-bakom-zara-larssons-hit/)Iman 說，他們想寫一首有搖擺感的歌，反映 Zara 的個性：自信、敢要。[Musikindustrin](https://www.musikindustrin.se/2016/06/13/4-snabba-iman-conta-hultenarets-rookie-latskrivareproducent-denniz-pop-awards/)寫歌名單上還有 Markus Sepehrmanesh。[GT／Expressen](https://www.expressen.se/gt/alingsastjej-bakom-zara-larssons-hit/)\n\nZara 後來說，那次寫歌營只有〈Lush Life〉讓她心想：「哇，這是什麼？」[Genius](https://web.archive.org/web/20260517162305/https:/genius.com/a/zara-larsson-breaks-down-lush-life-on-genius-video-series-verified)"
+            },
+            {
+              "id": "sofa",
+              "title": "在沙發上睡著的主唱",
+              "body": "Zara 錄人聲那天其實不太舒服。Södahl 說：「她有點生病，你在唱片裡聽得出來。歌裡那種『懶洋洋』是真的，因為她不舒服，在兩次錄音之間就躺在沙發上睡覺。」她認為這反而替歌加了很多個性。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)\n\nSödahl 來自 Alingsås，為了做流行音樂搬到斯德哥爾摩，當時和 Zara 簽在同一家唱片公司 Ten Music Group 當詞曲作者。[GT／Expressen](https://www.expressen.se/gt/alingsastjej-bakom-zara-larssons-hit/)這首歌後來替 Iman 拿下 Denniz Pop Awards 的年度新人獎，她和 Södahl、Abrahamsson 共享這個獎。[Musikindustrin](https://www.musikindustrin.se/2016/06/13/4-snabba-iman-conta-hultenarets-rookie-latskrivareproducent-denniz-pop-awards/)"
+            },
+            {
+              "id": "remix",
+              "title": "原本只有貝斯、鼓和人聲",
+              "body": "很長一段時間，〈Lush Life〉的版本只有貝斯、鼓和人聲，原本也準備這樣發行。後來唱片公司把歌送出去做混音，製作人 Freedo（Fridolin Walcher）交回來的版本改變了所有人的想法。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)\n\n寫歌的三個人一開始不太服氣。Södahl 說：「我們在錄音室裡覺得，那沒有比較酷。我們認為發行那個赤裸、很生的版本更勇敢。」現在回頭看，她很高興換了：「Freedo 把它做成了後來那首流行金曲。原版大概也會表現不錯，但不會這麼大，因為那個製作沒那麼商業。」[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)最早的編曲直到 2021 年，才以〈Lush Life (Retro Version)〉發行。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)正式單曲在 2015 年 6 月推出，製作掛名 Shuko 和 Freedo。[Genius](https://web.archive.org/web/20260517162305/https:/genius.com/a/zara-larsson-breaks-down-lush-life-on-genius-video-series-verified)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "Södahl 說得很清楚，他們要的不是長旋律、高音的大副歌，而是一股一直往前流的律動。[MusicRadar](https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard)我們認為，這首歌好聽就好聽在這種克制。副歌沒有往上衝，像一句說出口就算數的話；Zara 帶點病懨懨的慵懶唱法，正好讓「我過得很好」聽起來不用力，更像真的不在乎。\n\nFreedo 的版本加了流行歌的亮度，但骨架還是那三個人在房間裡跳了一整天的律動。把原版和正式版放在一起聽，就能聽出同一首歌怎麼從「酷」走到「大」，也能理解作者們當年為什麼捨不得。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2015",
+              "event": "斯德哥爾摩寫歌營，一天寫出〈Lush Life〉骨架。"
+            },
+            {
+              "date": "2015-06",
+              "event": "單曲發行（Genius）。"
+            },
+            {
+              "date": "2016-06",
+              "event": "Iman Conta Hultén 以這首歌獲 Denniz Pop Awards 年度新人，與 Södahl、Abrahamsson 共享。"
+            },
+            {
+              "date": "2021",
+              "event": "最早的編曲以〈Lush Life (Retro Version)〉發行。"
+            }
+          ],
+          "places": [
+            {
+              "name": "斯德哥爾摩的寫歌營錄音室（寫歌地）",
+              "detail": "Genius：Zara Larsson 說寫歌營在斯德哥爾摩的錄音室大樓舉行，每個房間一組。大樓名稱與地址未公開，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Stockholm, Sweden",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Stockholm%2C+Sweden",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Lush Life",
+            "artist": "Zara Larsson",
+            "note": "先聽副歌怎麼不往高音衝，再找 2021 年的 Retro Version，比較只有貝斯、鼓和人聲的原始編曲。"
+          },
+          "sources": [
+            {
+              "title": "MusicRadar｜The making of Zara Larsson’s 2015 hit, Lush Life, and the original version you might never have heard（2026-01-30；引用 Linnea Södahl 2018 年 Music Week 訪談）",
+              "url": "https://www.musicradar.com/artists/those-of-us-in-the-studio-were-like-no-that-is-not-as-cool-we-found-the-idea-of-releasing-that-stripped-down-really-raw-version-even-braver-the-making-of-zara-larssons-2015-hit-lush-life-and-the-original-version-you-might-never-have-heard"
+            },
+            {
+              "title": "GT（Expressen）｜Alingsåstjej bakom Zara Larssons hit（2015-07-23）",
+              "url": "https://www.expressen.se/gt/alingsastjej-bakom-zara-larssons-hit/"
+            },
+            {
+              "title": "Musikindustrin｜4 SNABBA Iman Conta Hultén／Årets Rookie Denniz Pop Awards（2016-06-13）",
+              "url": "https://www.musikindustrin.se/2016/06/13/4-snabba-iman-conta-hultenarets-rookie-latskrivareproducent-denniz-pop-awards/"
+            },
+            {
+              "title": "Genius｜Zara Larsson Breaks Down “Lush Life” On Genius’ Video Series ‘Verified’（Internet Archive 2026-05-17 存檔）",
+              "url": "https://web.archive.org/web/20260517162305/https:/genius.com/a/zara-larsson-breaks-down-lush-life-on-genius-video-series-verified"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-19:zara-larsson-lush-life-sofa-vocal"
+        },
+        {
           "id": "bronski-beat-smalltown-boy-heaven-acetate",
           "city": "倫敦",
           "cityEn": "London",
