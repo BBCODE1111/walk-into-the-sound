@@ -62136,6 +62136,630 @@
     "cityStories": {
       "rows": [
         {
+          "id": "accusefive-zai-zhe-li-deng-ni-garbage-truck-century",
+          "city": "台北",
+          "cityEn": "Taipei",
+          "artist": "告五人",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "垃圾車放著〈給愛麗絲〉經過，雲安想到一百年後",
+          "work": "在這裡等你",
+          "year": "2026",
+          "accent": "coral",
+          "title": "告五人〈在這裡等你〉：垃圾車放著〈給愛麗絲〉經過，雲安想到一百年後",
+          "deck": "一台放著貝多芬的垃圾車、一張靈骨塔位的照片、一趟分不清時空的巡演。雲安把三件事寫進同一首歌：如果告五人的音樂能留一百年，他想說什麼？",
+          "publishedAt": "2026-11-20",
+          "reviewedAt": "2026-11-20",
+          "readingMinutes": 3,
+          "people": [
+            "雲安",
+            "犬青",
+            "哲謙",
+            "韓立康",
+            "翁光煒"
+          ],
+          "topics": [
+            "新歌觀察",
+            "巡演主題曲",
+            "創作幕後"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "台北",
+              "aliases": [
+                "臺北",
+                "Taipei"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "臺北小巨蛋",
+              "aliases": [
+                "台北小巨蛋",
+                "Taipei Arena"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "truck",
+              "title": "垃圾車開過去，放的是〈給愛麗絲〉",
+              "body": "有一天，垃圾車從雲安身邊開過，放著〈給愛麗絲〉。那天他突然聽得很專心，腦袋裡冒出一個問題：「我在想如果貝多芬轉世聽到會有什麼反應？那如果告五人的音樂有機會留到100年後，我們會想講什麼？」[Life 生活網](https://life.tw/article/%E9%82%80%E5%91%A8%E6%9D%B0%E5%80%AB%E7%95%B6%E5%98%89%E8%B3%93-%E5%91%8A%E4%BA%94%E4%BA%BA%E9%9B%B2%E5%AE%89%E8%87%AA%E8%AA%8D-%E6%84%9B%E5%80%AB-%E9%81%AD%E7%8A%AC%E9%9D%92%E8%99%A7-%E4%BB%96%E6%9C%83%E5%93%AD%E5%87%BA%E4%BE%86-3142905)\n\n另一個念頭來自社群。他看到一位歌迷貼出朋友靈骨塔位的照片，寫著「下輩子我們再一起看告五人吧！」雲安看了當場鼻酸，留言回覆：「下輩子我們會繼續唱」。[中時新聞網](https://www.chinatimes.com/realtimenews/20260908004066-260404)[中央社](https://www.cna.com.tw/news/amov/202609080282.aspx)他決定把這種心情寫成歌，就是〈在這裡等你〉。[Life 生活網](https://life.tw/article/%E9%82%80%E5%91%A8%E6%9D%B0%E5%80%AB%E7%95%B6%E5%98%89%E8%B3%93-%E5%91%8A%E4%BA%94%E4%BA%BA%E9%9B%B2%E5%AE%89%E8%87%AA%E8%AA%8D-%E6%84%9B%E5%80%AB-%E9%81%AD%E7%8A%AC%E9%9D%92%E8%99%A7-%E4%BB%96%E6%9C%83%E5%93%AD%E5%87%BA%E4%BE%86-3142905)"
+            },
+            {
+              "id": "tour",
+              "title": "跑遍世界，時空像被置換",
+              "body": "這首歌是在巡演途中寫的。雲安說，寫這首歌時，告五人正在跑「Run, Run, Run! 黑夜狂奔」巡迴：「到了世界各地、一直有種時空置換的感覺。我把巡演的經驗全寫進歌裡，這些體驗其實都留在身體裡，最後很自然就變成了這首歌。」過去三年，他們的世界巡演累計 86 場、走過 39 座城市。雲安說，前兩次巡演都去了東京和大阪，今年又上了 Summer Sonic，他很希望下一次能用演唱會的規模，站上東京武道館。[一事無成的老編](https://benlinmarketing.com/2026/09/08/acentury/)\n\n詞曲都掛雲安的名字，[JOOX](https://www.joox.com/hk/single/+NdcesUx1t5JuWGJ3wkO2Q==)再和韓立康、翁光煒一起操刀完成。這首歌是為新巡演「在這裡@century」寫的主題曲，記者會新聞稿形容它從「等一個人」延伸到「等待一場相遇」。[一事無成的老編](https://benlinmarketing.com/2026/09/08/acentury/)\n\n巡演名稱裡的「@」就是「在這裡」，「century」是一百年。雲安說，「@」通常是在社群上標記人用的，也像以前大學做報告時用的超連結，他希望靠這個符號，「即便是一百年後都能光速飛到大家身邊」。哲謙則說，他想拍一部紀錄片，留下歌迷看著他們的樣子，「未來再聽到這首歌的時候，就能回到當時的那個時刻」。[一事無成的老編](https://benlinmarketing.com/2026/09/08/acentury/)"
+            },
+            {
+              "id": "arena",
+              "title": "從記者會唱到小巨蛋",
+              "body": "2026 年 9 月 8 日，三人在台北的售票記者會上現場唱了這首歌，這時 MV 也已經上線。[一事無成的老編](https://benlinmarketing.com/2026/09/08/acentury/)[中央社](https://www.cna.com.tw/news/amov/202609080282.aspx)\n\n兩個月後，演唱會從原本宣布的兩場，變成在台北小巨蛋一連唱三天。11 月 8 日最後一晚的尾聲，螢幕直播高雄港上空 600 架無人機排出「@」和「告五人」，宣布明年 1 月 9 日、10 日到高雄巨蛋。[中央社](https://www.cna.com.tw/news/amov/202611080191.aspx)11 月 14 日中午，高雄兩場開賣，門票全數賣完。犬青迫不及待想在高雄巨蛋「亂跑亂跳」，雲安則開玩笑：「上周我住在小巨蛋台上套房，明年才會搬家去高雄！」[CTWANT](https://www.ctwant.com/article/506803/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "這首歌的副歌只有一個動作：站著，等對方回頭。「我就站在這裏／等着你回頭看」。[JOOX](https://www.joox.com/hk/single/+NdcesUx1t5JuWGJ3wkO2Q==)我們認為它好記，就在於動作夠小，時間卻拉得很長。下一句「一百年前的今天我們很相愛」，一口氣把鏡頭拉到一百年前；到了最後一段，「一百年的」連著重複，從寂寞、自由，一路數到掙扎、等候。[JOOX](https://www.joox.com/hk/single/+NdcesUx1t5JuWGJ3wkO2Q==)\n\n這種重複不是偷懶。我們覺得，它把一個人的等待，換成了一整個時間單位，跟雲安一開始的問題剛好對上：一首歌要是真能留一百年，它想對聽的人說什麼？答案也許就是那句最簡單的話，「我在這裡」。巡演名稱裡那個「@」，本來就是「在這裡」的意思。[一事無成的老編](https://benlinmarketing.com/2026/09/08/acentury/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-09-07",
+              "event": "〈在這裡等你〉上架（JOOX 單曲頁日期）。"
+            },
+            {
+              "date": "2026-09-08",
+              "event": "台北售票記者會現場演唱；MV 已上線。"
+            },
+            {
+              "date": "2026-11-06",
+              "event": "「在這裡@century」台北小巨蛋一連三天開唱，至 11 月 8 日。"
+            },
+            {
+              "date": "2026-11-14",
+              "event": "2027 年 1 月 9 日、10 日高雄巨蛋兩場開賣，全數完售。"
+            }
+          ],
+          "places": [
+            {
+              "name": "臺北小巨蛋",
+              "detail": "這首歌是為「在這裡@century」巡演寫的主題曲；台北站 2026 年 11 月在小巨蛋一連三天（中央社）。沒有授權照片，改附街景／地圖連結。",
+              "query": "臺北小巨蛋",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E5%8C%97%E5%B0%8F%E5%B7%A8%E8%9B%8B",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "在這裡等你",
+            "artist": "告五人",
+            "note": "聽最後一段「一百年的」怎麼一句接一句堆上去，再回頭聽第一句副歌「我就站在這裏」。"
+          },
+          "sources": [
+            {
+              "title": "Life 生活網｜邀周杰倫當嘉賓？告五人雲安自認「愛倫」　遭犬青虧：他會哭出來（2026-09-08）",
+              "url": "https://life.tw/article/%E9%82%80%E5%91%A8%E6%9D%B0%E5%80%AB%E7%95%B6%E5%98%89%E8%B3%93-%E5%91%8A%E4%BA%94%E4%BA%BA%E9%9B%B2%E5%AE%89%E8%87%AA%E8%AA%8D-%E6%84%9B%E5%80%AB-%E9%81%AD%E7%8A%AC%E9%9D%92%E8%99%A7-%E4%BB%96%E6%9C%83%E5%93%AD%E5%87%BA%E4%BE%86-3142905"
+            },
+            {
+              "title": "中時新聞網｜告五人雲安告白周杰倫「他來我會哭」 見歌迷塔位照鼻酸寫新歌（2026-09-08）",
+              "url": "https://www.chinatimes.com/realtimenews/20260908004066-260404"
+            },
+            {
+              "title": "中央社｜王心妤：告五人笑喊成本包開唱超時罰款 若周杰倫當嘉賓會落淚（2026-09-08）",
+              "url": "https://www.cna.com.tw/news/amov/202609080282.aspx"
+            },
+            {
+              "title": "一事無成的老編｜告五人推出全新單曲〈在這裡等你〉！「在這裡@century」即將開賣（2026-09-08，相信音樂記者會資料）",
+              "url": "https://benlinmarketing.com/2026/09/08/acentury/"
+            },
+            {
+              "title": "JOOX｜告五人〈在這裏等你〉單曲頁與歌詞（2026-09-07）",
+              "url": "https://www.joox.com/hk/single/+NdcesUx1t5JuWGJ3wkO2Q=="
+            },
+            {
+              "title": "中央社｜王心妤：告五人台北小巨蛋3場落幕　6百架無人機宣告2027年高雄見（2026-11-08）",
+              "url": "https://www.cna.com.tw/news/amov/202611080191.aspx"
+            },
+            {
+              "title": "CTWANT｜告五人宣布移師高雄巨蛋　門票再度秒殺破自身紀錄（2026-11-14）",
+              "url": "https://www.ctwant.com/article/506803/"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "歌曲裡的人",
+            "現場演出"
+          ],
+          "dailyKey": "2026-11-20:accusefive-zai-zhe-li-deng-ni-garbage-truck-century"
+        },
+        {
+          "id": "dominic-fike-babydoll-arepas-low-volume",
+          "city": "邁阿密",
+          "cityEn": "Miami",
+          "artist": "Dominic Fike",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "朋友媽媽在做 arepa，他把音量壓到最低",
+          "work": "Babydoll",
+          "year": "2018",
+          "accent": "sky",
+          "title": "Dominic Fike〈Babydoll〉：朋友媽媽在做 arepa，他把音量壓到最低",
+          "deck": "這首一分半的歌，是在邁阿密朋友家、一個借來的房間裡壓低音量做出來的。八年後它紅了第二次，Fike 開著車通過洗車機，多唱了一段清唱尾奏。",
+          "publishedAt": "2026-11-20",
+          "reviewedAt": "2026-11-20",
+          "readingMinutes": 3,
+          "people": [
+            "Dominic Fike"
+          ],
+          "topics": [
+            "新歌觀察",
+            "翻紅",
+            "製作幕後"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "邁阿密",
+              "aliases": [
+                "Miami"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "arepas",
+              "title": "朋友媽媽在做 arepa，他把音量壓低",
+              "body": "Dominic Fike 寫〈Babydoll〉的時候，人在邁阿密一個朋友家，借用朋友妹妹的房間。朋友的媽媽在家，正在做 arepa。「超好吃，」他說。他本來想等她做完，結果在等的時候，就把這首歌做出來了。[Genius Verified](https://www.youtube.com/watch?v=m51zqD1IoiA)\n\n那時他只能把音量壓得很低。他說，所以主歌才會唱到邁阿密的水泥地。[Genius Verified](https://www.youtube.com/watch?v=m51zqD1IoiA)\n\n這首歌是他後來那張 demo 集《Don't Forget About Me, Demos》裡最後做的幾首之一。講到這批 demo，他還改口：「我不知道為什麼一直說『我們』，好像是個樂團一樣。其實就只有我。」[Genius Verified](https://www.youtube.com/watch?v=m51zqD1IoiA)"
+            },
+            {
+              "id": "tape",
+              "title": "窗外是停車場，他得留意觀護人",
+              "body": "2026 年 3 月，他終於替這首歌推出正式 MV，同時在 Instagram 寫下當年的情況：「八年前，我在佛羅里達做了一捲帶子，在一個朋友讓我住的房間裡，那時我正在居家監禁。」[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)他回憶，每天眼前就是一把黑色 Epiphone 吉他、一台筆電，還有一扇看得到停車場的窗，方便他留意觀護人什麼時候來。寫歌對他來說不像工作，「比較像吃飯，或是生活空檔順手做的事」。那段日子很動盪，他覺得自己是身邊每個人的負擔，尤其是對女人。「我只是非常痛恨貧窮。」[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)\n\n2018 年，22 歲的他成為幾家唱片公司搶簽的對象，最後由 Columbia 簽下，據報導合約約 400 萬美元。簽約兩個月後，這批 demo 就以 EP 的形式推出。[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)"
+            },
+            {
+              "id": "outclassed",
+              "title": "他自己說，這是一首單戀的歌",
+              "body": "「〈Babydoll〉又是一個你們這位老兄的單戀故事，」Fike 說，「這是我最拿手的。」他也很滿意副歌：「這個副歌很炸。」[Genius Verified](https://www.youtube.com/watch?v=m51zqD1IoiA)\n\n歌裡他說自己「被比下去了」（outclassed）。他解釋，只要喜歡上一個人，他就會把對方捧到很高的地方，而這其實是他感情裡的老問題。他說，自己這些年的歌一直有個主題：替別人扛重量。他常這樣對家人：「如果你扛得動，為什麼不扛？」唱到「I can't move on」，他坦白，自己從來沒有真正放下任何一個交往過的人。[Genius Verified](https://www.youtube.com/watch?v=m51zqD1IoiA)"
+            },
+            {
+              "id": "second-life",
+              "title": "八年後，在洗車機裡重唱一次",
+              "body": "2026 年，這首歌突然紅了第二次。Billboard Philippines 訪問時，Fike 說消息傳來時，他正在紐約州北部的一間小木屋做專輯，身邊大概五個人，全穿著連帽衫喝咖啡。「一開始的震撼其實很平靜，」他說，之後才慢慢感受到這件事真的發生了。[Billboard Philippines](https://www.billboard.com/music/rb-hip-hop/dominic-fike-rocket-billboard-philippines-1236300206/)\n\n那支 MV 很簡單：他坐在駕駛座上彈吉他唱歌，車子慢慢通過洗車機。這個版本多了一段延長的尾奏，他開出洗車機時清唱：「You're the only reason I keep on coming home. I can't move on.」[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)Rolling Stone 寫道，他幾乎每場演出都會唱這首，現場唱過的次數，甚至比出道單曲〈3 Nights〉還多。[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)他在 Instagram 寫：「這首歌對我來說，只變得越來越特別。」[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "〈Babydoll〉只有一分半多一點。[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)我們認為，它能讓人一聽再聽，關鍵就在這個長度：副歌剛把你勾住，歌就結束了，手指只好再按一次播放。Rolling Stone 形容它用粗糙的搖滾製作，包住 Fike 佛羅里達口音的慵懶咬字，像是〈3 Nights〉在另一個時空的版本。[Rolling Stone](https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/)\n\n另一個我們覺得有效的地方，是它的音量感。這首歌最早是在別人家裡、壓低音量做出來的，[Genius Verified](https://www.youtube.com/watch?v=m51zqD1IoiA)那種不敢放開唱的距離，正好合單戀的心情：想講，又怕被聽見。八年後補上的那段清唱尾奏，像是把當年壓著不敢唱的那句話，終於唱完。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2018",
+              "event": "在佛羅里達居家監禁期間做出一批 demo；〈Babydoll〉在邁阿密朋友家錄成。Columbia 簽約兩個月後推出《Don't Forget About Me, Demos》。"
+            },
+            {
+              "date": "2026-03",
+              "event": "推出正式 MV，在洗車機裡加唱延長尾奏。"
+            },
+            {
+              "date": "2026",
+              "event": "歌曲翻紅；Fike 當時在紐約州北部的小木屋做專輯。"
+            }
+          ],
+          "places": [
+            {
+              "name": "邁阿密朋友家（錄歌地）",
+              "detail": "Genius Verified：Fike 說這首歌是在邁阿密朋友媽媽家、朋友妹妹的房間做的。確切地址未公開，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Miami, Florida",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Miami%2C+Florida",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Babydoll",
+            "artist": "Dominic Fike",
+            "note": "聽 EP 原版的短，再聽 2026 年 MV 版最後那段清唱尾奏。注意：不是 Jamie Miller 的同名歌。"
+          },
+          "sources": [
+            {
+              "title": "Genius｜Dominic Fike “Babydoll” Lyrics & Meaning | Genius Verified（YouTube，2026-04-01）",
+              "url": "https://www.youtube.com/watch?v=m51zqD1IoiA"
+            },
+            {
+              "title": "Rolling Stone｜Dominic Fike Surges on Spotify and Billboard Charts With “Babydoll”（2026-03-12）",
+              "url": "https://www.rollingstone.com/music/music-news/dominic-fike-babydoll-streaming-surge-1235529231/"
+            },
+            {
+              "title": "Billboard Philippines｜Dominic Fike Talks “Babydoll,” “Rocket” Mixtape and Fatherhood（2026-07-22）",
+              "url": "https://www.billboard.com/music/rb-hip-hop/dominic-fike-rocket-billboard-philippines-1236300206/"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "歌曲裡的人",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-20:dominic-fike-babydoll-arepas-low-volume"
+        },
+        {
+          "id": "hebe-tien-xiao-xing-yun-demo-cat",
+          "city": "",
+          "cityEn": "",
+          "artist": "田馥甄",
+          "lens": "影像與配樂",
+          "category": "影像與配樂",
+          "anchor": "閻奕格去 JerryC 的錄音室玩貓，順手錄了 demo",
+          "work": "小幸運",
+          "year": "2015",
+          "accent": "rose",
+          "title": "田馥甄〈小幸運〉：demo 是閻奕格去錄音室玩貓時順手錄的",
+          "deck": "電影《我的少女時代》的主題曲，最早是閻奕格隨手錄的 demo。JerryC 讀劇本時哭了，花一週寫完，還笑說：「沒別的意思，就是要弄哭你而已。」",
+          "publishedAt": "2026-11-20",
+          "reviewedAt": "2026-11-20",
+          "readingMinutes": 3,
+          "people": [
+            "田馥甄",
+            "JerryC",
+            "閻奕格",
+            "徐世珍",
+            "吳輝福",
+            "陳玉珊"
+          ],
+          "topics": [
+            "影像與配樂",
+            "電影主題曲",
+            "製作幕後"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "cat",
+              "title": "去錄音室玩貓，順便錄了一首 demo",
+              "body": "〈小幸運〉的 demo，不是田馥甄唱的。那時閻奕格剛進華研，還沒錄過自己的歌，有一天跑去 JerryC 的錄音室玩音樂，順便玩貓。JerryC 問她：「你可不可以幫我錄一個 demo，很簡單錄一下就好，你師姐的一首歌。」[華研國際音樂](https://www.him.com.tw/newscon.php?nid=353)\n\n「沒想到我為公司唱的第一首 demo 就是現在深受大家喜歡的《小幸運》，」2016 年 1 月，她在上海的音樂會上說起這段，還說很希望有機會和師姐合唱。[華研國際音樂](https://www.him.com.tw/newscon.php?nid=353)"
+            },
+            {
+              "id": "script",
+              "title": "他想像的是深夜公園裡的女主角",
+              "body": "這首歌是替電影《我的少女時代》寫的。方向一開始就定好了：「很熟悉、有點芭樂的搭戲歌曲」。可是 JerryC 讀劇本時哭了，寫曲時腦中浮現的，幾乎就是女主角深夜在公園裡的那一幕。「後來我進電影院看到那一段時，音樂還沒進來我就又掉淚了。」[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)\n\n他大概花了一個星期寫。起點是電影裡幸運信的橋段，所以他先把題目定為「小幸運」，後來作詞的徐世珍、吳輝福也保留了這個題目。說到動機，他笑說：「我寫這首歌沒別的意思，就是要弄哭你而已。」[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)"
+            },
+            {
+              "id": "hebe",
+              "title": "替一個已經長大的人寫",
+              "body": "這首歌也是替田馥甄量身寫的。JerryC 從她的個人專輯聽出，她想跳脫 S.H.E. 時代的形象，所以把歌裡的人設定成「已經成長的輕熟女，用淡淡哀傷的口吻回憶著這段青澀美麗的遺憾」。電影講的是九〇年代，但他要的是 Retro，用新的聽感重做九〇年代，不是 Vintage，直接做成舊的聲音。他也說，幸好田馥甄的聲音本身就很時尚。[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)\n\n導演陳玉珊找她，是覺得她的聲音能橫跨五、六年級生和十八歲的年輕人兩個世代，也唱得出三十歲左右女生的心聲：「這首歌會符合當下的心境，也符合很多年後回頭看的心情。」歌在 2015 年 7 月 10 日上架，電影 8 月 13 日上映。[華研國際音樂](https://www.him.com.tw/newscon.php?nid=289)\n\n田馥甄錄音時，也想起自己的少女時代。她說高中也有一個像片中徐太宇的學長，皮膚黝黑、愛運動，很照顧她。後來〈小幸運〉入圍金馬獎最佳原創電影歌曲，她說獎項主要是鼓勵詞曲作者，「我只是演唱人，頂多小小沾光。」頒獎當天剛好撞上她的巡迴演唱會，她沒能出席。[ETtoday](https://star.ettoday.net/news/574071)"
+            },
+            {
+              "id": "chords",
+              "title": "把和弦弄得不太一樣",
+              "body": "方向既然定成搭戲歌曲，JerryC 就得在這個框架裡讓歌更鮮明。他在作曲時放了一些不常見的細節：大量的二級大三和弦，還有副歌裡大跳音程的長音；編曲則刻意簡單，把位置讓給主旋律和歌聲。[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)華研當年的介紹寫道，歌在吉他與鋼琴的編制下揭開序幕，再交織進磅礡的弦樂和鼓聲。[華研國際音樂](https://www.him.com.tw/newscon.php?nid=289)\n\n歌紅了以後，JerryC 調整心態：「啊，人生巔峰了，接下來開始走下坡是理所當然的。」他說這一半是玩笑，一半是提醒自己別有包袱。發行一年多後，他偶爾還會放來聽，「然後再偷哭一下，清爽。」[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)田馥甄則把這首歌當成一個運氣：「讓更多人聽到我的聲音」，有些原本不是她歌迷的人，因此認識她其他的作品。[KKBOX](https://www.kkbox.com/tw/tc/column/interviews-0-861-1.html)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "JerryC 說他用了大量的二級大三和弦。[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)在大調裡，二級和弦本來是小三和弦，換成大三和弦，聽起來會亮一點、往前推一點。我們認為，〈小幸運〉的懷舊感有一部分就藏在這裡：回憶本來應該是灰的，和聲卻一直往亮處推，像是想起一件遺憾的事，嘴角還是會上揚。\n\n副歌的大跳長音，我們覺得是情緒的出口：旋律一口氣跳上去、停在高處，讓田馥甄「誠懇卻又不到老練」的聲音有地方展開。這幾個字是 JerryC 形容他最喜歡的聲音，[MÜST／關鍵評論網](https://www.thenewslens.com/article/63407)也正好說明了她為什麼唱得讓人信服：她沒有刻意用力，該讓人掉淚的地方，和聲和旋律已經先鋪好了。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2015-07-10",
+              "event": "〈小幸運〉數位上架。"
+            },
+            {
+              "date": "2015-08-13",
+              "event": "電影《我的少女時代》上映。"
+            },
+            {
+              "date": "2015-10",
+              "event": "入圍第 52 屆金馬獎最佳原創電影歌曲。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "小幸運",
+            "artist": "田馥甄",
+            "note": "先聽前奏的吉他和鋼琴，再等副歌那個往上跳、停在高處的長音。"
+          },
+          "sources": [
+            {
+              "title": "華研國際音樂｜閻奕格上海音樂會實力憾唱 小幸運竟為入行伯樂（2016-01-16）",
+              "url": "https://www.him.com.tw/newscon.php?nid=353"
+            },
+            {
+              "title": "關鍵評論網（MÜST 中華音樂著作權協會授權轉載，葉俊甫採訪撰文）｜〈小幸運〉作曲人JerryC：寫這首歌沒別的意思，就是要讓你哭（2017-03-20）",
+              "url": "https://www.thenewslens.com/article/63407"
+            },
+            {
+              "title": "華研國際音樂｜田馥甄演唱電影主題曲「小幸運」（2015-07-09）",
+              "url": "https://www.him.com.tw/newscon.php?nid=289"
+            },
+            {
+              "title": "ETtoday 星光雲｜Hold不住「少女時代」了　Hebe：只能演校友吧（2015-10-03）",
+              "url": "https://star.ettoday.net/news/574071"
+            },
+            {
+              "title": "KKBOX｜我不會複製小幸運的成功 - 田馥甄（2016-09-20）",
+              "url": "https://www.kkbox.com/tw/tc/column/interviews-0-861-1.html"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "電影與影集",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-20:hebe-tien-xiao-xing-yun-demo-cat"
+        },
+        {
+          "id": "koe-wetzel-ella-langley-jaded-mix-17",
+          "city": "納許維爾",
+          "cityEn": "Nashville",
+          "artist": "Koe Wetzel & Ella Langley",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "一位剛分手的助理工程師，哭著衝出控制室",
+          "work": "Jaded",
+          "year": "2026",
+          "accent": "amber",
+          "title": "Koe Wetzel、Ella Langley〈Jaded〉：一段被遺忘的副歌，混到第 17 版才定案",
+          "deck": "一段寫好就被遺忘的副歌，在納許維爾一間家用錄音室被撿回來。錄音時，一位剛分手的工程師哭著衝出控制室，製作人才確定：這首能跳舞的歌，痛還聽得到。",
+          "publishedAt": "2026-11-20",
+          "reviewedAt": "2026-11-20",
+          "readingMinutes": 3,
+          "people": [
+            "Koe Wetzel",
+            "Ella Langley",
+            "ERNEST",
+            "Jordan Schmidt",
+            "Gabe Simon",
+            "Ben Maddahi",
+            "Josh Seratto"
+          ],
+          "topics": [
+            "新歌觀察",
+            "合唱",
+            "製作幕後"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "納許維爾",
+              "aliases": [
+                "Nashville"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "engineer",
+              "title": "控制室後面，有人哭著跑出去",
+              "body": "錄〈Jaded〉的某一天，控制室後方的一位助理工程師突然衝了出去。製作人 Gabe Simon 出去找他，發現他剛分手，正在掉眼淚。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\nSimon 那幾天的難題，是怎麼讓舞曲的快樂和歌詞裡的怨氣並存。Columbia 唱片的 A&R 主管 Ben Maddahi 覺得，這首歌適合〈Stayin' Alive〉那種律動；可是律動這麼開心，歌詞的痛還聽得到嗎？那位工程師讓 Simon 確定：聽得到。「有個人就在房間裡走來走去，老實說一直在哭，」Simon 說，「那種感覺真的非常、非常具體。」[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)"
+            },
+            {
+              "id": "forgotten",
+              "title": "一段差點被忘掉的副歌",
+              "body": "這首歌其實是撿回來的。2026 年 1 月 14 日，Koe Wetzel 和 Ella Langley 在詞曲作者 Jordan Schmidt 位於納許維爾的家用錄音室寫歌，試了好幾個輕快的點子，都推不動。同房的第四位作者 ERNEST 一直哼著一句「How'd you get so jaded?」。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\n「我就說：『那是什麼鬼？你們在幹嘛？』」Wetzel 回憶，「他們手上已經有骨架了。我說：『兄弟，我們現在就把它寫完。』」那段副歌是 ERNEST、Langley 和 Schmidt 幾個月前寫的。那天 ERNEST 寫完另一首歌，在鋼琴上隨手亂彈，脫口唱出這句，之後就沒人再管它。Schmidt 說，要不是 Wetzel 一月加入、大家又提起來，他早就忘了。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\nWetzel 印象中，ERNEST 一開始大概是在 Mellotron 上彈出一組和弦進行，帶著八〇年代迪斯可的味道；他記得後來這段改用 Dobro 共鳴吉他彈，聽起來有點像《怪奇物語》。寫完後他們還在猶豫：要把它做得怪一點，還是拉回他們熟悉的路子？[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)最後掛名的作者就是這四個人。[Rolling Stone](https://www.rollingstone.com/music/music-country/koe-wetzel-ella-langley-new-song-jaded-1235603988/)"
+            },
+            {
+              "id": "voices",
+              "title": "她唱旋律，他在底下和聲",
+              "body": "副歌原本是替 Langley 寫的，所以每一輪副歌，旋律都留在她身上，Wetzel 在旁邊和聲。主歌則壓到 Wetzel 煙嗓的低音區；進第二段主歌時，Langley 跟著他，把其中幾句問題再重複一次。Schmidt 說，他們原本想做的是七〇年代 Fleetwood Mac 那種感覺，結果 demo 做出來，比預期更想讓人跳舞。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\n兩人輪流進 Schmidt 家唯一的錄音間錄 demo，這些人聲後來直接留在正式版裡。Langley 錄和聲時玩得很開，Wetzel 說，副歌裡那些「Stevie Nicks 式的 ooh 和 ah」就是她的。她還留下很多零碎的聲音：一聲哼、一點嘴巴發出的聲響、一小段旋律，後來都變成編曲素材。Simon 甚至把她隨口落下的一個音，疊上一下鈴鼓，再染上吉他手 Josh Seratto 的音色。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\n「她唱出一句話，你就會相信，」Wetzel 這樣形容 Langley。他說，副歌裡那幾個問題，她問得很用心，先把你拉近，再往你肚子捅一刀。[Rolling Stone](https://www.rollingstone.com/music/music-country/koe-wetzel-ella-langley-new-song-jaded-1235603988/)這是兩人繼 Langley 首張 EP《Excuse the Mess》裡的〈That's Why We Fight〉之後，第二次合作。[Rolling Stone 專訪](https://www.rollingstone.com/music/music-features/koe-wetzel-favorite-duet-partner-ella-langley-interview-1235603905/)"
+            },
+            {
+              "id": "mix17",
+              "title": "第十七版混音",
+              "body": "製作階段，Simon 用了三位鼓手的演奏拼出一個「超級鼓手」，自己也加彈一軌節奏吉他，讓整首歌更像一個樂團在演奏。Seratto 進吉他獨奏時，帶著一點 Lindsey Buckingham 的極簡姿態。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\n混音一路改到第 17 版才定案。Wetzel 和 Langley 在第 6 版就點頭了，製作團隊還是繼續改。「根本是一場牛仔競技，」Wetzel 說，「我是沒差啦。但這就是 Gabe 之所以是 Gabe。」定案後，Maddahi 寄了一件 T 恤給 Schmidt，上面印著「Jaded_Mix_17」。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)\n\n這時專輯《The Night Champion》已經發行了。〈Jaded〉在 8 月以單曲推出，同時收進專輯的擴充版。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)[Rolling Stone 專訪](https://www.rollingstone.com/music/music-features/koe-wetzel-favorite-duet-partner-ella-langley-interview-1235603905/)Wetzel 自己的評語很乾脆：「這百分之百是我這輩子大概會錄的最流行的一首歌。」[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "〈Jaded〉的歌詞幾乎全是問句：誰傷了你、誰把你變成這樣。[Billboard](https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/)這些問題沒有人回答，我們認為，這正是它能配上迪斯可律動的原因。問題一直丟出來，律動一直往前走，兩邊都不停下來，聽起來就像一段明知不對、還是捨不得結束的關係。\n\n聲線的安排也很關鍵。副歌由 Langley 守住旋律，主歌讓 Wetzel 待在低音區，兩個人問的是同樣的問題，卻是從兩個高度問出來的。至於 Wetzel 記得換上的那把 Dobro，我們覺得它是這首歌的錨：舞曲的骨架、鄉村的聲音，讓一首 Wetzel 自認最流行的歌，還聽得出是他的歌。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-01-14",
+              "event": "Wetzel、Langley、ERNEST、Jordan Schmidt 在 Schmidt 位於納許維爾的家用錄音室，把幾個月前寫的副歌寫完。"
+            },
+            {
+              "date": "2026-06",
+              "event": "Koe Wetzel 專輯《The Night Champion》發行。"
+            },
+            {
+              "date": "2026-08",
+              "event": "〈Jaded〉以單曲推出，同時收進專輯擴充版；混音在專輯發行後、改到第 17 版才定案。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Jordan Schmidt 的家用錄音室（寫歌與錄 demo 人聲）",
+              "detail": "Billboard：2026 年 1 月 14 日在 Schmidt 位於納許維爾的家用錄音室寫完這首歌，demo 人聲在他家唯一的錄音間錄，後來留在正式版。確切地址未公開，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Nashville, Tennessee",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Nashville%2C+Tennessee",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Jaded",
+            "artist": "Koe Wetzel & Ella Langley",
+            "note": "聽副歌裡 Langley 的「ooh」和「ah」，再聽第二段主歌她怎麼跟著 Wetzel 把問題重問一次。"
+          },
+          "sources": [
+            {
+              "title": "Billboard｜Tom Roland：Ella Langley and Koe Wetzel's \"Jaded\": Makin' Tracks（2026-09-11）",
+              "url": "https://www.billboard.com/music/country/makin-tracks-koe-wetzel-ella-langley-jaded-1236338294/"
+            },
+            {
+              "title": "Rolling Stone｜Ella Langley And Koe Wetzel Team Up For New Duet（2026-08-07）",
+              "url": "https://www.rollingstone.com/music/music-country/koe-wetzel-ella-langley-new-song-jaded-1235603988/"
+            },
+            {
+              "title": "Rolling Stone｜Koe Wetzel Reunites With His Favorite Duet Partner: Ella Langley（2026-08-05）",
+              "url": "https://www.rollingstone.com/music/music-features/koe-wetzel-favorite-duet-partner-ella-langley-interview-1235603905/"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-20:koe-wetzel-ella-langley-jaded-mix-17"
+        },
+        {
+          "id": "mayday-jue-jiang-time-machine-reject",
+          "city": "河口湖",
+          "cityEn": "Kawaguchiko",
+          "artist": "五月天",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "阿信在鳥巢說：〈倔強〉是從《時光機》淘汰出來的",
+          "work": "倔強",
+          "year": "2004",
+          "accent": "violet",
+          "title": "五月天〈倔強〉：一首從《時光機》被刷掉的歌",
+          "deck": "〈倔強〉沒收進《時光機》，隔年才在富士山下的錄音室錄進《神的孩子都在跳舞》。阿信後來說，「手越骯髒」的意思是捲起袖子去做；四十歲時，他又寫了〈頑固〉回信給當年的自己。",
+          "publishedAt": "2026-11-20",
+          "reviewedAt": "2026-11-20",
+          "readingMinutes": 3,
+          "people": [
+            "阿信",
+            "瑪莎",
+            "丹修一"
+          ],
+          "topics": [
+            "經典歌曲",
+            "創作幕後",
+            "現場演出"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "河口湖",
+              "aliases": [
+                "Kawaguchiko",
+                "富士河口湖"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "國家體育場（鳥巢）",
+              "aliases": [
+                "鳥巢",
+                "Beijing National Stadium"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "nest",
+              "title": "唱到一半，他說這首歌當年被刷掉",
+              "body": "2024 年 5 月 25 日，五月天在北京鳥巢開唱。唱到一半，阿信突然提起〈倔強〉，說這首歌其實是從《時光機》專輯裡淘汰出來的。他沒想到，一首被刷掉的歌，會陪大家走過十幾年、帶他們跑遍世界各地。說著說著，他哽咽了。[中時新聞網](https://www.chinatimes.com/realtimenews/20240525003479-260404)\n\n「五月天從20幾歲的小伙子，轉眼間變成40幾歲和你們一樣有著煩惱，肩上有著重量的中年男生，」他對台下說，「其實我常常問自己，如果我們遇到某些事情的時候，還有辦法像20幾歲時候的自己背上總是長著一對翅膀，想去哪裡就去哪裡，想做什麼就做什麼，我真的沒有答案。」[中時新聞網](https://www.chinatimes.com/realtimenews/20240525003479-260404)"
+            },
+            {
+              "id": "kawaguchiko",
+              "title": "回到富士山下的錄音室",
+              "body": "《時光機》在 2003 年推出，〈倔強〉沒有收進去。隔年，它成了第五張錄音室專輯《神的孩子都在跳舞》的第二首歌，詞曲都是阿信，編曲掛名五月天。這張專輯在 2004 年 11 月 5 日由滾石發行，五個人回到四年前做《愛情萬歲》時用過的錄音室，就在日本富士山下的河口湖。[維基百科](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E8%B7%B3%E8%88%9E_%28%E5%B0%88%E8%BC%AF%29)\n\n〈倔強〉的 MV 由導演丹修一執導。[維基百科](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E8%B7%B3%E8%88%9E_%28%E5%B0%88%E8%BC%AF%29)"
+            },
+            {
+              "id": "dirty-hands",
+              "title": "「手越骯髒」到底是什麼意思",
+              "body": "歌裡最多人討論的一句，是「我的手越骯髒，眼神越是發光」。十年後，《商業周刊》在紐約訪問阿信，直接問他這句話是在什麼背景下寫的。[商業周刊](https://www.businessweekly.com.tw/business/blog/7318)\n\n「那時就是想要去表達那樣的感覺！」阿信說，歌出來以後，大家都很狐疑，為什麼手越髒、眼神才會發光，「不是很多人很快就會了解那個意義是什麼。『骯髒』其實是捲起袖子去做的意思。」記者追問：真的是這個意思？「對啊！就是捲起袖子去做！很多事情還是要去做！把手弄髒沒有關係，但是眼睛看的地方要不能沒有看到未來就是了。」[商業周刊](https://www.businessweekly.com.tw/business/blog/7318)"
+            },
+            {
+              "id": "stubborn",
+              "title": "四十歲，寫一首歌回信給二十幾歲的自己",
+              "body": "2016 年，五月天在香港紅館唱到這首，阿信開玩笑說：「倔強了十幾年也累了！」[三立新聞網](https://www.setn.com/news/148869)同一年，他替專輯《自傳》寫〈頑固〉，卡住了。他在 Hit FM 的節目上說，像〈倔強〉這種鼓勵自己的歌，寫過之後「其實很難去再寫下一首，你已經整個該寫的都寫完了」。他的解法是讓兩首歌對話：「我們寫《倔強》那時候才20幾歲」，四十歲的自己，對夢想和堅持的態度已經很不一樣，〈頑固〉就選擇跟當時那個二十幾歲的自己說話。瑪莎在旁邊補了一句：就是用〈頑固〉，跟寫〈倔強〉的那個人對話。[Hit FM 訪談逐字整理](https://www.ptt.cc/bbs/MayDay/M.1472350503.A.1AF.html)\n\n那段時間台北正遇上寒流，阿信常在午夜出門散步。某天他走到大安森林公園，坐在音樂台前的觀眾椅上，想起二十年前的自己也坐在同一個位置。[ETtoday](https://star.ettoday.net/news/768263)八年後在鳥巢，他說起〈頑固〉的誕生，是因為心疼那些曾為五月天流淚的歌迷。[中時新聞網](https://www.chinatimes.com/realtimenews/20240525003479-260404)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "〈倔強〉被《時光機》刷掉，隔年又被撿回來，成了下一張專輯的第二首歌。[中時新聞網](https://www.chinatimes.com/realtimenews/20240525003479-260404)[維基百科](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E8%B7%B3%E8%88%9E_%28%E5%B0%88%E8%BC%AF%29)一首寫「不肯妥協」的歌，自己先經歷了一次淘汰，這件事本身就很像它的歌詞。\n\n我們認為，它能被唱這麼多年，關鍵在阿信解釋的那句「手越骯髒」。很多勵志歌講的是飛、是光、是夢想，這首歌偏偏挑了一個很不好看的畫面：一雙弄髒的手。照他的說法，那雙手指的是捲起袖子做事，[商業周刊](https://www.businessweekly.com.tw/business/blog/7318)比起抽象的口號，這個動作每個人都做過，所以唱的人很容易把自己放進去。至於十二年後的〈頑固〉，等於替這首歌寫了續集：同一個人，從二十幾歲走到四十歲，回頭跟當年那個倔強的自己說話。[Hit FM 訪談逐字整理](https://www.ptt.cc/bbs/MayDay/M.1472350503.A.1AF.html)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2003",
+              "event": "專輯《時光機》推出，〈倔強〉被淘汰、沒有收錄。"
+            },
+            {
+              "date": "2004-11-05",
+              "event": "《神的孩子都在跳舞》發行，〈倔強〉為第二首；在日本河口湖的錄音室製作。"
+            },
+            {
+              "date": "2014-04",
+              "event": "阿信在《商業周刊》紐約專訪解釋「手越骯髒」是捲起袖子去做。"
+            },
+            {
+              "date": "2016",
+              "event": "寫〈頑固〉，跟寫〈倔強〉時二十幾歲的自己對話。"
+            },
+            {
+              "date": "2024-05-25",
+              "event": "北京鳥巢演唱會，阿信說〈倔強〉是從《時光機》淘汰出來的歌。"
+            }
+          ],
+          "places": [
+            {
+              "name": "河口湖的錄音室（錄音地）",
+              "detail": "維基百科：五月天重回第二張專輯《愛情萬歲》時位於日本富士山下河口湖的錄音室製作《神的孩子都在跳舞》。錄音室名稱未寫，沒有授權照片，改附地圖連結（只到地區）。",
+              "query": "河口湖, 山梨縣, 日本",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Lake+Kawaguchi%2C+Yamanashi%2C+Japan",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "國家體育場（鳥巢）",
+              "detail": "中時新聞網：2024 年 5 月 25 日演唱會上，阿信說〈倔強〉是從《時光機》淘汰出來的歌。沒有授權照片，改附街景／地圖連結。",
+              "query": "Beijing National Stadium",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Beijing+National+Stadium",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "倔強",
+            "artist": "五月天",
+            "note": "聽到「我的手越骯髒，眼神越是發光」時，想想阿信說的：那是捲起袖子去做。聽完可以接著聽〈頑固〉。"
+          },
+          "sources": [
+            {
+              "title": "中時新聞網｜五月天阿信自曝「40歲煩惱」 北京鳥巢全場哽咽大合唱（2024-05-25）",
+              "url": "https://www.chinatimes.com/realtimenews/20240525003479-260404"
+            },
+            {
+              "title": "維基百科｜神的孩子都在跳舞 (專輯)（2026-08-20 版本）",
+              "url": "https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E8%B7%B3%E8%88%9E_%28%E5%B0%88%E8%BC%AF%29"
+            },
+            {
+              "title": "商業周刊｜吳修辰、黃亞琪：看見夢想殘酷的一面...五月天走在「歧路」上的掙扎（2014-04-11）",
+              "url": "https://www.businessweekly.com.tw/business/blog/7318"
+            },
+            {
+              "title": "PTT MayDay 板｜五月天【自傳】概念-廣播訪談總整理(上)（2016-08-28，整理 2016-08-22 Hit FM「好9不見五月天」）",
+              "url": "https://www.ptt.cc/bbs/MayDay/M.1472350503.A.1AF.html"
+            },
+            {
+              "title": "ETtoday 星光雲｜阿信揭《頑固》靈感發想地！「20年前也坐在這裡」引淚崩（2016-09-03）",
+              "url": "https://star.ettoday.net/news/768263"
+            },
+            {
+              "title": "三立新聞網｜五月天經典曲《倔強》唱十幾年　阿信自嘲「累了！」（2016-05-22）",
+              "url": "https://www.setn.com/news/148869"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "現場演出",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-20:mayday-jue-jiang-time-machine-reject"
+        },
+        {
           "id": "fleetwood-mac-everywhere-half-speed-guitars",
           "city": "洛杉磯",
           "cityEn": "Los Angeles",
