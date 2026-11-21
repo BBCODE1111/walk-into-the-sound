@@ -3,14 +3,14 @@
   "kind": "separate-data-v1",
   "html": {
     "path": "index.html",
-    "sha256": "9837933d017e8509f724905e646183a02977b319870d0dfb93a480531893107e",
+    "sha256": "68caafbaa5437a5b17881080388ae8b201b5286e51a312587dee4141176dc666",
     "bytes": 2616721
   },
   "snapshot": {
-    "path": "snapshot.fdfdb08760bec47478222d7493e873300b9eb691fc5fff93236869609edf3212.json",
-    "sha256": "fdfdb08760bec47478222d7493e873300b9eb691fc5fff93236869609edf3212",
-    "bytes": 3787491
+    "path": "snapshot.f80582cc5559cb8ed099d115bb72b59e333842acd977ae85bd997e8fc198d267.json",
+    "sha256": "f80582cc5559cb8ed099d115bb72b59e333842acd977ae85bd997e8fc198d267",
+    "bytes": 3841741
   },
   "runtimeSha256": "916b94ce943116be361cec379e4d341661a4f1f18fee2be142cab27bacd2fa02",
-  "sourceSnapshotSha256": "fdfdb08760bec47478222d7493e873300b9eb691fc5fff93236869609edf3212"
+  "sourceSnapshotSha256": "f80582cc5559cb8ed099d115bb72b59e333842acd977ae85bd997e8fc198d267"
 }

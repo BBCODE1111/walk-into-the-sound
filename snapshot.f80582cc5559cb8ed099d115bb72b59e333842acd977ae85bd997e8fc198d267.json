@@ -62136,6 +62136,683 @@
     "cityStories": {
       "rows": [
         {
+          "id": "band-aid-do-they-know-its-christmas-cassette-bbc",
+          "city": "倫敦",
+          "cityEn": "London",
+          "artist": "Band Aid",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "隔天早上八點，BBC 用一捲卡帶整點重播這首歌",
+          "work": "Do They Know It's Christmas?",
+          "year": "1984",
+          "accent": "crimson",
+          "title": "Band Aid〈Do They Know It's Christmas?〉：24 小時錄完，誰唱哪句當天才排",
+          "deck": "歌手到場前一個音都沒聽過，誰唱哪句也沒排好。Boy George 差點睡過頭，Bono 不想唱的那句成了轉折點；除了人聲和鼓，其餘聲音全是 Midge Ure 一個人在家做的。",
+          "publishedAt": "2026-11-21",
+          "reviewedAt": "2026-11-21",
+          "readingMinutes": 3,
+          "people": [
+            "Midge Ure",
+            "Bob Geldof",
+            "Boy George",
+            "Bono",
+            "Tony Hadley",
+            "John Taylor",
+            "Phil Collins",
+            "Trevor Horn",
+            "Paul Young",
+            "George Michael",
+            "Simon Le Bon"
+          ],
+          "topics": [
+            "經典歌曲",
+            "製作幕後",
+            "耶誕歌"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "倫敦",
+              "aliases": [
+                "London"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "SARM 錄音室",
+              "aliases": [
+                "SARM West Studios",
+                "Sarm Studios"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "cassette",
+              "title": "早上八點，BBC 在放一捲卡帶",
+              "body": "1984 年 11 月 25 日錄完、連夜混音之後，隔天早上八點，Midge Ure 開車從錄音室回家。收音機裡傳出的，正是他剛混好的那首歌：Bob Geldof 把一捲卡帶拿去了 BBC。「我心想，這不尋常，BBC 是不放卡帶的！」歌一播完，電台馬上又播一次，之後每個整點都放，用的還是那捲卡帶；母帶則直接送去壓片廠。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)\n\n他們原本的目標其實很小：拿一次英國冠軍，大約能募到十萬英鎊。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)"
+            },
+            {
+              "id": "calls",
+              "title": "沒有人確認會來",
+              "body": "前一天，Ure 和 Geldof 站在倫敦 SARM 錄音室門口，記者的鏡頭幾乎頂到鼻子。錄音室是 Trevor Horn 免費借的。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)他們不知道誰會出現：Geldof 不找經紀人、不找唱片公司，直接打給歌手本人，用的是 Ure 的電話，帳單驚人。「沒有人確認過。我們只給了日期和時間，然後希望他們記得。」結果答應的人全都到了。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)\n\n最驚險的是 Boy George。他人還在紐約的飯店睡覺，完全忘了這件事。Geldof 打電話過去，他問：「是今天喔？還有誰在？」Geldof 叫他馬上起床搭飛機。他晚上七、八點才走進錄音室，直接開唱。進門時他彈了彈手指，要人拿白蘭地給他，Ure 按下對講機：「你得自己去拿，這裡沒有跑腿的。」[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)"
+            },
+            {
+              "id": "lines",
+              "title": "誰唱哪一句，當天才決定",
+              "body": "這些歌手到場前，一個音都沒聽過。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)歌是兩人花三、四天拼出來的：Ure 先用一台小小的 Casio 錄下旋律寄給 Geldof，Geldof 很討厭；Geldof 帶著吉他到他家，把右手琴反過來彈，還少了好幾根弦，每唱一次都不一樣。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)原本的歌詞是「there won't be snow in Ethiopia this Christmas」，唱起來不順，才把 Ethiopia 改成 Africa。[Official Charts 專訪](https://www.officialcharts.com/chart-news/midge-ure-do-they-know-it-s-christmas-isn-t-perfect-but-it-does-the-job-__7253/)\n\n錄音當天，誰唱哪一句都沒排好，句子甚至不夠分，Ure 和 Geldof 自己都沒有獨唱句。沒人想第一個上，最後是 Spandau Ballet 的 Tony Hadley 先唱，冰才破。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)大家靠 Ure 準備的導唱帶當場學。成品裡，主歌依序由 Paul Young、Boy George、George Michael、Simon Le Bon 和 Bono 唱出。[Rolling Stone](https://www.rollingstone.com/music/music-news/do-they-know-its-christmas-band-aid-1984-geldof-761428/)\n\nBono 不想唱「Tonight, thank God, it's them instead of you」這句，Geldof 回他：「這不是你想要什麼，是這些人需要什麼。」[Rolling Stone](https://www.rollingstone.com/music/music-news/do-they-know-its-christmas-band-aid-1984-geldof-761428/)Ure 在導唱帶上把這句唱低了一個八度，幾乎是隨口帶過；Bono 一開口就跳上八度放聲唱。Ure 說，那是這張唱片真正的轉折點。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)\n\n到了晚上八點，他們必須把所有人趕出去開始混音，隔天早上唱片就要進壓片廠，可是沒有人想走。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)"
+            },
+            {
+              "id": "machines",
+              "title": "除了人聲和鼓，都是 Ure 做的",
+              "body": "音樂部分，Ure 在自家錄音室關了四天，一件樂器一件樂器往上疊。[Official Charts 專訪](https://www.officialcharts.com/chart-news/midge-ure-do-they-know-it-s-christmas-isn-t-perfect-but-it-does-the-job-__7253/)Duran Duran 的 John Taylor 錄了貝斯，但電貝斯放在一堆電子聲響裡不對勁，最後被混得非常小聲；其他人錄的吉他也沒用上。除了人聲和 Phil Collins 的鼓，唱片上的聲音都出自 Ure。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)\n\n開頭那陣聲音，有一部分來自 Tears for Fears。Ure 沒問過他們，就從〈The Hurting〉開頭取樣一記通鼓，疊成鼓組節奏，再混進他自己多軌疊錄的人聲，做成一片嗡嗡作響的聲音。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)12 月 3 日，單曲趕在耶誕前緊急發行。[Official Charts](https://www.officialcharts.com/songs/band-aid-do-they-know-its-christmas/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "Ure 說過，這首歌沒有一般流行歌的結構，沒有前奏、主歌、副歌那一套，「只是一個開始了就一直長大的東西」；最好記的「Feed the world」反而是最後才加上去的。[Yahoo Entertainment 專訪](https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/)他也說，最難的是在一段不祥的拍子轉換之後，接上一段近乎正面的大合唱。[Official Charts 專訪](https://www.officialcharts.com/chart-news/midge-ure-do-they-know-it-s-christmas-isn-t-perfect-but-it-does-the-job-__7253/)\n\n我們認為，這首歌耐聽，正是因為這個「不對」的結構。前半段像接力，每個人只唱一兩句，音色一直在換，聽的人一直在認聲音；Bono 那句往上衝之後，歌曲才第一次有了高點，接著整群人把同一句唱到底。把鉤子放在最後，等於讓聽的人等了一整首歌。Ure 自己的評價很冷靜：作為一首歌，它沒那麼好；作為一張唱片，它做到了該做的事。[Official Charts 專訪](https://www.officialcharts.com/chart-news/midge-ure-do-they-know-it-s-christmas-isn-t-perfect-but-it-does-the-job-__7253/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1984",
+              "event": "Ure 和 Geldof 花三、四天把兩人的點子拼成一首歌；Ure 在自家錄音室用四天做完音樂。"
+            },
+            {
+              "date": "1984-11-25",
+              "event": "在倫敦 SARM 錄音室錄人聲，晚上八點清場開始混音。"
+            },
+            {
+              "date": "1984-11-26",
+              "event": "早上 BBC 用卡帶整點播放；母帶送去壓片。"
+            },
+            {
+              "date": "1984-12-03",
+              "event": "單曲在英國緊急發行。"
+            }
+          ],
+          "places": [
+            {
+              "name": "SARM 錄音室（人聲錄音、混音）",
+              "detail": "Rolling Stone 寫 Sarm West Studios；Yahoo 專訪寫 Trevor Horn 的 SARM Studios，在倫敦，錄音室免費提供。沒有授權照片，改附地圖連結。",
+              "query": "SARM West Studios, London",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=SARM+West+Studios%2C+London",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Do They Know It's Christmas?",
+            "artist": "Band Aid",
+            "note": "聽開頭那片嗡嗡聲：裡面有一記取樣自 Tears for Fears 的通鼓。再等 Bono 那句往上衝。"
+          },
+          "sources": [
+            {
+              "title": "Lyndsanity（Lyndsey Parker，Yahoo Entertainment 專訪 Midge Ure）｜The Unlikely Tale of 'Do They Know It's Christmas?'（2018-11-25）",
+              "url": "https://www.lyndsanity.com/music/midge-ure-the-man-behind-the-band-aid-mixing-board/"
+            },
+            {
+              "title": "Rolling Stone｜Feed the World: 'Do They Know It's Christmas?' by Band Aid（2018-12-12）",
+              "url": "https://www.rollingstone.com/music/music-news/do-they-know-its-christmas-band-aid-1984-geldof-761428/"
+            },
+            {
+              "title": "Official Charts｜Rob Copsey：Band Aid's Midge Ure: 'Do They Know It's Christmas isn't perfect, but it does the job'（2024-11-29，收錄 2012 年專訪）",
+              "url": "https://www.officialcharts.com/chart-news/midge-ure-do-they-know-it-s-christmas-isn-t-perfect-but-it-does-the-job-__7253/"
+            },
+            {
+              "title": "Official Charts｜Band Aid – Do They Know It's Christmas? 歌曲頁",
+              "url": "https://www.officialcharts.com/songs/band-aid-do-they-know-its-christmas/"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-21:band-aid-do-they-know-its-christmas-cassette-bbc"
+        },
+        {
+          "id": "morgan-wallen-been-by-now-thirty-minutes",
+          "city": "巴爾的摩",
+          "cityEn": "Baltimore",
+          "artist": "Morgan Wallen",
+          "lens": "新歌觀察",
+          "category": "新歌觀察",
+          "anchor": "演唱會唱到一半，Wallen 宣布下一首單曲就是這首",
+          "work": "Been By Now",
+          "year": "2026",
+          "accent": "amber",
+          "title": "Morgan Wallen〈Been By Now〉：三十分鐘寫出旋律，發行前就被聽光",
+          "deck": "一段伴奏、三十分鐘的旋律，六個人寫完一首「笑著唱分手」的歌。正式發行前，它先在 TikTok 被整首流出，Wallen 才在巴爾的摩的體育場宣布：這就是下一首單曲。",
+          "publishedAt": "2026-11-21",
+          "reviewedAt": "2026-11-21",
+          "readingMinutes": 3,
+          "people": [
+            "Morgan Wallen",
+            "Charlie Handsome",
+            "John Byron",
+            "Blake Pendergrass",
+            "Rocky Block",
+            "Taylor Phillips",
+            "Joey Moi"
+          ],
+          "topics": [
+            "新歌觀察",
+            "創作幕後",
+            "鄉村"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "巴爾的摩",
+              "aliases": [
+                "Baltimore"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "M&T Bank Stadium",
+              "aliases": [
+                "M&T 銀行體育場"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "baltimore",
+              "title": "演唱會唱到一半，他宣布下一首單曲",
+              "body": "2026 年 7 月，巴爾的摩 M&T Bank Stadium。Morgan Wallen 的巡迴演唱會唱到一半，他對台下說：「我剛放了幾個禮拜的假。你們知道我的，忍不住還是工作了一下，一直在錄音室做接下來的東西。」[Whiskey Riff](https://www.whiskeyriff.com/2026/07/18/morgan-wallen-debuts-brand-new-single-been-by-now-for-baltimore-crowd/)\n\n「我還不確定接下來會是什麼，但我知道，我等一下要唱的這首，就是我的下一首單曲，7 月 24 日推出，叫〈Been By Now〉。」[Whiskey Riff](https://www.whiskeyriff.com/2026/07/18/morgan-wallen-debuts-brand-new-single-been-by-now-for-baltimore-crowd/)這是這首歌第一次在台上完整演出。[Taste of Country](https://tasteofcountry.com/morgan-wallen-been-by-now-live-debut/)\n\n演出日期，Taste of Country 寫是 7 月 17 日週五，Billboard 寫是 7 月 18 日週六。[Taste of Country](https://tasteofcountry.com/morgan-wallen-been-by-now-live-debut/)[Billboard](https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/)那晚開唱前，他才在社群上貼出一段鋼琴版，把它彈成一首抒情曲；[Taste of Country](https://tasteofcountry.com/morgan-wallen-been-by-now-live-debut/)散場後，又放上 40 秒的錄音室版片段。[Billboard](https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/)"
+            },
+            {
+              "id": "leak",
+              "title": "還沒發行，就先被聽光",
+              "body": "其實很多人早就聽過這首歌。6 月 4 日，Wallen 在 Instagram 貼出一張帶著語音備忘錄圖示的貼文，那是他近年固定的手法：先放 demo 片段，看歌迷反應，再決定發哪首。[Holler](https://holler.country/news/breaking/morgan-wallens-been-by-now-has-leaked-early-could-it-change-his-approach-to-future-rollouts/)\n\n6 月 6 日，一位 TikTok 用戶開始對嘴一段沒人聽過的第二段主歌，堅稱自己手上有整首歌。很多人以為那是 AI 做的假歌。6 月 21 日，Wallen 上傳一段後台影片，跟著唱的正是同一段第二段主歌。那位用戶後來說，他是點了一則廣告，連到一個網站，才聽到完整版本，並把它錄了下來。[Holler](https://holler.country/news/breaking/morgan-wallens-been-by-now-has-leaked-early-could-it-change-his-approach-to-future-rollouts/)\n\n歌迷急，也有前例。2024 年 5 月，Wallen 預告〈Love Somebody〉時說「這首在船上聽應該很棒」，結果等到 10 月 18 日才發，夏天早就過了。[Holler](https://holler.country/news/breaking/morgan-wallens-been-by-now-has-leaked-early-could-it-change-his-approach-to-future-rollouts/)這次，7 月 16 日他在 Instagram 貼出鋼琴版，答應這首會在「這次船還沒收起來過冬之前」推出。[維基百科](https://en.wikipedia.org/wiki/Been_By_Now)"
+            },
+            {
+              "id": "writers",
+              "title": "三十分鐘掉出來的旋律",
+              "body": "〈Been By Now〉有六位作者：Wallen、Charlie Handsome、John Byron、Blake Pendergrass、Rocky Block 和 Taylor Phillips，製作人是 Joey Moi。[Big Loud 新聞稿](https://bigloud.com/morgan-wallen-announces-new-track-been-by-now-out-july-24/)\n\n起點是 Handsome 放出一段自己正在做的伴奏。「我最喜歡這首歌的地方是旋律，」Wallen 在 SiriusXM 的節目上說，「Charlie 一開始放那段 track，很多旋律大概三十分鐘內就掉出來了。我們寫得非常快。」[Holler](https://holler.country/news/breaking/morgan-wallen-explains-how-been-by-now-came-together/)\n\n其中兩位作者的交情更早。Pendergrass 來自北卡羅來納州的羅利，十七歲搬到納許維爾念 Belmont 大學，和 Byron 在新生訓練分在同一組，大三開始每週一固定寫歌，寫了大約六年都沒有成果。2020 年疫情剛爆發，他們在 Zoom 上寫了〈865〉，透過 Big Loud 的人一路轉到 Wallen 手上。他錄下兩個沒有版權合約的作者寫的歌，Pendergrass 說，那首歌替他們把門整個打開。[SongwriterUniverse](https://www.songwriteruniverse.com/blake-pendergrass-songwriter/)\n\n〈Been By Now〉也是 Wallen 在〈I Can't Love You Anymore〉之後的第一首新歌，那首是 4 月和 Ella Langley 的合唱。[Billboard](https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "Wallen 這樣形容這首歌：看著交往一陣子的伴侶，覺得關係不會再往前，開始注意到一些跡象。「這是一首有點苦甜的歌。音樂聽起來有點快樂，訊息卻壓倒性地悲傷，這差不多是我的拿手招式。」[Audacy](https://www.audacy.com/national/music/world-premiere-morgan-wallen-been-by-now)副歌唱的是：「If it was meant to be, we'd have been by now」，如果真的注定在一起，早就在一起了。[Taste of Country](https://tasteofcountry.com/morgan-wallen-been-by-now-live-debut/)\n\n我們認為，這首歌成立的關鍵就在這個落差。同一段旋律，他能在社群上彈成鋼琴抒情曲，首唱時配上 Taste of Country 形容的「脈動、陰鬱的中板」，錄音室版又是 Holler 說的合成器撐起的輕快單曲，[Taste of Country](https://tasteofcountry.com/morgan-wallen-been-by-now-live-debut/)[Holler](https://holler.country/news/breaking/morgan-wallen-explains-how-been-by-now-came-together/)這說明旋律本身夠硬，難怪 Wallen 最喜歡的也是旋律。歌詞在放手，律動卻不肯停，聽起來就像一段明知該結束、卻還會在車上跟著哼的關係。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2020",
+              "event": "Blake Pendergrass 和 John Byron 用 Zoom 寫出〈865〉，後來被 Wallen 錄下。"
+            },
+            {
+              "date": "2026-06-04",
+              "event": "Wallen 在 Instagram 貼出〈Been By Now〉片段。"
+            },
+            {
+              "date": "2026-06-21",
+              "event": "TikTok 流出的第二段主歌，被 Wallen 後台影片證實。"
+            },
+            {
+              "date": "2026-07",
+              "event": "在巴爾的摩 M&T Bank Stadium 首次現場演出並宣布發行日（日期兩說：7/17 或 7/18）。"
+            },
+            {
+              "date": "2026-07-24",
+              "event": "〈Been By Now〉發行。"
+            }
+          ],
+          "places": [
+            {
+              "name": "M&T Bank Stadium（首次現場演出）",
+              "detail": "Taste of Country、Billboard、Whiskey Riff：Wallen 在巴爾的摩 M&T Bank Stadium 首唱〈Been By Now〉並宣布 7 月 24 日發行。沒有授權照片，改附街景／地圖連結。",
+              "query": "M&T Bank Stadium, Baltimore",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=M%26T+Bank+Stadium%2C+Baltimore",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Been By Now",
+            "artist": "Morgan Wallen",
+            "note": "一邊聽輕快的伴奏，一邊聽副歌那句「we'd have been by now」：Wallen 說的苦甜，就在這兩者之間。"
+          },
+          "sources": [
+            {
+              "title": "Whiskey Riff｜Morgan Wallen Debuts Brand New Single \"Been By Now\" For Baltimore Crowd（2026-07-18）",
+              "url": "https://www.whiskeyriff.com/2026/07/18/morgan-wallen-debuts-brand-new-single-been-by-now-for-baltimore-crowd/"
+            },
+            {
+              "title": "Taste of Country｜Carena Liptak：Morgan Wallen Debuts Unreleased Single 'Been By Now' Onstage in Baltimore（2026-07-19）",
+              "url": "https://tasteofcountry.com/morgan-wallen-been-by-now-live-debut/"
+            },
+            {
+              "title": "Billboard｜Morgan Wallen Debuts 'Been By Now' Single, Announces Release Date（2026-07-19）",
+              "url": "https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/"
+            },
+            {
+              "title": "Holler｜Maxim Mower：Morgan Wallen's 'Been By Now' Has Leaked Early（2026-06-22）",
+              "url": "https://holler.country/news/breaking/morgan-wallens-been-by-now-has-leaked-early-could-it-change-his-approach-to-future-rollouts/"
+            },
+            {
+              "title": "Big Loud｜Morgan Wallen Announces New Track \"Been By Now\" Out July 24（2026-07-20）",
+              "url": "https://bigloud.com/morgan-wallen-announces-new-track-been-by-now-out-july-24/"
+            },
+            {
+              "title": "Holler｜Maxim Mower：Morgan Wallen Explains How 'Been By Now' Came Together（2026-07-24）",
+              "url": "https://holler.country/news/breaking/morgan-wallen-explains-how-been-by-now-came-together/"
+            },
+            {
+              "title": "SongwriterUniverse｜Dale Kawashima：Blake Pendergrass 專訪（2026-11-17）",
+              "url": "https://www.songwriteruniverse.com/blake-pendergrass-songwriter/"
+            },
+            {
+              "title": "維基百科（英文）｜Been By Now",
+              "url": "https://en.wikipedia.org/wiki/Been_By_Now"
+            },
+            {
+              "title": "Audacy｜Michael Cerio：WORLD PREMIERE: Morgan Wallen – 'Been By Now'（2026-07-24）",
+              "url": "https://www.audacy.com/national/music/world-premiere-morgan-wallen-been-by-now"
+            }
+          ],
+          "interests": [
+            "新歌觀察",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-21:morgan-wallen-been-by-now-thirty-minutes"
+        },
+        {
+          "id": "stefanie-sun-wo-huai-nian-de-title-too-plain",
+          "city": "新加坡",
+          "cityEn": "Singapore",
+          "artist": "孫燕姿",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "第二段主歌才唱一句，林俊傑從舞台後方走出來",
+          "work": "我懷念的",
+          "year": "2007",
+          "accent": "violet",
+          "title": "孫燕姿〈我懷念的〉：一首差點被改名的歌",
+          "deck": "先有李偲菘的長旋律，姚若龍才替它寫了一個從困惑走到放手的故事。唱片公司要主角多反省一點，也嫌歌名太普通；十八年後在新加坡，林俊傑沒彩排就跳出來，照原 key 合唱。",
+          "publishedAt": "2026-11-21",
+          "reviewedAt": "2026-11-21",
+          "readingMinutes": 3,
+          "people": [
+            "孫燕姿",
+            "林俊傑",
+            "姚若龍",
+            "李偲菘",
+            "Martin Tang"
+          ],
+          "topics": [
+            "經典歌曲",
+            "創作幕後",
+            "現場演出"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "新加坡",
+              "aliases": [
+                "Singapore"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "jj",
+              "title": "第二段才唱一句，林俊傑從後台走出來",
+              "body": "2025 年 4 月 13 日晚上，孫燕姿「就在日落以後」巡迴演唱會在新加坡的最後一場。唱到〈我懷念的〉，第二段主歌才唱一句，林俊傑突然從舞台後方走出來。[TVBS 新聞](https://news.tvbs.com.tw/entertainment/2839249)孫燕姿當場愣住，台下尖叫聲一片。[聯合早報](https://www.zaobao.com.sg/entertainment/story20250414-6164891)\n\n兩人事前完全沒講好，也沒有彩排，林俊傑照原 key 唱了上去。[TVBS 新聞](https://news.tvbs.com.tw/entertainment/2839249)合唱完，他得意地問：「驚不驚喜？」孫燕姿笑說：「驚喜驚嚇都有。」她說自己怕麻煩，不敢開口邀他當嘉賓，沒想到他自己現身，還一直唱她的 key，「好像在幫我和音」。林俊傑忍不住抱怨：「真的好高！」據報導，他 11 日才結束在墨爾本的演出，隔天就飛回新加坡。[聯合早報](https://www.zaobao.com.sg/entertainment/story20250414-6164891)"
+            },
+            {
+              "id": "lyrics",
+              "title": "先有旋律，再寫一個故事",
+              "body": "〈我懷念的〉的曲是李偲菘寫的，他也是這首歌的製作人；詞是姚若龍，編曲是 Martin Tang。[MÜST《寫一首歌》](https://www.thenewslens.com/article/62459)\n\n姚若龍說，台灣樂壇九成以上的歌，都是先有曲再填詞。這段旋律「比一般流行歌曲多的段落，而且有許多層層疊進的樂句」，情緒越來越濃，所以他想配一個比較有戲劇性的歌詞。[MÜST《寫一首歌》](https://www.thenewslens.com/article/62459)\n\n唱片公司因為他和孫燕姿合作過，給他完全的自由，但也講明要比稿。他決定寫一段感情在受到外力撞擊之後，主角「從困惑、傷痛、懷念、不捨到放手」的過程，寫得像一個真實故事，讓聽的人身歷其境。初稿花了一天，再花一天潤飾文字，調整字和音的結合，讓它更好唱。[MÜST《寫一首歌》](https://www.thenewslens.com/article/62459)"
+            },
+            {
+              "id": "revision",
+              "title": "唱片公司說：讓她反省一下",
+              "body": "交稿後，唱片公司對「誰自顧自地走」那一段有意見：這段好像都在責備對方，能不能加一點反省自己的成分？姚若龍把這段最後兩句改成「誰讓愛變沉重，誰忘了要給你溫柔」。他覺得這樣一改，主角多了體貼和自省，最後選擇成全，也更讓人心疼。[MÜST《寫一首歌》](https://www.thenewslens.com/article/62459)\n\n歌名也差點換掉。唱片公司一直嫌〈我懷念的〉太普通，可是姚若龍後來想的新歌名，他們都不喜歡，最後還是用了原名。[MÜST《寫一首歌》](https://www.thenewslens.com/article/62459)\n\n這首歌收進 2007 年 3 月 22 日發行的《逆光》，是專輯的第二波主打。[維基百科](https://zh.wikipedia.org/wiki/%E9%80%86%E5%85%89_(%E5%AD%AB%E7%87%95%E5%A7%BF%E5%B0%88%E8%BC%AF))當時孫燕姿接受 Hit FM 訪問，說唱這首歌時，她心裡想起的是第一次談戀愛的心情：沒有什麼條件，只是很單純地喜歡一個人。不過她也說，唱的時候覺得很奇怪：「為什麼要這樣呢？失去了才懷念？如果把握當下不就好了嗎？」[Hit FM 專訪](https://www.hitoradio.com/newweb/pastmisshito_inner.php?id=133&sec=1)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "姚若龍形容這段旋律「段落多、樂句長、情緒濃又有轉折」。[MÜST《寫一首歌》](https://www.thenewslens.com/article/62459)我們認為，這正是它能被唱這麼多年的原因：一首歌要從困惑一路走到放手，需要夠長的路，旋律先把路鋪好了，歌詞只要一步一步走完。\n\n唱片公司要求改的那兩句，我們覺得是整首歌的轉彎處。前面一連串的「誰」都指向對方，到了「誰忘了要給你溫柔」，問題第一次轉回自己身上。少了這一句，最後的放手比較像賭氣；有了這一句，才像真的捨不得。\n\n至於孫燕姿自己那句「失去了才懷念？」，我們覺得反而替這首歌加了一層距離：唱的人並不完全認同歌裡的人，卻還是把她唱得讓人相信。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2007-03-22",
+              "event": "《逆光》發行，〈我懷念的〉為第二波主打。"
+            },
+            {
+              "date": "2017-03-06",
+              "event": "MÜST《寫一首歌》專訪姚若龍，談先曲後詞、改詞與歌名（關鍵評論網轉載日期）。"
+            },
+            {
+              "date": "2025-04-13",
+              "event": "新加坡「就在日落以後」最後一場，林俊傑無預警登台合唱〈我懷念的〉。"
+            }
+          ],
+          "places": [
+            {
+              "name": "新加坡（2025 年「就在日落以後」演唱會）",
+              "detail": "聯合早報：2025 年 4 月 13 日新加坡場，林俊傑登台合唱〈我懷念的〉。報導沒寫場館名稱，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Singapore",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Singapore",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "我懷念的",
+            "artist": "孫燕姿",
+            "note": "聽到最後一段「誰⋯⋯」的問句時，留意「誰忘了要給你溫柔」那一句：這是唱片公司要求加進去的反省。"
+          },
+          "sources": [
+            {
+              "title": "聯合早報｜曾慧儀：林俊杰现身新加坡演唱会 孙燕姿：惊喜惊吓都有（2025-04-14）",
+              "url": "https://www.zaobao.com.sg/entertainment/story20250414-6164891"
+            },
+            {
+              "title": "TVBS 新聞｜江柏均：原key飆唱！林俊傑力挺孫燕姿《我懷念的》 無彩排超驚喜（2025-04-14）",
+              "url": "https://news.tvbs.com.tw/entertainment/2839249"
+            },
+            {
+              "title": "關鍵評論網（轉載 MÜST 中華音樂著作權協會，採訪撰文李淑娟）｜孫燕姿的故事情歌〈我懷念的〉，曾一度被唱片公司嫌歌名太普通（2017-03-06）",
+              "url": "https://www.thenewslens.com/article/62459"
+            },
+            {
+              "title": "維基百科｜逆光 (孫燕姿專輯)",
+              "url": "https://zh.wikipedia.org/wiki/%E9%80%86%E5%85%89_(%E5%AD%AB%E7%87%95%E5%A7%BF%E5%B0%88%E8%BC%AF)"
+            },
+            {
+              "title": "Hit FM｜Hitoradio.Com vs. 《逆光》孫燕姿（2007，頁面未標日期）",
+              "url": "https://www.hitoradio.com/newweb/pastmisshito_inner.php?id=133&sec=1"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "現場演出",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-21:stefanie-sun-wo-huai-nian-de-title-too-plain"
+        },
+        {
+          "id": "kelly-clarkson-underneath-the-tree-sushi",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Kelly Clarkson",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "壽司外送還沒到，Kelly Clarkson 已經寫完一首耶誕歌",
+          "work": "Underneath the Tree",
+          "year": "2013",
+          "accent": "amber",
+          "title": "Kelly Clarkson〈Underneath the Tree〉：壽司送到之前寫完的耶誕歌",
+          "deck": "她和 Greg Kurstin 合作多年，第一次一起寫歌，等外送的時間就寫完了。為了做出 Phil Spector 式的聲音牆，Kurstin 把麥克風擺得很遠，所有和聲則全由 Clarkson 一個人唱。",
+          "publishedAt": "2026-11-21",
+          "reviewedAt": "2026-11-21",
+          "readingMinutes": 3,
+          "people": [
+            "Kelly Clarkson",
+            "Greg Kurstin",
+            "David Ralicke"
+          ],
+          "topics": [
+            "經典歌曲",
+            "製作幕後",
+            "耶誕歌"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles",
+                "LA"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "sushi",
+              "title": "壽司送到時，歌已經寫好了",
+              "body": "Kelly Clarkson 和製作人 Greg Kurstin 在錄音室裡。她叫了壽司外送，兩個人開始寫一首耶誕歌。壽司送到，〈Underneath the Tree〉已經寫完。「我點了壽司，送到的時候，我已經寫好了，」她在自己節目的問答影片裡這樣說。有人問她哪首歌寫得最快，她想到的就是這首。[PEOPLE](https://people.com/kelly-clarkson-reveals-fastest-song-she-wrote-underneath-the-tree-christmas-music-11753979)\n\n她的解釋很簡單：她太愛耶誕節，寫耶誕歌總是特別快，「因為感覺很好，因為你可以有點俗氣，不用擔心酷不酷。」她也承認，不是每首歌都這麼順，「通常要花上好久，但那首很快。」[PEOPLE](https://people.com/kelly-clarkson-reveals-fastest-song-she-wrote-underneath-the-tree-christmas-music-11753979)"
+            },
+            {
+              "id": "first",
+              "title": "合作多年，第一次一起寫歌",
+              "body": "Kurstin 製作過她的〈Stronger (What Doesn't Kill You)〉，[PEOPLE](https://people.com/kelly-clarkson-reveals-fastest-song-she-wrote-underneath-the-tree-christmas-music-11753979)可是在這之前，兩人從沒一起寫過歌。「我跟 Greg 合作過很多次，通常我就是進來唱，」Clarkson 說，「我們其實從來沒有一起寫過歌。所以我們說，那就試試看替這張唱片寫點東西吧。」[維基百科](https://en.wikipedia.org/wiki/Wrapped_in_Red)這張唱片是她的第六張錄音室專輯，也是她的第一張耶誕專輯《Wrapped in Red》。[維基百科](https://en.wikipedia.org/wiki/Underneath_the_Tree)\n\n做耶誕專輯的討論，從前一年 12 月開始；和 Kurstin 的錄音在 2013 年 5 月開工。兩人各自帶著心目中的耶誕唱片當參考：Kurstin 帶的是《A Charlie Brown Christmas》和 Phil Spector 的《A Christmas Gift for You》，Clarkson 帶的是 Bing Crosby 和 Rosemary Clooney 主演的電影《White Christmas》原聲帶。然後 Kurstin 坐到鋼琴前，她走進錄音間，開始即興。[Billboard](https://www.billboard.com/music/music-news/kelly-clarkson-in-the-red-zone-with-wrapped-in-red-the-billboard-cover-5763070/)\n\nClarkson 記得，Kurstin 先讓她帶了一小段鋼琴回家，「不是歌的點子，比較像是耶誕節的那種 wall of sound」。[PEOPLE](https://people.com/kelly-clarkson-reveals-fastest-song-she-wrote-underneath-the-tree-christmas-music-11753979)"
+            },
+            {
+              "id": "choir",
+              "title": "她一個人當整個唱詩班",
+              "body": "Wall of Sound 是 Phil Spector 發展出來、在六〇年代初風行的錄音手法，配器一層層疊得很厚，帶著大量回音。[維基百科](https://en.wikipedia.org/wiki/Wrapped_in_Red)Kurstin 為了做出這種聲音，把自己的「玩具」全搬出來：Mellotron、Chamberlin 這類老鍵盤，麥克風刻意擺得很遠。[Billboard](https://www.billboard.com/music/music-news/kelly-clarkson-in-the-red-zone-with-wrapped-in-red-the-billboard-cover-5763070/)專輯內頁的名單上，這首歌的貝斯、鼓、吉他、鍵盤和程式都由他一手包辦，David Ralicke 負責銅管和薩克斯風；橋段有一段上低音薩克斯風獨奏，雪橇鈴和鐘聲從頭響到尾。[維基百科](https://en.wikipedia.org/wiki/Underneath_the_Tree)\n\n和聲也沒請合音歌手。Kurstin 讓 Clarkson 把所有和聲都自己唱完。她從小在合唱團長大：「融進別人的聲音，是我從小就會的事。有時候為了讓聲音更厚，我得唱女中音而不是女高音。可是我從來沒做過這種事：所有和聲都自己來，等於自己當自己的唱詩班。」[Billboard](https://www.billboard.com/music/music-news/kelly-clarkson-in-the-red-zone-with-wrapped-in-red-the-billboard-cover-5763070/)\n\n《Billboard》當年形容，她在這首歌裡用的是 Darlene Love 式的唱法。專輯做完，她童年最好的朋友聽了說：「這才是你本來的聲音。」Clarkson 說她同意，那就是她的核心聲音。[Billboard](https://www.billboard.com/music/music-news/kelly-clarkson-in-the-red-zone-with-wrapped-in-red-the-billboard-cover-5763070/)\n\nRCA 唱片執行長 Peter Edge 說過，決定把這首歌當單曲發，有一部分是受到 Mariah Carey〈All I Want for Christmas Is You〉的成功啟發。2013 年 10 月 18 日，〈Underneath the Tree〉先在 Clarkson 的 Vevo 頻道首播。[維基百科](https://en.wikipedia.org/wiki/Wrapped_in_Red)11 月 5 日，RCA 把它當成專輯首支單曲，送進美國的成人抒情電台。[維基百科](https://en.wikipedia.org/wiki/Underneath_the_Tree)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "根據 Musicnotes 的樂譜，這首歌在降 E 大調，人聲音域從 E♭4 到 G5，橫跨一個八度又多一點。[維基百科](https://en.wikipedia.org/wiki/Underneath_the_Tree)我們認為，這段音域正好替 Darlene Love 式的唱法留了跑道：要放聲往上衝，聲音得有地方去。\n\n另一個關鍵是那個「遠」。麥克風離樂器遠，收進來的不只是樂器，還有房間的回音；所有和聲又都出自同一副嗓子，主唱和背景是同一種音色。我們聽起來，這像是一堵很厚、卻很整齊的牆，新歌因此一出生就帶著老唱片的質地。Clarkson 自己的說法更直接：這種耶誕節的聲音，「讓人懷舊」。[PEOPLE](https://people.com/kelly-clarkson-reveals-fastest-song-she-wrote-underneath-the-tree-christmas-music-11753979)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2012-12",
+              "event": "開始討論第六張專輯做成耶誕專輯。"
+            },
+            {
+              "date": "2013-05",
+              "event": "和 Greg Kurstin 開始錄《Wrapped in Red》。"
+            },
+            {
+              "date": "2013-10-18",
+              "event": "《Billboard》封面故事刊出，談 Wall of Sound 與她自己唱完所有和聲。"
+            },
+            {
+              "date": "2013-11-05",
+              "event": "〈Underneath the Tree〉以專輯首支單曲送進美國成人抒情電台。"
+            },
+            {
+              "date": "2025-06-12",
+              "event": "節目問答影片裡說，這是她寫得最快的歌：壽司送到時已經寫完。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Echo Studio（Greg Kurstin 的錄音室）",
+              "detail": "專輯內頁（經維基百科轉引）：〈Underneath the Tree〉在洛杉磯的 Echo Recording Studio 製作；《Wrapped in Red》的基本樂器軌也在 Kurstin 位於洛杉磯的 Echo Studio 錄。確切地址未公開，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "Los Angeles, California",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+California",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Underneath the Tree",
+            "artist": "Kelly Clarkson",
+            "note": "聽背景那一整排和聲：全都是 Clarkson 自己。橋段注意那段上低音薩克斯風。"
+          },
+          "sources": [
+            {
+              "title": "PEOPLE｜Brian Anthony Hernandez：Kelly Clarkson Reveals the Song She Wrote the Fastest（2025-06-15）",
+              "url": "https://people.com/kelly-clarkson-reveals-fastest-song-she-wrote-underneath-the-tree-christmas-music-11753979"
+            },
+            {
+              "title": "Billboard｜Marisa Fox：Kelly Clarkson in the Red Zone With \"Wrapped in Red\": The Billboard Cover Story（2013-10-18）",
+              "url": "https://www.billboard.com/music/music-news/kelly-clarkson-in-the-red-zone-with-wrapped-in-red-the-billboard-cover-5763070/"
+            },
+            {
+              "title": "維基百科（英文）｜Wrapped in Red",
+              "url": "https://en.wikipedia.org/wiki/Wrapped_in_Red"
+            },
+            {
+              "title": "維基百科（英文）｜Underneath the Tree",
+              "url": "https://en.wikipedia.org/wiki/Underneath_the_Tree"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-21:kelly-clarkson-underneath-the-tree-sushi"
+        },
+        {
+          "id": "pogues-fairytale-of-new-york-kirsty-weekend",
+          "city": "倫敦",
+          "cityEn": "London",
+          "artist": "The Pogues feat. Kirsty MacColl",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "週一早上，Lillywhite 放出週末錄好的女聲，樂團整個傻住",
+          "work": "Fairytale of New York",
+          "year": "1987",
+          "accent": "cyan",
+          "title": "The Pogues〈Fairytale of New York〉：製作人在家錄了妻子的女聲，樂團聽傻了",
+          "deck": "一首從打賭開始、改了兩年的耶誕歌。兩段寫法接不起來，製作人就分開錄再剪在一起；樂團沒把握的女聲，最後由製作人的妻子 Kirsty MacColl 在週末錄完。",
+          "publishedAt": "2026-11-21",
+          "reviewedAt": "2026-11-21",
+          "readingMinutes": 3,
+          "people": [
+            "Shane MacGowan",
+            "Kirsty MacColl",
+            "Jem Finer",
+            "Steve Lillywhite",
+            "James Fearnley",
+            "Elvis Costello",
+            "Cait O'Riordan",
+            "Marcia Farquhar",
+            "Phil Chevron",
+            "Fiachra Trench",
+            "Matt Dillon",
+            "Peter Dougherty"
+          ],
+          "topics": [
+            "經典歌曲",
+            "創作幕後",
+            "耶誕歌"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "倫敦",
+              "aliases": [
+                "London"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "RAK 錄音室",
+              "aliases": [
+                "RAK Studios"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York",
+                "NYC"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "monday",
+              "title": "週一早上，樂團聽傻了",
+              "body": "那個週末，製作人 Steve Lillywhite 在自己家裡的錄音室，替妻子 Kirsty MacColl 錄〈Fairytale of New York〉的女聲。他花了一整天，「確保每一個字都有剛好的語氣」。週一早上，他把錄音帶去放給 The Pogues 聽，「他們整個傻住了。」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n其實樂團一開始並不確定 Kirsty 是對的人選，Lillywhite 才提議先錄錄看。主唱 Shane MacGowan 聽完，回頭把自己的人聲也重錄了一遍。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)"
+            },
+            {
+              "id": "bet",
+              "title": "一首改了兩年多的歌",
+              "body": "這首歌怎麼開始，有兩種說法。手風琴手 James Fearnley 記得，是經紀人 Frank Murray 建議翻唱 The Band 的〈Christmas Must Be Tonight〉，大家嫌難聽，乾脆自己寫；MacGowan 則堅持，是製作過他們專輯的 Elvis Costello 跟他打賭，賭他寫不出一首能和貝斯手 Cait O'Riordan 對唱的耶誕歌。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n班鳩琴手 Jem Finer 先寫了一首水手在耶誕節想念妻子的歌，被自己的妻子 Marcia Farquhar 嫌「老套」。他回她：那你給我一個故事。她給的是一對落魄的夫妻，最後找到一點救贖。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)Finer 後來說，Marcia 根本是這首歌的第三位作者。[Life of the Record](https://lifeoftherecord.com/the-pogues-notes)Finer 留下原本那首的輕快舞曲旋律，MacGowan 寫慢板的主歌和副歌。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n第一版 demo 由 Costello 錄，O'Riordan 唱，故事還從愛爾蘭西岸的克萊爾開始。MacGowan 每晚都再改一次歌詞：「這是我參與寫過、唱過最複雜的歌。它美在聽起來很簡單。」Costello 建議歌名叫〈Christmas Day in the Drunk Tank〉，MacGowan 說這聽起來不像暢銷曲；後來借了 J.P. Donleavy 小說《A Fairy Tale of New York》的書名，MacGowan 還親自去找作者徵求同意。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)"
+            },
+            {
+              "id": "edit",
+              "title": "分開錄，再剪在一起",
+              "body": "1986 年 2 月，樂團第一次去紐約巡演。MacGowan 說：「真實的紐約比我們夢想的刺激一百倍！」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n一年後，Lillywhite 接下新專輯。1987 年夏天，他們在倫敦的 RAK 錄音室錄得很順，決定再試一次這首歌。樂團說 MacGowan 和 Finer 寫的兩段一直接不起來，Lillywhite 的解法簡單得近乎荒謬：分開錄，之後再剪在一起。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\nFearnley 負責弦樂編寫（最後由 Fiachra Trench 完成）和開場的鋼琴，參考了 Tom Waits、Aaron Copland 和 Leonard Bernstein 的《岸上風雲》配樂，「我想把美國音樂放進去。」MacGowan 原本想讓管弦樂引用〈Have Yourself a Merry Little Christmas〉，吉他手 Phil Chevron 說這主意很糟，「他是對的。」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n這首歌在 1987 年推出，那年耶誕只拿到英國第二名，冠軍是 Pet Shop Boys 的〈Always on My Mind〉。[Official Charts](https://www.officialcharts.com/songs/pogues-ft-kirsty-maccoll-fairytale-of-new-york/)Lillywhite 說：「我喜歡它從來沒拿過冠軍。它是屬於弱者的歌。」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)"
+            },
+            {
+              "id": "video",
+              "title": "紐約警察樂隊，唱的是米老鼠",
+              "body": "MV 在紐約拍，時間是感恩節那一週，天氣冷得刺骨。演員 Matt Dillon 飾演逮捕 MacGowan 的紐約警察，卻緊張得不敢動手，直到凍得發抖的 MacGowan 開口：「快把我踢進牢房，這樣我們才能暖和一點！」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n歌詞裡唱到紐約警察合唱團，可是紐約市警局沒有合唱團，導演 Peter Dougherty 只好請來警局的風笛樂隊。結果他們不會唱〈Galway Bay〉，只好對嘴大家都會的那首米老鼠俱樂部口號。黑白的演奏畫面裡，坐在鋼琴前的是 MacGowan，特寫鏡頭裡的手卻是 Fearnley 的，他還得戴上主唱的戒指。「我才是真正彈鋼琴的人，我希望大家知道，」Fearnley 說，「可是這樣拍起來比較好看。」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "Lillywhite 把它叫做「反耶誕的耶誕歌」。[Life of the Record](https://lifeoftherecord.com/the-pogues-notes)MacGowan 說，歌裡兩個角色都是他自己：「我認同那個男人，因為我是個混混；我認同那個女人，因為我是酒鬼，也是歌手。」[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)\n\n我們認為，這首歌的結構本身就是一場吵架。Finer 的輕快舞曲和 MacGowan 的慢板原本黏不起來，最後是分開錄、硬剪在一起；[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)慢板的鋼琴開場和輕快的舞曲段落並排放著，像兩個人各說各話。最後一段，男聲說「I could have been someone」，女聲回「Well, so could anyone」；她說「You took my dreams from me」，他才把一直壓著的溫柔放出來。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)《衛報》的看法是，到了這裡，副歌從諷刺變成和好的可能。[衛報](https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem)我們同意：同一段旋律，唱到最後意思變了，這是寫歌的人能做到最省力、也最狠的一招。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1986",
+              "event": "年初，Elvis Costello 和〈A Rainy Night in Soho〉同一時期錄下第一版 demo，由 Cait O'Riordan 唱。"
+            },
+            {
+              "date": "1986-02",
+              "event": "The Pogues 第一次到紐約巡演。"
+            },
+            {
+              "date": "1987",
+              "event": "夏天在倫敦 RAK 錄音室重錄，兩段分開錄再剪接；Kirsty MacColl 在 Lillywhite 家錄女聲。"
+            },
+            {
+              "date": "1987-12",
+              "event": "耶誕檔英國第二名，冠軍是 Pet Shop Boys〈Always on My Mind〉。"
+            }
+          ],
+          "places": [
+            {
+              "name": "RAK 錄音室（1987 年重錄）",
+              "detail": "衛報：1987 年夏天在倫敦的 RAK 錄音室錄專輯，期間重錄這首歌。沒有授權照片，改附地圖連結。",
+              "query": "RAK Studios, London",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=RAK+Studios%2C+London",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "紐約（MV 拍攝）",
+              "detail": "衛報：MV 在感恩節那一週於紐約拍攝，Matt Dillon 飾演警察、紐約市警局風笛樂隊入鏡。報導沒寫拍攝街道，沒有授權照片，改附地圖連結（只到城市）。",
+              "query": "New York, NY",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=New+York%2C+NY",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Fairytale of New York",
+            "artist": "The Pogues feat. Kirsty MacColl",
+            "note": "聽鋼琴開場轉進輕快段落的那一下：那是兩段分開錄、再剪在一起的接縫。最後一段留意男女聲的對罵怎麼軟化。"
+          },
+          "sources": [
+            {
+              "title": "The Guardian｜Dorian Lynskey：Fairytale of New York: the story behind the Pogues' classic Christmas anthem（2012-12-06）",
+              "url": "https://www.theguardian.com/music/2012/dec/06/fairytale-new-york-pogues-christmas-anthem"
+            },
+            {
+              "title": "Life of the Record｜The Pogues 逐字稿：The Making of \"Fairytale of New York\"（Steve Lillywhite、Jem Finer、James Fearnley）",
+              "url": "https://lifeoftherecord.com/the-pogues-notes"
+            },
+            {
+              "title": "Official Charts｜Pogues featuring Kirsty MacColl – Fairytale of New York 歌曲頁",
+              "url": "https://www.officialcharts.com/songs/pogues-ft-kirsty-maccoll-fairytale-of-new-york/"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-21:pogues-fairytale-of-new-york-kirsty-weekend"
+        },
+        {
           "id": "accusefive-zai-zhe-li-deng-ni-garbage-truck-century",
           "city": "台北",
           "cityEn": "Taipei",
