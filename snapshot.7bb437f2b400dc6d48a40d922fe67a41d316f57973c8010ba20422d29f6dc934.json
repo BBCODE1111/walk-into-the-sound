@@ -62136,6 +62136,758 @@
     "cityStories": {
       "rows": [
         {
+          "id": "bts-swim-v-humming-santa-monica",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "BTS",
+          "lens": "製作幕後",
+          "category": "新歌觀察",
+          "anchor": "歌寫好兩週後，製作人在休息室外聽見 V 自己哼著「Swim, swim」",
+          "work": "SWIM",
+          "year": "2026",
+          "accent": "sky",
+          "title": "BTS〈SWIM〉：三十分鐘掉下來的副歌，和一句爭了兩小時的歌詞",
+          "deck": "一首大家都怕太安靜的主打歌：洛杉磯錄音室裡半小時有了雛形，聖塔莫尼卡海邊改寫成「在人生裡游泳」，一句歌詞換掉又換回來。最後讓人放心的，是 V 在休息室外的哼唱。",
+          "publishedAt": "2026-11-23",
+          "reviewedAt": "2026-11-23",
+          "readingMinutes": 3,
+          "people": [
+            "RM",
+            "V",
+            "Tyler Spry",
+            "James Essien",
+            "Sean Foreman",
+            "Leclair",
+            "A.Chic",
+            "Pdogg",
+            "房時爀"
+          ],
+          "topics": [
+            "製作幕後",
+            "新歌觀察",
+            "K-pop"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles",
+                "LA"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Conway 錄音室",
+              "aliases": [
+                "Conway Recording Studios",
+                "Conway Studios"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "聖塔莫尼卡",
+              "aliases": [
+                "Santa Monica"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "高雄",
+              "aliases": [
+                "Kaohsiung"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "高雄世運主場館",
+              "aliases": [
+                "世運主場館",
+                "National Stadium Kaohsiung"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "humming",
+              "title": "休息室外，V 在哼「Swim, swim」",
+              "body": "歌寫好大約兩個星期後，製作人 Tyler Spry 走去休息室泡咖啡，經過 V 身邊，聽見他一個人小聲哼著「Swim, swim」。Spry 說，V 大概不知道有人聽見，但他當下就想：「好，我們抓到東西了，這大概就是那首歌。」[告示牌](https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/)\n\n在那之前，沒有人敢確定。Spry 說，〈SWIM〉是一首很低調的歌，成員不用唱到音域頂端，旋律也不炫技，「但它是耳蟲，會偷偷爬上來」。大家其實都有點怕，因為它不像〈Dynamite〉那種一聽就知道會紅的歌。[告示牌](https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/)"
+            },
+            {
+              "id": "conway",
+              "title": "三十分鐘，副歌從空氣裡掉下來",
+              "body": "2025 年六、七月，洛杉磯的 Conway 錄音室裡來來去去一大群詞曲作者和製作人，Spry 是其中之一。那時他們還沒跟成員同在一個房間，先做點子給 BTS 挑。[告示牌](https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/)Spry 說，〈SWIM〉誕生的那個房間裡，有 James Essien、Sean Foreman 和共同製作人 Leclair。[MusicRadar](https://www.musicradar.com/artists/with-both-swim-and-please-after-the-initial-hour-or-two-of-writing-i-took-a-step-outside-listened-to-them-and-they-felt-special-we-speak-to-tyler-spry-about-producing-and-co-writing-for-k-pop-sensations-bts)\n\n那天沒有參考曲。Spry 和 Leclair 先搭出粗略的節拍，Essien 和 Foreman 坐在沙發上即興亂唱，副歌就「從空氣裡掉下來」，基本架構不到三十分鐘就有了。Spry 說，最好的歌有時就是憑空掉下來，「好像它一直存在某個地方，你只要在對的狀態伸手把它抓下來」。[告示牌](https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/)他習慣寫完頭一兩個小時，走到外面重聽一次；〈SWIM〉那次，他聽完覺得很特別。[MusicRadar](https://www.musicradar.com/artists/with-both-swim-and-please-after-the-initial-hour-or-two-of-writing-i-took-a-step-outside-listened-to-them-and-they-felt-special-we-speak-to-tyler-spry-about-producing-and-co-writing-for-k-pop-sensations-bts)製作人 Pdogg 也說，它「第一次聽就覺得特別」。[滾石雜誌](https://www.rollingstone.com/music/music-features/bts-reuniting-new-album-arirang-interview-1235544625/)Essien 對《滾石》講的版本多了一段前情：HYBE 主席房時爀聽完另一段音樂，「臉像一堵磚牆」，他們只好換下一個點子，旋律就這樣來了。[滾石雜誌](https://www.rollingstone.com/music/music-features/bts-reuniting-new-album-arirang-interview-1235544625/)"
+            },
+            {
+              "id": "santa-monica",
+              "title": "從寫給一個女生，到寫給所有人",
+              "body": "之後 RM 進來，想辦法讓它配得上主打歌的位置。[告示牌](https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/)作詞人 A.Chic 在播客《K-ALL》說，她和 RM 合作的第一首就是〈SWIM〉。原本的歌詞比較像在寵一個女生，他們想寫得更普遍，她就提議改成「在人生裡游泳」：很多人日子過得很辛苦，音樂應該替這個時代說話。[K-ALL 播客（V13）](https://v13.net/2026/06/writing-with-rm-a-chic-breaks-down-bts-arirang-normal-swim-like-animals/)\n\n隔天 RM 說不想待在錄音室，想在戶外寫。團隊在聖塔莫尼卡租了一間房子，〈SWIM〉就在海的前面完成。[K-ALL 播客（V13）](https://v13.net/2026/06/writing-with-rm-a-chic-breaks-down-bts-arirang-normal-swim-like-animals/)有一句歌詞，他們來回爭了將近兩個小時：原本是「I could spend a lifetime watching you」，A.Chic 想改成「Wonder where the waves are taking you」，最後兩人選了後者。但她說，錄音時成員很喜歡原來那句，結果又用回「I could spend a lifetime watching you」。[K-ALL 播客（V13）](https://v13.net/2026/06/writing-with-rm-a-chic-breaks-down-bts-arirang-normal-swim-like-animals/)"
+            },
+            {
+              "id": "sexier",
+              "title": "「我們當過兵了」",
+              "body": "Essien 說，他一直覺得 BTS 最酷的做法，是來一點收斂，「再做一首像〈Dynamite〉的歌，太好猜了」。選這麼低調的歌，成員也猶豫過；Essien 記得 RM 對他說：「這比較性感。這就是我們現在需要的。我們更性感了，我們可是當過兵的。」[滾石雜誌](https://www.rollingstone.com/music/music-features/bts-reuniting-new-album-arirang-interview-1235544625/)2026 年 3 月 20 日，專輯《ARIRANG》發行，〈SWIM〉同時推出 MV。[滾石雜誌](https://www.rollingstone.com/music/music-news/bts-arirang-album-out-now-1235534191/)"
+            },
+            {
+              "id": "kaohsiung",
+              "title": "高雄的水波",
+              "body": "11 月 19 日晚上，BTS 在高雄世運主場館開唱。〈SWIM〉前奏一響，整座場館變成水藍色，成員大喊「高雄」，舞者用身體搭出像水波流動的人形舞台，七個人站在中間唱，台下跟著一起唱。[NOWnews](https://www.nownews.com/news/6893708)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為，〈SWIM〉的力氣用在「不用力」。寫歌的人一開始就擔心它太安靜，最後讓大家放心的，不是一次漂亮的提案，而是 V 在休息室外忍不住的哼唱。[告示牌](https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/)\n\n那句被換掉又換回來的歌詞也是一樣。比起看浪把人帶去哪裡，七個人選了更直白的那句：願意花一輩子看著你。[K-ALL 播客（V13）](https://v13.net/2026/06/writing-with-rm-a-chic-breaks-down-bts-arirang-normal-swim-like-animals/)放進一首寫「在人生裡游下去」的歌，這句話就不只是情話，也像在對一路等他們回來的人說。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2025",
+              "event": "六、七月，洛杉磯 Conway 錄音室寫歌營；〈SWIM〉雛形不到三十分鐘完成。"
+            },
+            {
+              "date": "2025",
+              "event": "RM 與 A.Chic 在聖塔莫尼卡租屋處改寫歌詞，在海邊完成。"
+            },
+            {
+              "date": "2026-03-20",
+              "event": "專輯《ARIRANG》發行，〈SWIM〉同步推出 MV。"
+            },
+            {
+              "date": "2026-11-19",
+              "event": "《ARIRANG》巡演高雄世運主場館首場，〈SWIM〉以舞者人形水波舞台演出。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Conway 錄音室（洛杉磯）",
+              "detail": "MusicRadar：Tyler Spry 說「We ended up working with the band at Conway Studios in Los Angeles」，〈SWIM〉在其中一個房間誕生。沒有授權照片，改附地圖連結。",
+              "query": "Conway Recording Studios, Los Angeles, CA",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Conway+Recording+Studios%2C+Los+Angeles%2C+CA",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "聖塔莫尼卡（歌詞完成處）",
+              "detail": "K-ALL 播客：團隊在聖塔莫尼卡租了一間房子，〈SWIM〉在海前面完成。來源沒有確切地址，只標城市。",
+              "query": "Santa Monica, CA",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Santa+Monica%2C+CA",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "高雄世運主場館",
+              "detail": "NOWnews：11 月 19 日晚間 BTS 在高雄世運主場館舉辦《ARIRANG》首場。沒有授權照片，改附地圖連結。",
+              "query": "高雄世運主場館",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E9%9B%84%E4%B8%96%E9%81%8B%E4%B8%BB%E5%A0%B4%E9%A4%A8",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "SWIM",
+            "artist": "BTS",
+            "note": "留意副歌有多「省力」：沒有飆高音，同一句一直繞回來；再找找那句換掉又換回來的「I could spend a lifetime watching you」。"
+          },
+          "sources": [
+            {
+              "title": "Billboard｜BTS Producer/Writer Tyler Spry Interview on 'ARIRANG' Studio Sessions（2026-04-02）",
+              "url": "https://www.billboard.com/music/pop/bts-producer-tyler-spry-interview-arirang-studio-sessions-1236212275/"
+            },
+            {
+              "title": "MusicRadar｜We speak to Tyler Spry about producing and co-writing for K-pop sensations BTS",
+              "url": "https://www.musicradar.com/artists/with-both-swim-and-please-after-the-initial-hour-or-two-of-writing-i-took-a-step-outside-listened-to-them-and-they-felt-special-we-speak-to-tyler-spry-about-producing-and-co-writing-for-k-pop-sensations-bts"
+            },
+            {
+              "title": "Rolling Stone｜BTS Interview: On Reuniting, New Album 'Arirang' and Their Future Plans（2026-04-13）",
+              "url": "https://www.rollingstone.com/music/music-features/bts-reuniting-new-album-arirang-interview-1235544625/"
+            },
+            {
+              "title": "V13 Media｜K-ALL：Writing with RM: A.Chic Breaks Down BTS's ARIRANG (NORMAL, SWIM, Like Animals)（2026-06-24，含逐字稿）",
+              "url": "https://v13.net/2026/06/writing-with-rm-a-chic-breaks-down-bts-arirang-normal-swim-like-animals/"
+            },
+            {
+              "title": "Rolling Stone｜BTS' New Album, 'Arirang,' Is Out Now（2026-03-20）",
+              "url": "https://www.rollingstone.com/music/music-news/bts-arirang-album-out-now-1235534191/"
+            },
+            {
+              "title": "NOWnews 今日新聞｜直擊／BTS高雄舞台會變形！7人藏舞群中突現身 柾國中文撩5萬人（2026-11-19）",
+              "url": "https://www.nownews.com/news/6893708"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "新歌觀察",
+            "現場演出"
+          ],
+          "dailyKey": "2026-11-23:bts-swim-v-humming-santa-monica"
+        },
+        {
+          "id": "john-yoko-happy-xmas-war-is-over-harlem-choir",
+          "city": "紐約",
+          "cityEn": "New York",
+          "artist": "John & Yoko/The Plastic Ono Band with The Harlem Community Choir",
+          "lens": "經典歌曲",
+          "category": "經典歌曲",
+          "anchor": "1971 年 7 月紐約的飯店早餐桌上，最後一口咖啡喝完，耶誕歌就寫好了",
+          "work": "Happy Xmas (War Is Over)",
+          "year": "1971",
+          "accent": "sage",
+          "title": "John & Yoko〈Happy Xmas (War Is Over)〉：早餐桌上寫完的耶誕歌，和前一晚才找到的哈林區孩子",
+          "deck": "Lennon 和 Yoko 想寫一首能跟〈White Christmas〉並排的耶誕歌，把 1969 年的反戰看板寫進副歌。錄音前一晚，錄音室經理才打電話到哈林區找教會合唱團；三十個孩子唱出的那句「War is over」，成了全曲的答案。",
+          "publishedAt": "2026-11-23",
+          "reviewedAt": "2026-11-23",
+          "readingMinutes": 3,
+          "people": [
+            "John Lennon",
+            "Yoko Ono",
+            "Phil Spector",
+            "Jack Douglas",
+            "Arlene Reckson",
+            "Dee Lee",
+            "Nicky Hopkins",
+            "Jim Keltner",
+            "Hugh McCracken"
+          ],
+          "topics": [
+            "經典歌曲",
+            "製作幕後",
+            "耶誕歌"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "紐約",
+              "aliases": [
+                "New York",
+                "NYC"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Record Plant 錄音室",
+              "aliases": [
+                "Record Plant",
+                "Record Plant East"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "St Regis 飯店",
+              "aliases": [
+                "St. Regis New York",
+                "The St. Regis"
+              ]
+            },
+            {
+              "type": "街區",
+              "label": "哈林區",
+              "aliases": [
+                "Harlem"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "breakfast",
+              "title": "最後一口咖啡喝完，歌就好了",
+              "body": "1971 年 7 月，紐約。Yoko Ono 回憶，她和 John Lennon 在一間面對公園的飯店房間裡吃早餐，喝著早上的咖啡，吃到一半，兩人起了念頭：來寫一首耶誕歌。「我們手腳很快，最後一口咖啡喝完，歌就生出來了。」Lennon 心情大好：「這首會比〈White Christmas〉還紅，你等著看。」[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)\n\nLennon 說，他們想讓每年耶誕節除了〈White Christmas〉之外，還有別的歌可以放；而世界上總有戰爭，總有人在某個地方中槍、受折磨，所以這些歌詞每一年都還成立。「我一直想寫一張能永遠流傳的耶誕唱片。」[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)"
+            },
+            {
+              "id": "poster",
+              "title": "「戰爭結束了，如果你想要」",
+              "body": "歌裡反覆出現的「War is over if you want it」，來自兩人 1969 年的「War Is Over」看板活動。[Smooth Radio](https://www.smoothradio.com/artists/john-lennon/happy-xmas-war-over-harlem-community-choir/)Lennon 說，看板的點子是 Yoko 的，她在前衛藝術圈常這樣做，把海報當成一種媒體。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)官方網站留著當年各地看板的照片，從赫爾辛基、多倫多，到柏林和羅馬。[Imagine John Yoko 官方網站](https://www.imaginejohnyoko.com/behind-the-music-happy-xmas-war-is-over/)\n\nLennon 這樣解釋那句話：我們跟按下按鈕的人一樣有責任；只要人們以為事情是別人對他們做的，自己無能為力，那他們就真的無能為力。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)"
+            },
+            {
+              "id": "record-plant",
+              "title": "一圈木吉他，圍著一支麥克風",
+              "body": "Smooth Radio 整理，Lennon 10 月先在紐約的 St Regis 飯店錄了木吉他小樣，10 月 28 日星期四，和 Phil Spector 走進 Record Plant 錄音室。[Smooth Radio](https://www.smoothradio.com/artists/john-lennon/happy-xmas-war-over-harlem-community-choir/)錄音師 Jack Douglas 回憶，Spector 這次比錄《Imagine》時輕鬆得多，「也許因為只是一首單曲」。他用了自己的招牌配方：很多把木吉他圍成一圈，對著同一支麥克風，再加上大量和聲、孩子們和雪橇鈴。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)官方名單上，彈木吉他的除了 Lennon，還有 Hugh McCracken 等四人；Nicky Hopkins 彈鋼琴和鐘琴，Jim Keltner 打鼓，也搖雪橇鈴。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)"
+            },
+            {
+              "id": "choir",
+              "title": "前一晚才找到的合唱團",
+              "body": "孩子們是臨時找來的。當時的錄音室經理 Arlene Reckson 說，錄音前一晚她才接到要找兒童合唱團的要求。夜班接待員 Dee Lee 告訴她，哈林區的教會都有唱詩班；她打的第一間教會就答應了，她坐禮車上去跟牧師談。隔天她租了一輛巴士去接孩子，每個孩子都要帶家長簽的同意書，她還給大家買了麥當勞的快樂兒童餐。她記得兩人捐給教會 500 美元，「在當年是很大一筆錢」。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)\n\n10 月 31 日萬聖節下午，大約 30 個 4 到 12 歲的哈林社區合唱團孩子，在錄音室錄下副歌，和主歌底下那條對唱旋律。[Smooth Radio](https://www.smoothradio.com/artists/john-lennon/happy-xmas-war-over-harlem-community-choir/)[Imagine John Yoko 官方網站](https://www.imaginejohnyoko.com/behind-the-music-happy-xmas-war-is-over/)Douglas 說，看兩人帶孩子很好玩，孩子們其實不太知道 Lennon 是誰，「這樣反而很酷」。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)"
+            },
+            {
+              "id": "late",
+              "title": "美國先出，英國晚了一年",
+              "body": "單曲在 1971 年 12 月 1 日發行。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)Yoko 說，Lennon 到 11 月才想起這首歌，打電話要經理趕在耶誕節前發行；經理說太晚了，封面、廣告都來不及。單曲還是出了，結果就像經理說的，沒有起來，要到 1980 年 Lennon 過世後，這首歌才真正大紅。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)\n\n在英國，因為法律上的糾紛，它晚了一年才發行。[Smooth Radio](https://www.smoothradio.com/artists/john-lennon/happy-xmas-war-over-harlem-community-choir/)1972 年 12 月，它進了英國單曲榜；1980 年 12 月，又再一次回到榜上。[Official Charts](https://www.officialcharts.com/songs/john-and-yoko-the-plastic-ono-band-with-the-harlem-community-choir-happy-xmas-war-is-over/)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為，這首歌能年年回來，靠的正是 Lennon 自己說的那個殘酷理由：世界上總有戰爭。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)\n\n讓它聽起來不像說教的，是那群孩子。大人在前面唱「So this is Xmas, and what have you done」，孩子在底下一遍遍回答「War is over, if you want it」。[John Lennon 官方網站](https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/)一句是問題，一句是答案；把答案交給一群不太知道 Lennon 是誰的孩子去唱，反而最有說服力。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1969",
+              "event": "「War Is Over」看板活動。"
+            },
+            {
+              "date": "1971-07",
+              "event": "Yoko 回憶：在紐約飯店房間的早餐時寫成這首歌。"
+            },
+            {
+              "date": "1971-10-28",
+              "event": "與 Phil Spector 進 Record Plant 錄音。"
+            },
+            {
+              "date": "1971-10-31",
+              "event": "哈林社區合唱團的孩子錄下副歌與對唱旋律。"
+            },
+            {
+              "date": "1971-12-01",
+              "event": "單曲發行。"
+            },
+            {
+              "date": "1972-12",
+              "event": "在英國發行並進入單曲榜。"
+            },
+            {
+              "date": "1980-12",
+              "event": "Lennon 過世後重回英國單曲榜。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Record Plant 錄音室（紐約）",
+              "detail": "官方網站圖說：Record Plant, New York, 31 October 1971；Smooth Radio：10 月 28 日與 Spector 進 Record Plant。原址沒有授權照片，改附地圖連結。",
+              "query": "Record Plant, New York",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Record+Plant+Studios%2C+New+York",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "St Regis 飯店（紐約，木吉他小樣）",
+              "detail": "Smooth Radio：Lennon 1971 年 10 月在紐約 St Regis 飯店錄木吉他小樣。沒有授權照片，改附地圖連結。",
+              "query": "The St. Regis New York",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=The+St.+Regis+New+York",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "哈林區（合唱團所在）",
+              "detail": "Arlene Reckson：打給哈林區教會找唱詩班。來源沒寫是哪一間教會，只標街區。",
+              "query": "Harlem, New York",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Harlem%2C+New+York",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Happy Xmas (War Is Over)",
+            "artist": "John & Yoko/The Plastic Ono Band with The Harlem Community Choir",
+            "note": "主歌時別只聽 Lennon，留意底下孩子們一直回答的「War is over / If you want it」；開頭也聽聽那一圈木吉他和雪橇鈴。"
+          },
+          "sources": [
+            {
+              "title": "johnlennon.com｜Happy Xmas (War Is Over) - John & Yoko/The Plastic Ono Band With The Harlem Community Choir（官方單曲頁，含 Lennon、Yoko Ono、Jack Douglas、Arlene Reckson 口述與錄音名單、歌詞）",
+              "url": "https://www.johnlennon.com/music/singles/happy-xmas-war-is-over/"
+            },
+            {
+              "title": "imaginejohnyoko.com｜Behind The Music: Happy Xmas (War Is Over)（官方網站，含錄音現場圖說與看板照片）",
+              "url": "https://www.imaginejohnyoko.com/behind-the-music-happy-xmas-war-is-over/"
+            },
+            {
+              "title": "Smooth Radio｜Why is John Lennon's team tracking down the 'Happy Xmas (War is Over)' children's choir?（2021-11）",
+              "url": "https://www.smoothradio.com/artists/john-lennon/happy-xmas-war-over-harlem-community-choir/"
+            },
+            {
+              "title": "Official Charts｜Happy Xmas (War Is Over) - John and Yoko/The Plastic Ono Band with The Harlem Community Choir 歌曲頁",
+              "url": "https://www.officialcharts.com/songs/john-and-yoko-the-plastic-ono-band-with-the-harlem-community-choir-happy-xmas-war-is-over/"
+            }
+          ],
+          "interests": [
+            "經典歌曲",
+            "製作幕後",
+            "歌曲裡的人"
+          ],
+          "dailyKey": "2026-11-23:john-yoko-happy-xmas-war-is-over-harlem-choir"
+        },
+        {
+          "id": "ray-huang-zai-yi-ci-ai-ni-rewind-piano",
+          "city": "",
+          "cityEn": "",
+          "artist": "Ray 黃霆睿",
+          "lens": "電影與影集",
+          "category": "新歌觀察",
+          "anchor": "歌一開始是一段倒轉的聲響，像把時間倒帶回相遇之前",
+          "work": "再一次愛你",
+          "year": "2026",
+          "accent": "coral",
+          "title": "Ray 黃霆睿〈再一次愛你〉：一首從倒帶聲開始的戲劇插曲",
+          "deck": "為 Netflix 奇幻愛情喜劇《新手上路》寫的插曲，用倒轉的聲響開場、以鋼琴收尾。古典科班出身的黃霆睿自己寫詞曲、編曲、唱和聲，把一部有鬼、有附身的戲，收成一句「你還是我最想念的決定」。",
+          "publishedAt": "2026-11-23",
+          "reviewedAt": "2026-11-23",
+          "readingMinutes": 3,
+          "people": [
+            "黃霆睿",
+            "陳建良",
+            "賴暐哲",
+            "何帛儒",
+            "陳意涵",
+            "劉冠廷",
+            "黃冠智",
+            "阿信"
+          ],
+          "topics": [
+            "新歌觀察",
+            "電影與影集",
+            "華語流行"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "rewind",
+              "title": "先聽見時間倒轉",
+              "body": "〈再一次愛你〉的第一個聲音，是一段倒轉的聲響，像有人把時間往回轉，回到故事還沒開始的那一天。接著是鋼琴，和 Ray 黃霆睿低沉的聲音；樂器一層層加進來，情緒慢慢往上堆；到了尾聲，編曲又退回只剩鋼琴，他低聲把最後的心意唱完。[相信音樂 YouTube](https://www.youtube.com/watch?v=TD8UR8QT2SE)\n\n這是唱片公司在官方 MV 說明裡替這首歌寫的導覽。它是一首為戲寫的歌：黃霆睿受邀替奇幻愛情喜劇《新手上路》寫劇中插曲，MV 在 2026 年 11 月 3 日上傳到相信音樂的 YouTube 頻道。說明裡問了一句：「如果能回到最初相遇的那一天，我們的故事，會不會寫下不同的結局？」[相信音樂 YouTube](https://www.youtube.com/watch?v=TD8UR8QT2SE)"
+            },
+            {
+              "id": "drama",
+              "title": "一個懷孕的直播主，和一個守著她的鬼",
+              "body": "《新手上路》共六集，10 月 18 日晚上在 Netflix 全集上線，民視同一晚首播。[Vogue Taiwan](https://www.vogue.com.tw/article/driving-mom-crazy-netflix)陳意涵演一位意外懷孕的人氣直播主，劉冠廷演誤入黑幫、陰錯陽差和她同居的男人，黃冠智演因為意外變成鬼魂、一直默默暗戀她的宅男工程師。[Vogue Taiwan](https://www.vogue.com.tw/article/driving-mom-crazy-netflix)[中央社](https://www.cna.com.tw/news/amov/202609210232.aspx)\n\n黃冠智說，劇組替鬼魂訂了更完整的規則：變成鬼七天後可以穿越、瞬間移動，還能附身。正式預告裡，他就是借劉冠廷的身體，向陳意涵告白。[Vogue Taiwan](https://www.vogue.com.tw/article/driving-mom-crazy-netflix)"
+            },
+            {
+              "id": "credits",
+              "title": "自己寫、自己編、自己和聲",
+              "body": "MV 說明欄的名單裡，詞曲都是黃霆睿。他和陳建良一起擔任製作人，和賴暐哲一起編曲，和聲也自己唱；錄音由陳建良和他在 Wonder Studio 完成，陳建良混音。MV 導演是何帛儒。[相信音樂 YouTube](https://www.youtube.com/watch?v=TD8UR8QT2SE)新歌上線那幾天，五月天阿信在微博叫他「恆星之城最帥客席鍵盤手」，替他宣傳這首單曲。[阿信微博](https://www.sina.cn/media/1265020392)\n\n他是古典音樂科班出身。2022 年接受 GQ 訪問時，他說自己寫歌「習慣建構在畫面上，希望音樂能讓人感覺像在看電影般充滿故事性」。那時他已替台劇寫過歌，談到給《我的牙想你》的〈我不該〉，他說試著讓旋律和架構貼近劇中一再回頭檢視遺憾的角色。他也說，寫歌最花時間的是「失敗」，像蓋房子，先打好地基再想外觀和裝潢，「常常越改越奇怪，最後再整個砍掉重練」。[GQ Taiwan](https://www.gq.com.tw/entertainment/article/entertainment-interview-ray)"
+            },
+            {
+              "id": "lyrics",
+              "title": "第幾個日出，第幾個日落",
+              "body": "歌詞從一個像夢的畫面開始：「我們擦肩在遙遠時空的午後，你望著我，像早已認識的輪廓。」進副歌前，他一路數著「第幾個日出，第幾個日落，第幾次心動，第幾次隱隱作痛」，然後才唱出「我想再一次愛你，就像第一次相遇」。整首歌停在一句：「哪怕是世界已改變了劇情，你還是我最想念的決定。」[相信音樂 YouTube](https://www.youtube.com/watch?v=TD8UR8QT2SE)\n\n到 11 月 23 日，這支 MV 的觀看次數約 38.8 萬。[相信音樂 YouTube](https://www.youtube.com/watch?v=TD8UR8QT2SE)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為，這首歌聰明的地方，是把戲裡熱鬧的奇幻設定收得很小。歌詞裡沒有鬼，也沒有附身，只用「遙遠時空」「改變了劇情」這幾個詞，輕輕碰一下故事的邊。[相信音樂 YouTube](https://www.youtube.com/watch?v=TD8UR8QT2SE)\n\n真正撐起整首歌的，是倒帶開場、最後回到鋼琴這個繞一圈的結構：時間往回轉，又走回原點，心意沒有變。對一個說自己寫歌靠畫面的人來說，[GQ Taiwan](https://www.gq.com.tw/entertainment/article/entertainment-interview-ray)這段倒轉的聲響，大概就是他替這部戲剪的第一個鏡頭。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-10-18",
+              "event": "《新手上路》Netflix 全集上線，民視同晚首播。"
+            },
+            {
+              "date": "2026-11-03",
+              "event": "〈再一次愛你〉MV 上傳相信音樂 YouTube 頻道。"
+            },
+            {
+              "date": "2026-11-19",
+              "event": "KKBOX 單曲週榜標示日期。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "再一次愛你",
+            "artist": "Ray 黃霆睿",
+            "note": "先聽開頭那段倒轉的聲響，再留意結尾怎麼退回只剩鋼琴：整首歌繞了一圈。"
+          },
+          "sources": [
+            {
+              "title": "相信音樂BinMusic YouTube｜Ray 黃霆睿 [ 再一次愛你 Love You Once Again ] Official Music Video｜戲劇《新手上路》插曲（2026-11-03 上傳，說明欄含介紹、歌詞與製作名單）",
+              "url": "https://www.youtube.com/watch?v=TD8UR8QT2SE"
+            },
+            {
+              "title": "Vogue Taiwan｜《新手上路》10月18日Netflix上線！陳意涵、劉冠廷、黃冠智主演，意外懷孕牽出人鬼三角戀（2026-10-07）",
+              "url": "https://www.vogue.com.tw/article/driving-mom-crazy-netflix"
+            },
+            {
+              "title": "中央社｜陳意涵新劇飾直播主意外懷孕 揪劉冠廷當新手爸媽（2026-09-21）",
+              "url": "https://www.cna.com.tw/news/amov/202609210232.aspx"
+            },
+            {
+              "title": "GQ Taiwan｜古典流行自在遨遊，Ray 黃霆睿：「希望我的音樂能讓人感覺像在看電影般充滿故事性。」（2022-10-04）",
+              "url": "https://www.gq.com.tw/entertainment/article/entertainment-interview-ray"
+            },
+            {
+              "title": "阿信 微博（2026-11-07 20:54 貼文，新浪轉載頁）",
+              "url": "https://www.sina.cn/media/1265020392"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "新歌觀察",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-23:ray-huang-zai-yi-ci-ai-ni-rewind-piano"
+        },
+        {
+          "id": "wiz-khalifa-charlie-puth-see-you-again-ten-minutes",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Wiz Khalifa feat. Charlie Puth",
+          "lens": "電影與影集",
+          "category": "經典歌曲",
+          "anchor": "剛到洛杉磯的 Charlie Puth，寫到第十分鐘突然哽咽，唱出第一句「It's been a long day」",
+          "work": "See You Again",
+          "year": "2015",
+          "accent": "violet",
+          "title": "Wiz Khalifa、Charlie Puth〈See You Again〉：剛到洛杉磯的新人，十分鐘寫完《玩命關頭 7》的告別",
+          "deck": "《玩命關頭 7》替 Paul Walker 重做了結局，只差一首歌。剛搬到洛杉磯的 Charlie Puth 想起死於車禍的朋友，十分鐘寫出副歌；Wiz Khalifa 在 Snoop Dogg 家錄了饒舌，兩人錄音時從沒見過面。",
+          "publishedAt": "2026-11-23",
+          "reviewedAt": "2026-11-23",
+          "readingMinutes": 3,
+          "people": [
+            "Charlie Puth",
+            "Wiz Khalifa",
+            "Justin Franks（DJ Frank E）",
+            "Paul Walker",
+            "溫子仁",
+            "Mike Knobloch",
+            "Mike Caren",
+            "Kevin Weaver",
+            "Vin Diesel"
+          ],
+          "topics": [
+            "電影與影集",
+            "經典歌曲",
+            "製作幕後"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles",
+                "LA"
+              ]
+            },
+            {
+              "type": "城市",
+              "label": "伯班克",
+              "aliases": [
+                "Burbank"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "ten-minutes",
+              "title": "「It's been a long day」",
+              "body": "Charlie Puth 搬到洛杉磯才沒幾天，出版公司替他排了一場寫歌，去見製作人 DJ Frank E（本名 Justin Franks）。兩人才剛認識，Franks 那邊開著幾個和弦，Puth 說：「要不要用鋼琴彈彈看？」那就是〈See You Again〉的和弦。[娛樂週刊](https://ew.com/article/2015/04/07/charlie-puth-see-you-again-paul-walker/)\n\n寫了大約十分鐘，他突然哽咽。他想起一個朋友，也是死於車禍。「我開口的第一句就是 It's been a long day。」他看向 Franks，兩人抱在一起，Puth 愣愣地問：「我們剛剛做了什麼？」[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)副歌就在這十分鐘裡寫好，兩人把它寄給出版公司，接著傳到大西洋唱片，最後到了《玩命關頭》的片方手上。[娛樂週刊](https://ew.com/article/2015/04/07/charlie-puth-see-you-again-paul-walker/)"
+            },
+            {
+              "id": "which-day",
+              "title": "到洛杉磯的第幾天？",
+              "body": "他到底是搬來第幾天寫的，各家說法不太一樣。《娛樂週刊》寫兩天；《告示牌》2015 年寫是 2014 年 7 月搬來的隔天，地點在華納音樂位於伯班克的錄音室；《告示牌》2016 年的報導則寫他 2014 年 9 月搬來，第一天先寫了〈Marvin Gaye〉，第二天才見到 Frank E。[娛樂週刊](https://ew.com/article/2015/04/07/charlie-puth-see-you-again-paul-walker/)[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)[告示牌](https://www.billboard.com/music/features/charlie-puth-success-see-you-again-nine-track-mind-album-6835232/)"
+            },
+            {
+              "id": "newcomer",
+              "title": "教堂裡的代班管風琴手",
+              "body": "那時的 Puth 還是個新人。他在新澤西長大，家裡是虔誠的天主教徒，他原本對音樂沒什麼興趣；直到某個聖灰星期三，教堂的管風琴手沒來，自認有絕對音感的他臨時上場，之後就常在教堂彈琴。他後來念了曼哈頓音樂學院和伯克利音樂學院，在 YouTube 上唱爵士翻唱，被艾倫・狄珍妮絲看見，簽進她的唱片公司。[洛杉磯時報](https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html)\n\n歌紅了以後，《玩命關頭》的主角 Vin Diesel 還在宣傳期間傳訊息給他，說自己在受訪時一直停不下來，總在唱這首歌。[洛杉磯時報](https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html)"
+            },
+            {
+              "id": "paul",
+              "title": "一場戲，只差一首歌",
+              "body": "這首歌要放在《玩命關頭 7》的結尾。Paul Walker 在 2013 年死於車禍；電影停工六個月後復工，導演溫子仁的團隊替他重做了一個結局：用電腦特效、替身和舊片段，拼出 Walker 和 Vin Diesel 最後的對話，再讓他開車駛向夕陽。只差一首對的歌。[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)環球影業的音樂主管 Mike Knobloch 說：「我們想要紀念、慶祝 Paul。我們不能讓觀眾難過地走出戲院。」[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)\n\n華納音樂的 A&R 主管 Mike Caren 為原聲帶找了一百多位詞曲作者和製作人，他說聽到 Puth 的副歌，才覺得整個案子完整了。[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)歌被選上後，片方找來 Wiz Khalifa，在 Puth 的歌聲和鋼琴之間寫一段關於家人的饒舌。[洛杉磯時報](https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html)他在朋友 Snoop Dogg 位於洛杉磯的家庭錄音室錄完，說：「我失去過很多人，就把那股能量放進去。」[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)"
+            },
+            {
+              "id": "cry",
+              "title": "他知道結果時哭了",
+              "body": "Puth 說，他寫歌時根本不知道電影怎麼收尾，片方也沒給他任何意見。[娛樂週刊](https://ew.com/article/2015/04/07/charlie-puth-see-you-again-paul-walker/)知道被選上的那一刻，他好像哭了出來，因為他可以同時紀念自己的朋友，也紀念 Walker。[娛樂週刊](https://ew.com/article/2015/04/07/charlie-puth-see-you-again-paul-walker/)之後這首歌又改了好幾個月，節拍加上、拿掉、再加回來，但全都疊在 Puth 那段簡單的旋律上。[洛杉磯時報](https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html)他和 Khalifa 錄原版時，從來沒見過面。[洛杉磯時報](https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為，〈See You Again〉後來成了一首屬於所有人的送別歌，是因為它本來就不是替一位明星寫的。Puth 和 Khalifa 都沒見過 Walker；[告示牌](https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/)副歌那句「It's been a long day without you, my friend」，最早是一個二十出頭的年輕人，在陌生的城市想起自己的朋友。\n\n大西洋唱片的 Kevin Weaver 說，這首歌可以是關於死亡，也可以是關於一個你想念、等不及要在烤肉聚會上見到的人。[洛杉磯時報](https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html)正因為歌裡沒有寫名字，每個聽的人都能把自己想念的那一位放進去。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2013",
+              "event": "Paul Walker 死於車禍。"
+            },
+            {
+              "date": "2014",
+              "event": "Puth 搬到洛杉磯後不久，與 DJ Frank E 在華納音樂伯班克錄音室寫出副歌（月份說法不一）。"
+            },
+            {
+              "date": "2015-04-07",
+              "event": "Puth 接受《娛樂週刊》《洛杉磯時報》訪問談寫歌經過。"
+            },
+            {
+              "date": "2015-04-19",
+              "event": "英國單曲榜這一期登上第一名。"
+            }
+          ],
+          "places": [
+            {
+              "name": "華納音樂伯班克錄音室",
+              "detail": "告示牌 2015：Puth 在 Warner Music's Burbank studios 與 Justin Franks 寫出這首歌。來源沒有錄音室名稱與地址，只標城市；改附城市地圖連結。",
+              "query": "Burbank, CA",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Burbank%2C+CA",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "Snoop Dogg 的家庭錄音室（洛杉磯）",
+              "detail": "告示牌 2015：Khalifa 在 Snoop Dogg 的 L.A. home studio 錄饒舌。私人住所，不附地圖，只標城市。",
+              "query": "Los Angeles, CA",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+CA",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "See You Again",
+            "artist": "Wiz Khalifa feat. Charlie Puth",
+            "note": "先聽 Puth 的鋼琴和第一句「It's been a long day」，那是十分鐘裡最早冒出來的句子；再聽 Khalifa 那段寫家人的饒舌。"
+          },
+          "sources": [
+            {
+              "title": "Entertainment Weekly｜Charlie Puth talks writing 'See You Again' for Paul Walker's goodbye（2015-04-07）",
+              "url": "https://ew.com/article/2015/04/07/charlie-puth-see-you-again-paul-walker/"
+            },
+            {
+              "title": "Billboard｜Wiz Khalifa & Charlie Puth on 'See You Again,' 'Furious 7'（2015-05-08）",
+              "url": "https://www.billboard.com/music/rb-hip-hop/wiz-khalifa-charlie-puth-see-you-again-furious-7-paul-walker-6560886/"
+            },
+            {
+              "title": "Los Angeles Times｜Steven Zeitchik：'Furious 7': 'See You Again' songwriter inspired by a different loss（2015-04-07）",
+              "url": "https://www.latimes.com/entertainment/movies/la-et-mn-charlie-puth-furious-song-20150408-story.html"
+            },
+            {
+              "title": "Billboard｜Charlie Puth Talks About See You Again Success, Nine Track Mind Album（2016-01-07）",
+              "url": "https://www.billboard.com/music/features/charlie-puth-success-see-you-again-nine-track-mind-album-6835232/"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "經典歌曲",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-23:wiz-khalifa-charlie-puth-see-you-again-ten-minutes"
+        },
+        {
+          "id": "eggplantegg-ai-qing-ni-bi-wo-xiang-de-market-acheng",
+          "city": "",
+          "cityEn": "",
+          "artist": "茄子蛋",
+          "lens": "電影與影集",
+          "category": "經典歌曲",
+          "anchor": "失真鋼琴和重擊大鼓之間，主唱想像自己躺在故鄉市場中央：「我就是阿成」",
+          "work": "愛情你比我想的閣較偉大",
+          "year": "2021",
+          "accent": "amber",
+          "title": "茄子蛋〈愛情你比我想的閣較偉大〉：躺在故鄉市場中央，他說「我就是阿成」",
+          "deck": "導演殷振豪第一次拍電影，茄子蛋第一次寫電影主題曲。一段晃動的失真鋼琴、對九〇年代的想像，加上讀劇本讀到哭，寫出一個討債流氓的愛情；最後一句「愛你愛甲白目眉」，是看完劇本直覺冒出來的。",
+          "publishedAt": "2026-11-23",
+          "reviewedAt": "2026-11-23",
+          "readingMinutes": 3,
+          "people": [
+            "茄子蛋",
+            "黃奇斌（阿斌）",
+            "謝耀德（阿德）",
+            "蔡鎧任（阿任）",
+            "殷振豪",
+            "邱澤",
+            "許瑋甯"
+          ],
+          "topics": [
+            "電影與影集",
+            "經典歌曲",
+            "台語歌"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "market",
+              "title": "躺在故鄉市場的正中央",
+              "body": "歌一開口就是一個畫面：「倒佇故鄉街市的中央，笑看世界咧轉踅」，躺在故鄉市場的正中央，笑著看世界轉來轉去。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)\n\n2021 年 4 月 3 日深夜，茄子蛋在官方微博貼出一篇創作手記，寫了這個畫面的由來。一開始，他先做了一段晃動的失真鋼琴，再一拍一拍打上重擊的大鼓，「像是要掉入一個漩渦或隧道裡」。他想像自己躺在故鄉最熟悉的傳統市場裡，看著整個世界流轉；想到這裡，就覺得自己掉進了電影的劇情：「我就是阿成」。[茄子蛋官方微博](https://web.archive.org/web/20220309060103/https://weibo.com/5341966116/K9fwI6Y3z)"
+            },
+            {
+              "id": "director",
+              "title": "「我要拍電影了！」",
+              "body": "阿成是電影《當男人戀愛時》的男主角。手記寫，大約一年前或更早，導演殷振豪睜著發亮的眼睛，興奮地跟他們說：「我要拍電影了！」三人二話不說，當場接下主題曲：「挺到底！」接著聊了很多老片、回憶裡的電影配樂，還有對瀟灑男人的想像，就像當初合作〈浪子回頭〉〈浪流連〉那樣。[茄子蛋官方微博](https://web.archive.org/web/20220309060103/https://weibo.com/5341966116/K9fwI6Y3z)\n\n寫歌期間，他們拿到劇本，看到哭；也先看了《不標準情人》，一樣看到哭。每次上妝做頭髮，就猛聽《古惑仔》原聲帶，想把自己帶回那個刀光劍影、男女敢愛敢恨的年代。[茄子蛋官方微博](https://web.archive.org/web/20220309060103/https://weibo.com/5341966116/K9fwI6Y3z)這是殷振豪第一次拍電影，也是茄子蛋第一次寫電影主題曲。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)殷振豪說，他拍片前就決定找茄子蛋，只給了一句指令：「催下去」。後製熬夜卡關時，他就把這首歌拿出來一直放。[台灣英文新聞](https://www.taiwannews.com.tw/ch/news/4151279)"
+            },
+            {
+              "id": "acheng",
+              "title": "一個討債的流氓",
+              "body": "電影裡，阿成（邱澤飾）靠討債維生，對誰都嬉皮笑臉。他在討債時被欠債的浩婷（許瑋甯飾）吸引，笨拙地畫了一份「塗鴉合約」，用每一次吃飯約會抵她的債。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)茄子蛋說，愛情完全改變了這個看似無賴的人，從拚命付出，到決心負責浩婷一輩子，「愛情肯定比想像中的模樣還要偉大，才能帶給戀愛中的男人這麼劇烈、艱難的轉變」。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)"
+            },
+            {
+              "id": "nineties",
+              "title": "九〇年代的鼓，舞曲的貝斯",
+              "body": "主唱阿斌說，這首歌取樣自三人出生的九〇年代：鼓模擬從前的電子音樂感，貝斯做類似舞曲的重拍，合成器挑有潮流感的音色，「就像電影劇中男主角阿成的故事一樣，急速地跌入愛情裡頭」。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)\n\n吉他手阿德說，這是他們作品裡最快、最有重量的一首，像不斷加速前進。阿任負責吉他 solo，他想到男人談戀愛多半單刀直入，所以彈得渾厚一點，「用有點無賴、有點霸道的方式，自顧自地表白」。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)手記也形容，阿任的吉他像強行闖入的愛，阿德的吉他像不停充血的推進器，從間奏一路把情緒推到副歌爆發。[茄子蛋官方微博](https://web.archive.org/web/20220309060103/https://weibo.com/5341966116/K9fwI6Y3z)"
+            },
+            {
+              "id": "eyebrows",
+              "title": "愛你愛甲白目眉",
+              "body": "最後一句「愛你愛甲白目眉」，阿斌說意思是會陪你一直到老，是他看完情緒起伏很大的劇本後，直覺想到的句子。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)[台灣英文新聞](https://www.taiwannews.com.tw/ch/news/4151279)2021 年 3 月 14 日白色情人節，他們選在 13 點 14 分讓 MV 上線，呼應這句一生一世的承諾。主題曲發布會上，許瑋甯第一次見到茄子蛋，說一定把歌練好，還想當他們演唱會的嘉賓。[Vogue Taiwan](https://www.vogue.com.tw/entertainment/article/man-in-love-theme-song)\n\n這首歌後來入圍第 58 屆金馬獎最佳原創電影歌曲，[中央社](https://www.cna.com.tw/news/firstnews/202111270258.aspx)隔年拿下第 33 屆金曲獎年度歌曲，評審說它的旋律和製作「都成功掌握音樂內涵與市場品味」。[關鍵評論網](https://www.thenewslens.com/article/169092)"
+            },
+            {
+              "id": "our-take",
+              "title": "我們的看法",
+              "body": "我們認為，這首歌最厲害的，是開頭那個畫面。一個人躺在市場正中央，周圍人來人往、世界照轉，他只是笑著看，好像早就不在乎別人怎麼看他。[銀河網路電台單曲介紹](https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709)這就是阿成：一個被所有人看不起、卻被愛整個翻過來的流氓。\n\n歌名把話說得很滿，「愛情你比我想的閣較偉大」；真正讓人相信的，卻是最後那句很土、很生活的「白目眉」。說要愛到眉毛都白了，比任何華麗的誓言都更像會做到的事。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2021-03-14",
+              "event": "白色情人節 13:14 發布 MV，舉行主題曲發布會。"
+            },
+            {
+              "date": "2021-04-03",
+              "event": "茄子蛋在官方微博貼出創作手記。"
+            },
+            {
+              "date": "2021-11-27",
+              "event": "第 58 屆金馬獎，入圍最佳原創電影歌曲。"
+            },
+            {
+              "date": "2022-07-02",
+              "event": "第 33 屆金曲獎年度歌曲。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "愛情你比我想的閣較偉大",
+            "artist": "茄子蛋",
+            "note": "前奏先聽那段晃動的失真鋼琴和一拍一拍的大鼓；間奏後留意兩把吉他怎麼把情緒推進副歌。"
+          },
+          "sources": [
+            {
+              "title": "茄子蛋EggPlantEgg 微博｜關於〈愛情你比我想的閣較偉大〉（2021-04-03 創作手記，Wayback 存檔）",
+              "url": "https://web.archive.org/web/20220309060103/https://weibo.com/5341966116/K9fwI6Y3z"
+            },
+            {
+              "title": "銀河網路電台｜茄子蛋『愛情你比我想的閣較偉大』單曲介紹（2021-03，含團員說明與台語歌詞，Wayback 存檔）",
+              "url": "https://web.archive.org/web/20210812151154/http://www.iwant-radio.com/showinformation.php?sisn=48709"
+            },
+            {
+              "title": "台灣英文新聞｜超洗腦！金獎樂團茄子蛋首度跨足電影 台灣愛情喜劇《當男人戀愛時》主題曲曝光（2021-03-15）",
+              "url": "https://www.taiwannews.com.tw/ch/news/4151279"
+            },
+            {
+              "title": "Vogue Taiwan｜《當男人戀愛時》主題曲浪漫發布，許瑋甯告白茄子蛋：「我要當演唱會嘉賓！」（2021-03-14）",
+              "url": "https://www.vogue.com.tw/entertainment/article/man-in-love-theme-song"
+            },
+            {
+              "title": "中央社｜艾怡良「我這個人」奪金馬獎最佳原創電影歌曲 一路哭上頒獎台（2021-11-27，含入圍名單）",
+              "url": "https://www.cna.com.tw/news/firstnews/202111270258.aspx"
+            },
+            {
+              "title": "The News Lens 關鍵評論網｜【2022金曲獎】年度歌曲茄子蛋《愛情你比我想的閣較偉大》（2022-07-02）",
+              "url": "https://www.thenewslens.com/article/169092"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "經典歌曲",
+            "製作幕後"
+          ],
+          "dailyKey": "2026-11-23:eggplantegg-ai-qing-ni-bi-wo-xiang-de-market-acheng"
+        },
+        {
           "id": "chainsmokers-coldplay-something-just-like-this-malibu-living-room",
           "city": "馬里布",
           "cityEn": "Malibu",
