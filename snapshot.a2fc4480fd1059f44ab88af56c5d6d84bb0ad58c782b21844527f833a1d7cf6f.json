@@ -62136,6 +62136,518 @@
     "cityStories": {
       "rows": [
         {
+          "id": "ashin-tang-di-fu-two-capitals-theme",
+          "city": "南京",
+          "cityEn": "Nanjing",
+          "artist": "五月天 阿信",
+          "lens": "電影與影集",
+          "category": "新歌觀察",
+          "anchor": "劇還沒開播，南京溧水的看片會上已經響起〈棠棣賦〉",
+          "work": "棠棣賦",
+          "year": "2026",
+          "accent": "violet",
+          "title": "五月天阿信〈棠棣賦〉：劇還沒開播，歌先在南京響起",
+          "deck": "《兩京十五日》看片會在南京溧水舉行時，主題曲〈棠棣賦〉已經提前上線。Hit FM 寫，這首歌由五月天阿信演唱、作詞、作曲，並與詹宏業共同製作。棠棣兩個字，專輯頁把它解成知己手足。",
+          "publishedAt": "2026-11-27",
+          "reviewedAt": "2026-11-27",
+          "readingMinutes": 3,
+          "people": [
+            "阿信",
+            "詹宏業",
+            "馬伯庸"
+          ],
+          "topics": [
+            "電影與影集",
+            "新歌觀察"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "南京",
+              "aliases": [
+                "Nanjing"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "中國江蘇白馬農業博覽中心",
+              "aliases": [
+                "江蘇白馬農業博覽中心"
+              ]
+            },
+            {
+              "type": "街區",
+              "label": "溧水",
+              "aliases": [
+                "Lishui"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "preview",
+              "title": "歌比劇先到南京",
+              "body": "劇還沒開播，主題曲已經在現場響起。交匯點新聞寫，2026 年 11 月 18 日，《兩京十五日》看片會在南京溧水的中國江蘇白馬農業博覽中心舉行。報導引出這句歌詞：「一場少年，年少一場，一諾風雨同往……」並稱一曲熱血磅礴的主題曲〈棠棣賦〉已經提前上線，為它所說的「運河傳奇」揭開序幕。換句話說，看片的人在見到正式播出之前，先聽見了這首歌。[交匯點新聞](https://jsnews.jschina.com.cn/jsyw/202611/t20261118_s6afd97cae4b05291cf1612ef.shtml)\n\n同一篇報導寫，這部電視劇由馬伯庸的同名原著改編，定於 11 月 20 日在央視八套黃金檔和愛奇藝同步開播。看片會上，原著作者馬伯庸，以及成毅、林更新等演員與劇迷見面。報導把故事放在明仁宗去世之後、太子必須在十五日內返京的路上，並寫京杭大運河是這條路會經過的地方。那是該報對劇情的整理，不是這首歌的創作訪談，文中只把它當成這首歌所屬劇集的背景。[交匯點新聞](https://jsnews.jschina.com.cn/jsyw/202611/t20261118_s6afd97cae4b05291cf1612ef.shtml)\n\n官方音樂錄影帶的標題，把歌名寫成〈棠棣賦〉，後面括了英文 Blood Beyond Blood，並標明這是電視劇《兩京十五日》的主題曲與片頭曲。歌先以單曲發行，再跟著即將開播的劇一起被介紹。[官方 MV](https://www.youtube.com/watch?v=CSbknnbfSpo)"
+            },
+            {
+              "id": "credits",
+              "title": "阿信一個人寫，兩個人做",
+              "body": "這首歌不是五月天全團的新單曲。Hit FM 專輯資料庫的發行欄，演出者寫的是「五月天阿信／Ashin」，發行公司是相信音樂，發行月份是 2026 年 11 月。同一頁接著寫：主題曲／片頭曲〈棠棣賦〉由五月天阿信演唱、作詞、作曲，五月天阿信與詹宏業共同擔任製作人。也就是詞、曲、人聲都是阿信，製作則是兩人一起掛名。[Hit FM](https://www.hitoradio.com/newweb/20720album)\n\nApple Music 台灣頁把發行日期寫成 2026 年 11 月 18 日，和南京看片會是同一天，並標 ℗ 2026 Bin Music International Limited。[Apple Music](https://music.apple.com/tw/album/%E6%A3%A0%E6%A3%A3%E8%B3%A6-%E9%9B%BB%E8%A6%96%E5%8A%87-%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E4%B8%BB%E9%A1%8C%E6%9B%B2-%E7%89%87%E9%A0%AD%E6%9B%B2-single/6835489317)Hit FM 寫相信音樂，Apple Music 寫 Bin Music，兩種標示並陳。它們是不是同一家、權利怎麼切，這次沒有查到一手說明，不寫成結論。\n\n錄音室在哪裡、編曲還有誰參與、這首歌寫了多久，這次都沒查到可核的一手名單或訪問，不補。"
+            },
+            {
+              "id": "title",
+              "title": "棠棣兩個字先把關係說完",
+              "body": "歌名裡的「棠棣」，Hit FM 專輯頁是這樣介紹的：歌詞以棠棣喻知己手足，詮釋患難同當、風雨共赴的羈絆；一字一句訴說跨越身分、不問姓氏的相守承諾。同一頁還有一段宣傳語氣的句子，說旋律鏗鏘熱血，前路險關重重，追捕如影隨形，依然並肩翻越高牆、衝破阻擋。這些話出自分頁文案，不是阿信接受訪問時親口說的，文中只把它當成專輯頁怎麼介紹這首歌。[Hit FM](https://www.hitoradio.com/newweb/20720album)\n\n交匯點新聞把這首歌放在劇的開頭位置，說它為即將展開的故事揭開序幕。看片會選在南京溧水，而南京本身也是劇裡會走到的地方。報導寫馬伯庸在現場談到南京的文史線索，並希望觀眾追完劇後能沿大運河去看那些城市。那些是作者和劇組的話，不是對〈棠棣賦〉創作過程的說明。[交匯點新聞](https://jsnews.jschina.com.cn/jsyw/202611/t20261118_s6afd97cae4b05291cf1612ef.shtml)\n\n我們的看法：〈棠棣賦〉先把「不同姓氏也能活成手足」說完，再交給即將開播的古裝劇當片頭。阿信這次送出來的不是五月天全團專輯裡的新歌，而是他為一部尚未開播的戲先寫好、先錄好、先發行的主題曲。歌比劇早一步到場，棠棣兩個字，已經把關係的方向定住了。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-11-18",
+              "event": "Apple Music 所寫單曲發行日；交匯點新聞所寫南京溧水看片會。"
+            },
+            {
+              "date": "2026-11-20",
+              "event": "交匯點新聞：電視劇《兩京十五日》於央視八套黃金檔與愛奇藝同步開播。"
+            }
+          ],
+          "places": [
+            {
+              "name": "中國江蘇白馬農業博覽中心（南京溧水）",
+              "detail": "交匯點新聞寫，2026 年 11 月 18 日《兩京十五日》看片會在此舉行，報導並引出主題曲〈棠棣賦〉的歌詞。錄音地點未知。沒有授權照片，改附地圖連結。",
+              "query": "中國江蘇白馬農業博覽中心 南京溧水",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9C%8B%E6%B1%9F%E8%98%87%E7%99%BD%E9%A6%AC%E8%BE%B2%E6%A5%AD%E5%8D%9A%E8%A6%BD%E4%B8%AD%E5%BF%83%2C+%E6%BA%A7%E6%B0%B4%2C+%E5%8D%97%E4%BA%AC",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "棠棣賦",
+            "artist": "五月天 阿信",
+            "note": "官方音樂錄影帶標題寫〈棠棣賦 Blood Beyond Blood〉，標明這是電視劇《兩京十五日》主題曲／片頭曲。"
+          },
+          "sources": [
+            {
+              "title": "Hit FM 專輯資料庫｜棠棣賦 / 五月天阿信 / Ashin",
+              "url": "https://www.hitoradio.com/newweb/20720album"
+            },
+            {
+              "title": "Apple Music 台灣｜棠棣賦（電視劇《兩京十五日》主題曲/片頭曲）- Single",
+              "url": "https://music.apple.com/tw/album/%E6%A3%A0%E6%A3%A3%E8%B3%A6-%E9%9B%BB%E8%A6%96%E5%8A%87-%E5%85%A9%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5-%E4%B8%BB%E9%A1%8C%E6%9B%B2-%E7%89%87%E9%A0%AD%E6%9B%B2-single/6835489317"
+            },
+            {
+              "title": "交匯點新聞／中國江蘇網｜馬伯庸成毅林更新「空降」南京，蘇產劇《兩京十五日》即將開播（2026-11-18）",
+              "url": "https://jsnews.jschina.com.cn/jsyw/202611/t20261118_s6afd97cae4b05291cf1612ef.shtml"
+            },
+            {
+              "title": "YouTube｜五月天阿信 Ashin［棠棣賦 Blood Beyond Blood］Official Music Video｜電視劇《兩京十五日》主題曲／片頭曲",
+              "url": "https://www.youtube.com/watch?v=CSbknnbfSpo"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "新歌觀察"
+          ],
+          "dailyKey": "2026-11-27:ashin-tang-di-fu-two-capitals-theme"
+        },
+        {
+          "id": "fenix-gaia-alishan-cypress",
+          "city": "阿里山",
+          "cityEn": "Alishan",
+          "artist": "FEniX",
+          "lens": "歌曲裡的人",
+          "category": "新歌觀察",
+          "anchor": "每段副歌換一個成員唱，象徵五人共同守護森林",
+          "work": "蓋亞",
+          "year": "2026",
+          "accent": "sage",
+          "title": "FEniX〈蓋亞〉：走到千年紅檜前，副歌不讓同一個人唱完",
+          "deck": "《FOREST》封面在阿里山水山巨木前拍成。主打〈蓋亞〉以森林使者為概念，夏浦洋參與兩成歌詞，副歌有日文「狩り」；李承隆說，每段副歌換不同成員唱，象徵五人一起守護森林。",
+          "publishedAt": "2026-11-27",
+          "reviewedAt": "2026-11-27",
+          "readingMinutes": 3,
+          "people": [
+            "FEniX",
+            "夏浦洋",
+            "陳峻廷",
+            "曹家齊",
+            "MAX",
+            "李承隆"
+          ],
+          "topics": [
+            "歌曲裡的人",
+            "新歌觀察"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "阿里山",
+              "aliases": [
+                "Alishan"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "水山巨木",
+              "aliases": [
+                "水山巨木紅檜"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "alishan",
+              "title": "走到一棵一千年的紅檜前面",
+              "body": "FEniX 拍第四張專輯《FOREST》的封面，選在阿里山。青年日報寫，五位成員夏浦洋、陳峻廷、曹家齊、MAX 和李承隆，穿上華麗西裝、搭配時髦跟靴，徒步深入山林，在樹齡約 1081 年的水山巨木紅檜前完成拍攝。那不是棚內的布景，是真的走進山裡。李承隆說，阿里山風景非常漂亮，深山森林的體感也相當舒服，讓他印象深刻。[青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351)三立新聞網也寫了同一處取景，並引他的話說，阿里山真的太美，整個深山森林體感也超級舒服。兩篇都把這次拍攝寫成回到臺灣取景：在沖繩、南法及義大利之後，這回走進自己土地上的森林。[三立新聞網](https://www.setn.com/news/1939916)\n\n青年日報寫，專輯名稱《FOREST》還藏著「FOR REST」的巧思，象徵休息與重新出發；夏浦洋把這段沉澱期形容為「洞穴時間」。同一篇報導說，成軍四年的他們，把兵役期間的沉潛化成再出發的力量。封面照把人送進深林，專輯名則把「休息」藏進「森林」裡。[青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351)\n\n《FOREST》由華納音樂在 2026 年 11 月 17 日實體、數位發行。前兩天，也就是 11 月 15 日，他們辦了一場聽歌會，邀請 50 名粉絲先聽三首新歌，並首度公開主打歌的舞蹈。三立新聞網寫，這場聽歌會是和 KKBOX 合作。聽歌會的確切場地，兩篇都沒寫，不補。[青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351)[三立新聞網](https://www.setn.com/news/1939916)"
+            },
+            {
+              "id": "gaia",
+              "title": "副歌不讓同一個人唱完",
+              "body": "首波主打是〈蓋亞〉。青年日報和三立新聞網都寫，這首歌以森林使者為概念，五人穿上綴有蕾絲、飄帶等古典元素的華麗西裝，在聽歌會上把舞蹈跳給現場看。封面在森林裡拍，主打歌的形象也還是在談森林，只是這次多了一層「使者」。[青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351)[三立新聞網](https://www.setn.com/news/1939916)\n\n歌詞怎麼分工，兩篇寫法一致：夏浦洋參與兩成歌詞創作，副歌裡的日文「狩り」意指狩獵。李承隆說，每段副歌由不同成員演唱，象徵五人共同守護森林。換句話說，副歌不是設計給某一個主唱從頭唱到尾，而是把同一句話交給不同的人接力。[青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351)[三立新聞網](https://www.setn.com/news/1939916)\n\n青年日報寫，〈蓋亞〉的音樂錄影帶在 11 月 17 日晚間 9 時首播，和專輯發行是同一天。[青年日報](https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351)MV 在哪裡拍、完整詞曲名單還有誰，這次沒查到可核的一手說明，不寫。也不把封面的阿里山，直接寫成 MV 的拍攝地。\n\n聽歌會當天還試聽了另外兩首新歌。三立新聞網寫，夏浦洋力保的〈弄壞〉走得更直接，MAX 說愛不必過度包裝；李承隆第一次看到 MAX 寫出那樣的詞，當場說要回去改自己的部分，陳峻廷則笑他若來寫，恐怕只會寫出帶狗散步的情歌。這些話是他們在介紹整張專輯時說的，不是〈蓋亞〉的歌詞說明，但可以看出這次回歸想把人寫得更成熟。〈都會客運〉則由 MAX 負責饒舌、李承隆譜旋律。主打仍是〈蓋亞〉，是他們先拿出來給現場聽、也先拍成主打形象的那一首。[三立新聞網](https://www.setn.com/news/1939916)"
+            },
+            {
+              "id": "view",
+              "title": "我們怎麼聽",
+              "body": "我們的看法：專輯封面把人送進阿里山的深林裡，主打歌卻不是一個人把副歌唱完。五個人輪流接同一句，〈蓋亞〉把「一起守」做成了編制。森林使者這個概念，最後是靠換人來完成的。封面的水山巨木是已經核過的取景地；MV 拍在哪裡，這次仍然不知道。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-11-15",
+              "event": "聽歌會，50 名粉絲先聽三首新歌（青年日報、三立新聞網）。"
+            },
+            {
+              "date": "2026-11-17",
+              "event": "《FOREST》實體、數位發行；青年日報寫〈蓋亞〉MV 當晚 21 時首播。"
+            }
+          ],
+          "places": [
+            {
+              "name": "水山巨木（阿里山）",
+              "detail": "青年日報、三立新聞網寫，《FOREST》封面在樹齡約 1081 年的水山巨木紅檜前拍攝；這是專輯封面取景，不是已核的〈蓋亞〉MV 拍攝地。沒有授權照片，改附地圖連結。",
+              "query": "阿里山 水山巨木",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=%E6%B0%B4%E5%B1%B1%E5%B7%A8%E6%9C%A8%2C+%E9%98%BF%E9%87%8C%E5%B1%B1",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "蓋亞",
+            "artist": "FEniX",
+            "note": "聽這首歌時可以對一下副歌：每段是不是換了不同的人。日文「狩り」出現在副歌。"
+          },
+          "sources": [
+            {
+              "title": "青年日報｜FEniX《FOREST》11/17 實體、數位全面發行（2026-11-16）",
+              "url": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=650351"
+            },
+            {
+              "title": "三立新聞網｜FEniX出道4年被「弄壞」！露骨歌詞嚇壞他　喊話：陪粉絲轉大人（2026-11-16）",
+              "url": "https://www.setn.com/news/1939916"
+            }
+          ],
+          "interests": [
+            "歌曲裡的人",
+            "新歌觀察"
+          ],
+          "dailyKey": "2026-11-27:fenix-gaia-alishan-cypress"
+        },
+        {
+          "id": "goo-goo-dolls-iris-four-string-hotel",
+          "city": "洛杉磯",
+          "cityEn": "Los Angeles",
+          "artist": "Goo Goo Dolls",
+          "lens": "電影與影集",
+          "category": "經典歌曲",
+          "anchor": "正在離婚的他住在洛杉磯旅館，用一把只剩四弦的吉他，為《City of Angels》寫歌",
+          "work": "Iris",
+          "year": "1998",
+          "accent": "sky",
+          "title": "Goo Goo Dolls〈Iris〉：旅館裡只剩四根弦，他問天使要說什麼",
+          "deck": "Warner 的音樂指導希望 John Rzeznik 為《City of Angels》寫一首歌。他當時住在洛杉磯的旅館、正處於離婚，看了《Wings of Desire》的錄影帶，用一把只剩四弦的吉他寫下〈Iris〉。後來在錄音室裡，弦樂一進來，他和同伴對看：回不去了。",
+          "publishedAt": "2026-11-27",
+          "reviewedAt": "2026-11-27",
+          "readingMinutes": 3,
+          "people": [
+            "Goo Goo Dolls",
+            "John Rzeznik",
+            "Danny Bramson",
+            "Rob Cavallo",
+            "Robby Takac"
+          ],
+          "topics": [
+            "電影與影集",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "洛杉磯",
+              "aliases": [
+                "Los Angeles"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "hotel",
+              "title": "旅館裡的四弦吉他",
+              "body": "John Rzeznik 對 Songwriting Magazine 說，靈感來自 Warner 的音樂指導 Danny Bramson。Bramson 打給他的經理人，說他覺得 Johnny 能為電影《City of Angels》寫出一首好歌。Rzeznik 後來知道，這部片子是《Wings of Desire》的翻拍，於是把那部電影又找回來看。先不是直接對著新片寫，而是先回到那部舊片裡。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)\n\n那時他正在離婚，住在洛杉磯的旅館裡。他說，那是一段非常密集、情緒很滿的日子。他問自己：如果我是片裡的那個人，我要對這個女孩說什麼？要怎麼解釋自己正在感覺的事？他想到的是：這個人願意放棄永生，只為感受人類會感受到的那些糟糕的事，只為覺得自己是人。他認識很多願意做相反選擇的人，好讓自己什麼都不必感覺。他說，就是那一刻，他知道自己要說什麼。歌不是先從副歌的句子開始，而是從這個問題開始。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)\n\n當天下午，他出門找了一捲《Wings of Desire》的錄影帶，坐下來邊看邊寫。身邊那把吉他只剩四根弦，也沒有備用的。他後來說，自己當時就是拿著那把四弦吉他，試著寫出一首夠好的歌。少了兩根弦，並沒有讓他停下來等樂器齊全。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)"
+            },
+            {
+              "id": "studio",
+              "title": "弦樂進來以後，回不去了",
+              "body": "他說，一般是音樂先來、歌詞在後。他先記下幾句湧出來的句子，再慢慢堆。先做的是一份 demo，裡面有一台小鼓機、一台小鍵盤，再加一些吉他。那是很小的編制。後來製作人 Rob Cavallo 把它帶到完全不同的層次。Cavallo 建議在音樂裡使用弦樂。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)\n\nRzeznik 說，他和 Robby Takac 來自車庫樂團和獨立搖滾的傳統。可當他們坐在洛杉磯一間華麗的錄音室裡，管弦樂團走進來開始演奏，他和 Robby 對看了一眼。他說，他們回不去了，然後決定：那就做吧。那間錄音室的名字，訪問裡沒有寫。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)\n\n他也說，直到今天，他仍不太能清楚指出這首歌的音樂來源。那是他們作為樂團、他也作為作者正在長出新樣子的時候。沒有多少人預期他們會寫出這麼大的一首歌。Songwriting Magazine 把這首歌的發行日寫成 1998 年 4 月 7 日，詞曲是 John Rzeznik，製作是 Goo Goo Dolls 與 Rob Cavallo。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)\n\n他還說，人年紀越大，要把心和頭腦同時打開，其實更難。人會變得比較硬，比較不容易彈回來。寫〈Iris〉的時候，他正處在那個既脆弱、又必須把話說清楚的位置：一邊是自己的離婚，一邊是電影裡那個願意放棄永生的人。他把這兩件事放在同一間旅館房間裡想完，才寫下這首歌。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)\n\n那把少了兩根弦的吉他，後來沒有成為這首歌被記住的聲音。人們記住的，多半是錄音室裡加大之後的那一層弦樂。可寫作發生的現場，仍然是一間沒寫出名字的旅館，和一捲下午才找來的錄影帶。[Songwriting Magazine](https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls)"
+            },
+            {
+              "id": "view",
+              "title": "我們怎麼聽",
+              "body": "我們的看法：後來很多人是在電影或廣播裡遇見〈Iris〉。可它寫出來的時候，只是洛杉磯旅館裡一把少了兩根弦的吉他，和一個正在離婚的人，想對電影裡的天使說的話。弦樂是後來才進來的。進來之後，這首歌就不再只是車庫裡的那一版了。旅館和錄音室都沒有寫出名字，文中也不補。Official Charts 的歌曲頁把這首歌在英國單曲榜的首次進榜，記在 1998 年 8 月。[Official Charts](https://www.officialcharts.com/songs/goo-goo-dolls-iris/)"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1998",
+              "event": "Songwriting Magazine 寫，這首歌是為電影《City of Angels》而寫。"
+            },
+            {
+              "date": "1998-04-07",
+              "event": "Songwriting Magazine 資料欄所寫發行日。"
+            }
+          ],
+          "places": [
+            {
+              "name": "洛杉磯的旅館",
+              "detail": "Rzeznik 對 Songwriting Magazine 說，寫這首歌時他正處於離婚，住在洛杉磯的旅館。旅館名稱未知。沒有授權照片，改附地圖連結，指向洛杉磯市區。",
+              "query": "Los Angeles",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+California",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "洛杉磯的錄音室",
+              "detail": "Rzeznik 說，Rob Cavallo 建議加入弦樂，他們在洛杉磯一間華麗的錄音室裡聽見管弦樂團演奏。錄音室名稱未知。沒有授權照片，改附地圖連結。",
+              "query": "Los Angeles recording studio",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Los+Angeles%2C+California",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Iris",
+            "artist": "Goo Goo Dolls",
+            "note": "注意後面進來的弦樂。Rzeznik 說，那是製作人 Rob Cavallo 建議加上去的；他自己先做的 demo 只有小鼓機、小鍵盤和吉他。"
+          },
+          "sources": [
+            {
+              "title": "Songwriting Magazine｜How I wrote 'Iris' by Goo Goo Dolls' John Rzeznik（2022-04-07）",
+              "url": "https://www.songwritingmagazine.co.uk/interviews/iris-goo-goo-dolls"
+            },
+            {
+              "title": "Official Charts｜Iris – Goo Goo Dolls 歌曲頁",
+              "url": "https://www.officialcharts.com/songs/goo-goo-dolls-iris/"
+            }
+          ],
+          "interests": [
+            "電影與影集",
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-11-27:goo-goo-dolls-iris-four-string-hotel"
+        },
+        {
+          "id": "holly-humberstone-killing-the-mood-spoken-bridge",
+          "city": "",
+          "cityEn": "",
+          "artist": "Holly Humberstone",
+          "lens": "製作幕後",
+          "category": "新歌觀察",
+          "anchor": "她和製作人在錄音室問：這段 spoken word 會不會走太遠，然後決定做下去",
+          "work": "Killing The Mood",
+          "year": "2026",
+          "accent": "coral",
+          "title": "Holly Humberstone〈Killing The Mood〉：差一點太直白的那座橋，她選擇留下",
+          "deck": "豪華增訂版《Cruel World…So It Ends》發行時，她說壓力已經放下，就在錄音室裡玩。〈Killing The Mood〉有一段 spoken word 的橋，她和製作人 Rob Milton 問過自己會不會走太遠，最後還是做了。她說，這一段以後在不同城市可以改著唱。",
+          "publishedAt": "2026-11-27",
+          "reviewedAt": "2026-11-27",
+          "readingMinutes": 3,
+          "people": [
+            "Holly Humberstone",
+            "Rob Milton",
+            "Silken Weinberg"
+          ],
+          "topics": [
+            "製作幕後",
+            "新歌觀察"
+          ],
+          "tags": [],
+          "sections": [
+            {
+              "id": "encore",
+              "title": "壓力放下之後",
+              "body": "環球音樂加拿大 2026 年 11 月 13 日的新聞稿寫，Holly Humberstone 在這一天發行第二張專輯《Cruel World》的豪華增訂版《Cruel World…So It Ends》。她把前面那張專輯說成一個自己會開、也會闔上的故事，然後說她希望 So It Ends 聽起來像安可。新聞稿引她的原話：Cruel World opens and closes as its own story, but I wanted So It Ends to feel like the encore. 這批新歌有五首，其中包括〈Killing The Mood〉；新聞稿把它寫成 future pop classic。詞曲是她和長期合作的製作人 Rob Milton 一起寫的。新聞稿還說，她是在重新找到自信、也更願意實驗的狀態裡，寫下這一批歌。[環球音樂加拿大](https://www.universalmusic.ca/2026/11/13/holly-humberstone-releases-deluxe-album-cruel-worldso-it-ends/)\n\n同一份新聞稿繼續引她的話：這些歌聽起來更篤定。壓力不在了，她就把寫專輯時找到的自由繼續往前用，只是在錄音室裡玩。原話是：These songs feel more self-assured. The pressure was off, so I ran with the freedom I’d found writing the album and was just having fun in the studio. I think you can really hear that. [環球音樂加拿大](https://www.universalmusic.ca/2026/11/13/holly-humberstone-releases-deluxe-album-cruel-worldso-it-ends/)錄音室在哪裡，新聞稿和後來的訪問都沒有寫，不補。\n\n官方音樂錄影帶由 Silken Weinberg 執導。新聞稿寫，影片裡她和樂團在自己的 Cruel World 裡演出。那是視覺上的世界，不是一個已核的地名。[環球音樂加拿大](https://www.universalmusic.ca/2026/11/13/holly-humberstone-releases-deluxe-album-cruel-worldso-it-ends/)[官方 MV](https://www.youtube.com/watch?v=VBKYro8i9us)"
+            },
+            {
+              "id": "bridge",
+              "title": "那一段說出口的橋段",
+              "body": "OnesToWatch 在同一天刊出訪問。她先談到自己聽了很多不同類型的音樂，當時也聽了許多 ABBA；她從前大概以為自己會一直做那種有點髒、有點臥室感的流行歌，後來才接受作品會跟著自己變。她說，重點是不要丟掉那些私密、自傳性的歌詞，其餘的聲音可以去實驗。[OnesToWatch](https://www.onestowatch.com/en/blog/holly-humberstones-first-deluxe-is-an-era-we-never-want-to-end-q-a)\n\n談到〈Killing The Mood〉，她說這本來就是一首相當直白的流行歌，而她和製作人 Rob 在錄音室裡常常問自己：這能做嗎？我們是不是走太遠了？尤其是那一段把話說出來的橋。她的決定很乾脆，原話是：Fuck it, yeah. We should do it. 她接著說，只要這段話裝進旋律裡，就能多走一步；如果要讓它單獨成立，寫作就必須夠好。她自己後來才發現，整張增訂版裡這類橋段不少，直到專輯組起來，才意識到自己做了這麼多。問起以後怎麼唱，她說喜歡把這一段帶到現場再改，也許換城市就換幾句。對她來說，這是整首歌裡可以彈性處理、跟著場合調整的部分。[OnesToWatch](https://www.onestowatch.com/en/blog/holly-humberstones-first-deluxe-is-an-era-we-never-want-to-end-q-a)\n\n訪問裡她也談到，自己還年輕，幾乎每天都覺得自己是不一樣的人，寫歌反而是在辨認這些不同的樣子。她說，創作有趣的地方，就是作品會跟著你走，不必永遠停在同一種聲音裡。只要歌詞還是從自己的生活長出來，聲音要往哪個方向試，她願意放開。這段話不是單獨在講〈Killing The Mood〉，卻和她在新聞稿裡說的「壓力不在了，所以敢玩」對得上。[OnesToWatch](https://www.onestowatch.com/en/blog/holly-humberstones-first-deluxe-is-an-era-we-never-want-to-end-q-a)\n\n新聞稿還寫，11 月 27 日她會為 Record Store Day Black Friday 發行限量 7 吋《Live From Cruel World》，收的是 BBC Radio 1 Live Lounge 的現場錄音；這個冬天她也會先去洛杉磯，為 Gracie Abrams 在 Kia Forum 的三場演出暖場。那是同一輪宣傳裡的行程，不是〈Killing The Mood〉的創作過程。[環球音樂加拿大](https://www.universalmusic.ca/2026/11/13/holly-humberstone-releases-deluxe-album-cruel-worldso-it-ends/)"
+            },
+            {
+              "id": "view",
+              "title": "我們怎麼聽",
+              "body": "我們的看法：〈Killing The Mood〉把那句差一點太直白的話留了下來。壓力不在的時候，她選擇不要把它刪掉，還預留了以後在不同城市改著唱的空間。這首歌的鬆，不是把話收掉，是把那座橋留下。錄音室在哪裡仍然未知，也不把音樂錄影帶裡的 Cruel World 當成一個真實地名。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "2026-11-27",
+              "event": "新聞稿所寫 Record Store Day Black Friday 限量 7 吋《Live From Cruel World》發行日。"
+            },
+            {
+              "date": "2026-11-13",
+              "event": "《Cruel World…So It Ends》發行；環球音樂加拿大新聞稿與 OnesToWatch 訪問同日刊出。"
+            }
+          ],
+          "places": [],
+          "listen": {
+            "title": "Killing The Mood",
+            "artist": "Holly Humberstone",
+            "note": "聽副歌之後那一段把話說出來的橋。官方音樂錄影帶由 Silken Weinberg 執導，她和樂團在畫面裡一起演奏。"
+          },
+          "sources": [
+            {
+              "title": "Universal Music Canada｜Holly Humberstone releases deluxe album “Cruel World…So It Ends”（2026-11-13）",
+              "url": "https://www.universalmusic.ca/2026/11/13/holly-humberstone-releases-deluxe-album-cruel-worldso-it-ends/"
+            },
+            {
+              "title": "OnesToWatch｜Holly Humberstone's First Deluxe Is An Era We Never Want To End [Q&A]（2026-11-13）",
+              "url": "https://www.onestowatch.com/en/blog/holly-humberstones-first-deluxe-is-an-era-we-never-want-to-end-q-a"
+            },
+            {
+              "title": "YouTube｜Holly Humberstone - Killing The Mood (Official Video)",
+              "url": "https://www.youtube.com/watch?v=VBKYro8i9us"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "新歌觀察"
+          ],
+          "dailyKey": "2026-11-27:holly-humberstone-killing-the-mood-spoken-bridge"
+        },
+        {
+          "id": "shakin-stevens-merry-christmas-everyone-held-back",
+          "city": "愛丁堡",
+          "cityEn": "Edinburgh",
+          "artist": "Shakin' Stevens",
+          "lens": "製作幕後",
+          "category": "經典歌曲",
+          "anchor": "1984 年他聽見 Band Aid 要發耶誕歌，把已經錄好的歌按下一年",
+          "work": "Merry Christmas Everyone",
+          "year": "1985",
+          "accent": "crimson",
+          "title": "Shakin' Stevens〈Merry Christmas Everyone〉：熱浪裡寫成，又被按下一年",
+          "deck": "Bob Heatlie 在夏天的熱浪裡、穿著短褲搖鈴鐺，把 demo 錄在自己的車庫。Shakin’ Stevens 覺得這首歌不該當第二，遇上 Band Aid，他把發行往後挪了一整年。音樂錄影帶後來去瑞典拍，因為沒下雪，只得租造雪機。",
+          "publishedAt": "2026-11-27",
+          "reviewedAt": "2026-11-27",
+          "readingMinutes": 3,
+          "people": [
+            "Shakin' Stevens",
+            "Bob Heatlie",
+            "Dave Edmunds"
+          ],
+          "topics": [
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "tags": [
+            {
+              "type": "城市",
+              "label": "愛丁堡",
+              "aliases": [
+                "Edinburgh"
+              ]
+            },
+            {
+              "type": "打卡點",
+              "label": "Santaworld",
+              "aliases": [
+                "Santa World"
+              ]
+            }
+          ],
+          "sections": [
+            {
+              "id": "held",
+              "title": "把歌留到第二年",
+              "body": "Shakin' Stevens 對《衛報》說，他一直覺得，能有一首耶誕冠軍是件好事：一年裡就算沒人記得你，到了耶誕也會記得。詞是 Bob Heatlie 專門為他寫的。他聽完 demo，覺得裡面該有的都有了，節慶歌詞、鈴鐺，還能讓他看見雪。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)\n\n可是 1984 年，Band Aid 的〈Do They Know It's Christmas?〉要發行。他對《衛報》說，沒有辦法跟這麼高調的慈善單曲競爭，所以把這首歌留了一年。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)Official Charts 的歌曲頁也寫了同一件事：他聽說 Band Aid 和 Wham! 都要發耶誕歌，決定把〈Merry Christmas Everyone〉延後整整一年，並引他的話，說他覺得這首歌該站上第一，而不想當第二。歌曲頁還寫，這首歌第一次錄音是在 1984 年，正式發行則是 1985 年 11 月 25 日。也就是歌先錄好，再被他按住，等到第二年的冬天。[Official Charts](https://www.officialcharts.com/songs/shakin-stevens-merry-christmas-everyone/)"
+            },
+            {
+              "id": "garage",
+              "title": "熱浪裡搖著鈴的demo",
+              "body": "Heatlie 對《衛報》說，他一直想給 Shaky 寫一首耶誕單曲。他先在鍵盤上做出耶誕的聲音，歌詞就跟著出來：雪在下、孩子在玩、mistletoe 下的吻、蠟燭、派對、舊唱片，節慶該有的他全塞進去。寫這首歌的時候是夏天，還在熱浪裡。他穿著短褲，渾身是汗，站在那裡錄製、搖著鈴鐺，心裡想：這太瘋狂了。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)\n\nDemo 是他在車庫裡自己錄的，薩克斯風、鼓，全部自己來。車庫在哪一座城市，訪問裡沒有寫死。Stevens 說，Bob 的 demo 已經很好，他和製作人 Dave Edmunds 基本上是照著抄，加上 rockabilly 的拍子、好聽的和聲，還有家庭能對上的畫面。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)Heatlie 後來說得更鋒利：Dave Edmunds 大概只說了一句「照這樣做」，就拿了可觀的製作費。這是寫詞的人自己的形容，不是 Edmunds 的說法。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)\n\nOfficial Charts 寫，Heatlie 也寫過 Aneka 的〈Japanese Boy〉；Edmunds 則做過英國的耶誕冠軍。一首在熱浪裡完成的 demo，後來被做成冬天會反覆出現的歌。[Official Charts](https://www.officialcharts.com/songs/shakin-stevens-merry-christmas-everyone/)"
+            },
+            {
+              "id": "sweden",
+              "title": "瑞典的造雪機與那件毛衣",
+              "body": "那時流行音樂在電視上，多半是兒童節目和 Top of the Pops。Stevens 說，他們把音樂錄影帶拍在瑞典的 Santaworld。片中的小女孩是贏了比賽、去到拉普蘭的；他自己的兒子，是那個堆滿玩具的小木屋裡的孩子之一。拍攝很好玩。飾演聖誕老人的是演員，你會在食堂看見他抽煙、喝雪利酒，鬍子還摘不下來。因為當時沒下雪，他們得租造雪機。他還補了一句，自己拍另一支〈It's Raining〉的影片時，也是用造雨機，結果整個人濕透。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)\n\n他說，後來常有人拿那件難堪的耶誕毛衣開玩笑，可他當時沒有造型師，只是隨手抓了件衣服套上。打雪仗是劇本裡就有的。他還故意摔倒，好讓畫面看起來真。Duran Duran 後來在 Saturday Superstore 的 Video Vote 裡看見，笑他跌倒。他們不知道，那是他故意的。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)\n\n他對《衛報》說，那時 Radio 1 的耶誕播放名單只維持三週，能爬到頂點的時間並不長。他很高興人們每年還在放這首歌，能成為耶誕的一部分，是件好事。Heatlie 記得歌第一次走紅時，他走在愛丁堡的購物中心，看見兩個女孩戴著耶誕帽，挽著手、用很大的聲音唱這首歌。他覺得，那幾乎比看見 Shaky 上電視還好。兩人也還維持著每年互寄耶誕卡的習慣。[The Guardian](https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone)\n\n我們的看法：這首歌後來變成冬天會再出現的歌。可它先在熱浪裡的車庫成形，又在 Band Aid 的那年被按下一年，才送到聖誕節。造雪機、隨手套上的毛衣、故意摔倒的那一下，全是後來才補上去的冬天。"
+            }
+          ],
+          "timeline": [
+            {
+              "date": "1984",
+              "event": "Official Charts：第一次錄音；《衛報》：因 Band Aid 決定延後發行。"
+            },
+            {
+              "date": "1985-11-25",
+              "event": "Official Charts 歌曲頁所寫正式發行日。"
+            }
+          ],
+          "places": [
+            {
+              "name": "Heatlie 的車庫",
+              "detail": "Heatlie 對《衛報》說，demo 是他在車庫裡自己錄的。車庫在哪一座城市，訪問裡沒有寫死。愛丁堡是他說自己曾在那裡的錄音室工作、後來又在當地購物中心聽見有人唱這首歌的城市。沒有授權照片，改附地圖連結，指向愛丁堡市區。",
+              "query": "Edinburgh",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Edinburgh%2C+Scotland",
+                "label": "Google 地圖"
+              }
+            },
+            {
+              "name": "Santaworld（瑞典）",
+              "detail": "Stevens 對《衛報》說，音樂錄影帶拍在瑞典的 Santaworld，片中小女孩贏了去拉普蘭的比賽；因當時沒下雪，他們租了造雪機。沒有授權照片，改附地圖連結。",
+              "query": "Santaworld Sweden",
+              "streetView": {
+                "url": "https://www.google.com/maps/search/?api=1&query=Santaworld%2C+Sweden",
+                "label": "Google 地圖"
+              }
+            }
+          ],
+          "listen": {
+            "title": "Merry Christmas Everyone",
+            "artist": "Shakin' Stevens",
+            "note": "聽開頭的鈴鐺和 rockabilly 拍子。Heatlie 說 demo 裡的樂器是他自己錄的；Stevens 說成品基本上是照著那份 demo 做的。"
+          },
+          "sources": [
+            {
+              "title": "The Guardian｜Shakin' Stevens: how we made Merry Christmas Everyone（2018-12-18）",
+              "url": "https://www.theguardian.com/music/2018/dec/18/how-we-made-shakin-stevens-merry-christmas-everyone"
+            },
+            {
+              "title": "Official Charts｜Merry Christmas Everyone – Shakin' Stevens 歌曲頁",
+              "url": "https://www.officialcharts.com/songs/shakin-stevens-merry-christmas-everyone/"
+            }
+          ],
+          "interests": [
+            "製作幕後",
+            "經典歌曲"
+          ],
+          "dailyKey": "2026-11-27:shakin-stevens-merry-christmas-everyone-held-back"
+        },
+        {
           "id": "brenda-lee-rockin-around-the-christmas-tree-cold-studio",
           "city": "納許維爾",
           "cityEn": "Nashville",
